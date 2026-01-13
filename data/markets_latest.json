@@ -1,285 +1,285 @@
 {
-  "generated_at_utc": "2026-01-13T23:20:06Z",
+  "generated_at_utc": "2026-01-13T23:37:12Z",
   "items": [
     {
       "type": "crypto",
       "symbol": "BTCUSDT",
       "display": "BTC/USDT",
-      "price": 95576.0,
-      "change_pct_24h": 4.95857,
-      "volume_24h": 65080338901.0,
+      "price": 95211.0,
+      "change_pct_24h": 4.50176,
+      "volume_24h": 65478693900.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/BTCUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "ETHUSDT",
       "display": "ETH/USDT",
-      "price": 3332.82,
-      "change_pct_24h": 7.89864,
-      "volume_24h": 32659041741.0,
+      "price": 3315.99,
+      "change_pct_24h": 7.35252,
+      "volume_24h": 28274498166.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/ETHUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "SOLUSDT",
       "display": "SOL/USDT",
-      "price": 146.89,
-      "change_pct_24h": 5.93949,
-      "volume_24h": 7750545584.0,
+      "price": 145.85,
+      "change_pct_24h": 4.80007,
+      "volume_24h": 7917145716.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/SOLUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "BNBUSDT",
       "display": "BNB/USDT",
-      "price": 945.65,
-      "change_pct_24h": 4.61661,
-      "volume_24h": 2951576516.0,
+      "price": 942.68,
+      "change_pct_24h": 4.13413,
+      "volume_24h": 3015830551.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/BNBUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "XRPUSDT",
       "display": "XRP/USDT",
-      "price": 2.18,
-      "change_pct_24h": 6.3888,
-      "volume_24h": 4018845245.0,
+      "price": 2.16,
+      "change_pct_24h": 5.28797,
+      "volume_24h": 4373429699.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/XRPUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "ADAUSDT",
       "display": "ADA/USDT",
-      "price": 0.425315,
-      "change_pct_24h": 10.21658,
-      "volume_24h": 830718021.0,
+      "price": 0.420838,
+      "change_pct_24h": 8.89557,
+      "volume_24h": 835018715.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/ADAUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "DOGEUSDT",
       "display": "DOGE/USDT",
-      "price": 0.14986,
-      "change_pct_24h": 9.90648,
-      "volume_24h": 1775826130.0,
+      "price": 0.148455,
+      "change_pct_24h": 8.63449,
+      "volume_24h": 1806058003.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/DOGEUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "AVAXUSDT",
       "display": "AVAX/USDT",
-      "price": 14.79,
-      "change_pct_24h": 9.61624,
-      "volume_24h": 586678294.0,
+      "price": 14.73,
+      "change_pct_24h": 9.01796,
+      "volume_24h": 663173303.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/AVAXUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "LINKUSDT",
       "display": "LINK/USDT",
-      "price": 14.11,
-      "change_pct_24h": 8.2379,
-      "volume_24h": 591655796.0,
+      "price": 14.04,
+      "change_pct_24h": 7.50994,
+      "volume_24h": 599706699.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/LINKUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "MATICUSDT",
       "display": "MATIC/USDT",
-      "price": 0.157612,
-      "change_pct_24h": 4.29865,
-      "volume_24h": 226771597.0,
+      "price": 0.157107,
+      "change_pct_24h": 4.48342,
+      "volume_24h": 228162642.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/MATICUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "DOTUSDT",
       "display": "DOT/USDT",
-      "price": 2.31,
-      "change_pct_24h": 12.89175,
-      "volume_24h": 332841147.0,
+      "price": 2.28,
+      "change_pct_24h": 11.18348,
+      "volume_24h": 335247322.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/DOTUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "TRXUSDT",
       "display": "TRX/USDT",
-      "price": 0.305444,
-      "change_pct_24h": 2.01607,
-      "volume_24h": 762610236.0,
+      "price": 0.306372,
+      "change_pct_24h": 2.28914,
+      "volume_24h": 748825167.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/TRXUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "LTCUSDT",
       "display": "LTC/USDT",
-      "price": 78.7,
-      "change_pct_24h": 3.6477,
-      "volume_24h": 901952571.0,
+      "price": 77.95,
+      "change_pct_24h": 2.58092,
+      "volume_24h": 935077410.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/LTCUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "BCHUSDT",
       "display": "BCH/USDT",
-      "price": 619.61,
-      "change_pct_24h": -0.01618,
-      "volume_24h": 737234029.0,
+      "price": 617.82,
+      "change_pct_24h": -0.64718,
+      "volume_24h": 738779556.0,
       "rvol": null,
       "volume_label": null,
-      "trend": "sideways",
+      "trend": "bearish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/BCHUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "UNIUSDT",
       "display": "UNI/USDT",
-      "price": 5.78,
-      "change_pct_24h": 7.98363,
-      "volume_24h": 321585646.0,
+      "price": 5.73,
+      "change_pct_24h": 6.83988,
+      "volume_24h": 325618097.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/UNIUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "ATOMUSDT",
       "display": "ATOM/USDT",
-      "price": 2.66,
-      "change_pct_24h": 6.14765,
-      "volume_24h": 63485413.0,
+      "price": 2.63,
+      "change_pct_24h": 5.68252,
+      "volume_24h": 63875388.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/ATOMUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "ICPUSDT",
       "display": "ICP/USDT",
-      "price": 3.61,
-      "change_pct_24h": 16.19409,
-      "volume_24h": 265543389.0,
+      "price": 3.59,
+      "change_pct_24h": 15.079,
+      "volume_24h": 265978133.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/ICPUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "FILUSDT",
       "display": "FIL/USDT",
-      "price": 1.59,
-      "change_pct_24h": 8.6153,
-      "volume_24h": 205689519.0,
+      "price": 1.57,
+      "change_pct_24h": 7.36279,
+      "volume_24h": 212154981.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/FILUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "APTUSDT",
       "display": "APT/USDT",
-      "price": 1.99,
-      "change_pct_24h": 12.5729,
-      "volume_24h": 171018751.0,
+      "price": 1.97,
+      "change_pct_24h": 11.26236,
+      "volume_24h": 184808302.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/APTUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "crypto",
       "symbol": "ARBUSDT",
       "display": "ARB/USDT",
-      "price": 0.222999,
-      "change_pct_24h": 11.32873,
-      "volume_24h": 148899714.0,
+      "price": 0.221419,
+      "change_pct_24h": 10.19788,
+      "volume_24h": 149743634.0,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "CoinGecko",
       "source_url": "https://www.tradingview.com/symbols/ARBUSDT/",
-      "last_update_utc": "2026-01-13T23:19:56Z"
+      "last_update_utc": "2026-01-13T23:37:01Z"
     },
     {
       "type": "stock",
@@ -293,7 +293,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/GSPC/",
-      "last_update_utc": "2026-01-13T23:20:00Z"
+      "last_update_utc": "2026-01-13T23:37:05Z"
     },
     {
       "type": "stock",
@@ -307,7 +307,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/NDX/",
-      "last_update_utc": "2026-01-13T23:20:00Z"
+      "last_update_utc": "2026-01-13T23:37:06Z"
     },
     {
       "type": "stock",
@@ -321,7 +321,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/DJI/",
-      "last_update_utc": "2026-01-13T23:20:03Z"
+      "last_update_utc": "2026-01-13T23:37:08Z"
     },
     {
       "type": "stock",
@@ -335,7 +335,7 @@
       "trend": "bullish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/AAPL/",
-      "last_update_utc": "2026-01-13T23:20:03Z"
+      "last_update_utc": "2026-01-13T23:37:08Z"
     },
     {
       "type": "stock",
@@ -349,7 +349,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/MSFT/",
-      "last_update_utc": "2026-01-13T23:20:03Z"
+      "last_update_utc": "2026-01-13T23:37:09Z"
     },
     {
       "type": "stock",
@@ -363,7 +363,7 @@
       "trend": "bullish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/NVDA/",
-      "last_update_utc": "2026-01-13T23:20:04Z"
+      "last_update_utc": "2026-01-13T23:37:09Z"
     },
     {
       "type": "stock",
@@ -377,7 +377,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/AMZN/",
-      "last_update_utc": "2026-01-13T23:20:04Z"
+      "last_update_utc": "2026-01-13T23:37:09Z"
     },
     {
       "type": "stock",
@@ -391,7 +391,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/TSLA/",
-      "last_update_utc": "2026-01-13T23:20:04Z"
+      "last_update_utc": "2026-01-13T23:37:10Z"
     },
     {
       "type": "stock",
@@ -405,7 +405,7 @@
       "trend": "bullish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/GOOGL/",
-      "last_update_utc": "2026-01-13T23:20:05Z"
+      "last_update_utc": "2026-01-13T23:37:10Z"
     },
     {
       "type": "stock",
@@ -419,7 +419,7 @@
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/META/",
-      "last_update_utc": "2026-01-13T23:20:05Z"
+      "last_update_utc": "2026-01-13T23:37:10Z"
     },
     {
       "type": "fx",
@@ -430,7 +430,7 @@
       "trend": "sideways",
       "source_name": "ReferenceSource",
       "source_url": "https://www.tradingview.com/symbols/USDPKR/",
-      "last_update_utc": "2026-01-13T23:20:05Z"
+      "last_update_utc": "2026-01-13T23:37:11Z"
     },
     {
       "type": "fx",
@@ -441,7 +441,7 @@
       "trend": "bullish",
       "source_name": "ReferenceSource",
       "source_url": "https://www.tradingview.com/symbols/EURUSD/",
-      "last_update_utc": "2026-01-13T23:20:05Z"
+      "last_update_utc": "2026-01-13T23:37:11Z"
     }
   ]
 }
