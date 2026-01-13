@@ -1,21 +1,20 @@
 {
-  "generated_at_utc": "2026-01-13T12:30:00Z",
+  "generated_at_utc": "2026-01-13T20:33:12Z",
   "sessions": [
     {
       "market": "US",
       "asset_proxy": "^GSPC",
-      "session_open_utc": "2026-01-13T14:30:00Z",
-      "now_utc": "2026-01-13T12:30:00Z",
-      "status": "pre_open",
+      "now_utc": "2026-01-13T20:33:12Z",
+      "status": "open",
       "windows": [
         {
           "hours": 1,
-          "direction": "bullish",
-          "net_move_pct": 0.35,
+          "direction": "bearish",
+          "net_move_pct": -0.46966793602656104,
           "volatility_label": "normal",
-          "volume_label": "high",
-          "reason_en": "Higher highs + rising volume after open.",
-          "reason_ur": "اوپن کے بعد ہائر ہائیز + بڑھتا والیوم۔"
+          "volume_label": "normal",
+          "reason_en": "MVP uses daily change as proxy. Next version will compute real 1h/3h/5h/7h trends.",
+          "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے رجحانات نکالے گا۔"
         }
       ]
     }
