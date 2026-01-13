@@ -1,37 +1,25 @@
 #!/usr/bin/env python3
-"""
-fetch_update.py
-- Fetch market quotes (crypto, stocks, FX) using free endpoints (best-effort).
-- Fetch news from RSS feeds (best-effort).
-- Produce data/*.json and archive/news/YYYY-MM-DD.json.
-Notes:
-- Free sources can rate-limit or change. Script is resilient: if a fetch fails, it keeps previous values.
-- Urdu fields: MVP uses a simple fallback (copy English) if no translator is configured.
-  You can later plug in an offline translator (Argos) or any other method.
-"""
 from __future__ import annotations
 
 import csv
 import hashlib
 import json
-import os
 import re
-import time
 from dataclasses import dataclass
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, List, Optional, Tuple
+from xml.etree import ElementTree as ET
 
 import requests
 from dateutil import parser as dtparser
-from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 ARCH_NEWS = ROOT / "archive" / "news"
 
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "news-dashboard/1.0 (+github actions)"})
+SESSION.headers.update({"User-Agent": "news-dashboard/1.1 (+github actions)"})
 
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)
@@ -48,7 +36,7 @@ def write_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
-def safe_get(url: str, timeout: int = 20) -> Optional[requests.Response]:
+def safe_get(url: str, timeout: int = 25) -> Optional[requests.Response]:
     try:
         r = SESSION.get(url, timeout=timeout)
         if r.status_code >= 400:
@@ -59,24 +47,16 @@ def safe_get(url: str, timeout: int = 20) -> Optional[requests.Response]:
 
 # ---------------- Markets ----------------
 def binance_24h(symbol: str) -> Optional[dict]:
-    # symbol like BTCUSDT
     url = f"https://api.binance.com/api/v3/ticker/24hr?symbol={symbol}"
     r = safe_get(url)
     if not r:
         return None
     try:
-        j = r.json()
-        return j
+        return r.json()
     except Exception:
         return None
 
 def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
-    """
-    Returns (close, change_pct_1d) best-effort.
-    Uses stooq daily CSV. For indices, stooq uses e.g. ^spx? but in stooq it's often "spx" or "ndx".
-    We'll map common ones.
-    """
-    # Map TradingView-like symbols to stooq tickers
     m = {
         "^GSPC": "^spx",
         "^NDX": "^ndx",
@@ -87,7 +67,7 @@ def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
         "AMZN": "amzn.us",
         "TSLA": "tsla.us",
         "GOOGL": "googl.us",
-        "META": "meta.us",
+        "META": "meta.us"
     }
     t = m.get(symbol, symbol)
     url = f"https://stooq.com/q/d/l/?s={t}&i=d"
@@ -102,46 +82,33 @@ def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
         prev = rows[-2]
         close = float(last["Close"])
         prev_close = float(prev["Close"])
-        if prev_close == 0:
-            chg = 0.0
-        else:
-            chg = (close - prev_close) / prev_close * 100.0
+        chg = 0.0 if prev_close == 0 else (close - prev_close) / prev_close * 100.0
         return close, chg
     except Exception:
         return None
 
 def fx_rate(pair: str) -> Optional[Tuple[float, float]]:
-    """
-    Free best-effort FX via exchangerate.host (may change).
-    pair like "EUR/USD" or "USD/PKR"
-    Returns (rate, change_pct_1d) where change is computed using yesterday rate if available.
-    """
     base, quote = pair.split("/")
-    # latest
     url_latest = f"https://api.exchangerate.host/latest?base={base}&symbols={quote}"
     r1 = safe_get(url_latest)
     if not r1:
         return None
     try:
-        latest = r1.json()["rates"][quote]
+        latest = float(r1.json()["rates"][quote])
     except Exception:
         return None
 
-    # yesterday
     yday = (utc_now().date() - timedelta(days=1)).isoformat()
     url_y = f"https://api.exchangerate.host/{yday}?base={base}&symbols={quote}"
     r2 = safe_get(url_y)
     if not r2:
-        return (float(latest), 0.0)
+        return (latest, 0.0)
     try:
-        y = r2.json()["rates"][quote]
-        if y:
-            chg = (float(latest) - float(y)) / float(y) * 100.0
-        else:
-            chg = 0.0
-        return float(latest), chg
+        y = float(r2.json()["rates"][quote])
+        chg = 0.0 if y == 0 else (latest - y) / y * 100.0
+        return (latest, chg)
     except Exception:
-        return (float(latest), 0.0)
+        return (latest, 0.0)
 
 def compute_trend_from_change(chg_pct: float, threshold: float = 0.15) -> str:
     if chg_pct > threshold:
@@ -159,24 +126,21 @@ def volume_label_from_rvol(rvol: Optional[float], high: float = 1.2, low: float 
         return "low"
     return "normal"
 
-def build_markets(config: dict) -> dict:
+def build_markets(cfg: dict) -> dict:
     prev = read_json(DATA / "markets_latest.json") or {"items": []}
     prev_map = {it.get("symbol"): it for it in prev.get("items", [])}
 
     out_items: List[dict] = []
 
     # Crypto
-    for sym in config["watchlist_defaults"]["crypto"]:
+    for sym in cfg["watchlist_defaults"]["crypto"]:
         j = binance_24h(sym)
         if j:
             price = float(j["lastPrice"])
             chg = float(j["priceChangePercent"])
             vol = float(j.get("quoteVolume", 0.0))
-            # RVOL needs history; MVP approximates by using a soft label from volume compared to previous stored volume
             prev_vol = float(prev_map.get(sym, {}).get("volume_24h", 0.0) or 0.0)
-            rvol = None
-            if prev_vol > 0:
-                rvol = vol / prev_vol
+            rvol = (vol / prev_vol) if prev_vol > 0 else None
             trend = compute_trend_from_change(chg, threshold=0.30)
             item = {
                 "type": "crypto",
@@ -186,14 +150,13 @@ def build_markets(config: dict) -> dict:
                 "change_pct_24h": chg,
                 "volume_24h": vol,
                 "rvol": rvol,
-                "volume_label": volume_label_from_rvol(rvol, **config["rvol_thresholds"]),
+                "volume_label": volume_label_from_rvol(rvol, **cfg["rvol_thresholds"]),
                 "trend": trend,
                 "source_name": "Binance",
                 "source_url": f"https://www.tradingview.com/symbols/{sym}/",
                 "last_update_utc": iso_z(utc_now()),
             }
         else:
-            # fallback to previous
             item = prev_map.get(sym)
             if not item:
                 continue
@@ -202,7 +165,7 @@ def build_markets(config: dict) -> dict:
         out_items.append(item)
 
     # Stocks (daily)
-    for sym in config["watchlist_defaults"]["stocks"]:
+    for sym in cfg["watchlist_defaults"]["stocks"]:
         res = stooq_last(sym)
         if res:
             price, chg = res
@@ -230,7 +193,7 @@ def build_markets(config: dict) -> dict:
         out_items.append(item)
 
     # FX
-    for pair in config["watchlist_defaults"]["fx"]:
+    for pair in cfg["watchlist_defaults"]["fx"]:
         res = fx_rate(pair)
         if res:
             rate, chg = res
@@ -267,22 +230,25 @@ class Feed:
     source_url: str
 
 FEEDS: List[Feed] = [
-    # Best-effort common feeds (may change). You can edit URLs later in config if needed.
     Feed("Federal Reserve", "https://www.federalreserve.gov/feeds/press_all.xml", "usa_decisions", "https://www.federalreserve.gov/"),
     Feed("U.S. Treasury", "https://home.treasury.gov/feeds/press-releases", "usa_decisions", "https://home.treasury.gov/"),
+
     Feed("CoinDesk", "https://feeds.feedburner.com/CoinDesk", "crypto", "https://www.coindesk.com/"),
+    Feed("Cointelegraph", "https://cointelegraph.com/rss", "crypto", "https://cointelegraph.com/"),
+    Feed("Bitcoin Magazine", "https://bitcoinmagazine.com/.rss/full/", "crypto", "https://bitcoinmagazine.com/"),
+
     Feed("Yahoo Finance", "https://finance.yahoo.com/news/rssindex", "stocks_macro", "https://finance.yahoo.com/news/"),
+    Feed("Nasdaq", "https://www.nasdaq.com/feed/rssoutbound?category=Markets", "stocks_macro", "https://www.nasdaq.com/"),
+    Feed("Investing.com", "https://www.investing.com/rss/news_25.rss", "stocks_macro", "https://www.investing.com/")
 ]
 
 def parse_rss_items(xml_text: str) -> List[dict]:
-    # Supports RSS 2.0 and basic Atom best-effort
     items: List[dict] = []
     try:
         root = ET.fromstring(xml_text)
     except Exception:
         return items
 
-    # RSS
     channel = root.find("channel")
     if channel is not None:
         for it in channel.findall("item"):
@@ -293,7 +259,7 @@ def parse_rss_items(xml_text: str) -> List[dict]:
             items.append({"title": title, "link": link, "published": pub, "description": desc})
         return items
 
-    # Atom
+    # Atom fallback
     ns = {"a": "http://www.w3.org/2005/Atom"}
     for entry in root.findall("a:entry", ns):
         title = (entry.findtext("a:title", default="", namespaces=ns) or "").strip()
@@ -305,61 +271,53 @@ def parse_rss_items(xml_text: str) -> List[dict]:
     return items
 
 def clean_html(text: str) -> str:
-    # remove tags + decode basic entities
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-def summarize_english(title: str, description: str, max_lines: int = 5) -> List[str]:
-    """
-    MVP summarizer:
-    - 1 line: simplified title
-    - 1-3 lines: first 1-3 sentences from description
-    - 1 line: watch next heuristic
-    """
+def summarize_english(title: str, description: str) -> List[str]:
     desc = clean_html(description)
-    # split into sentences (simple)
     sents = re.split(r"(?<=[.!?])\s+", desc)
     sents = [s.strip() for s in sents if len(s.strip()) > 20]
     lines: List[str] = []
     if title:
         lines.append(title.strip())
-    for s in sents[: max(1, max_lines - 2)]:
+    for s in sents[:3]:
         lines.append(s)
-    # what to watch heuristic
     lines.append("Watch market reaction and follow-up official updates.")
-    # keep 3-7 lines
-    lines = lines[: max(3, min(7, max_lines + 2))]
+    lines = lines[:7]
+    if len(lines) < 3:
+        lines = (lines + ["Watch market reaction."] * 3)[:3]
     return lines
 
 def urdu_fallback(lines_en: List[str]) -> List[str]:
-    # MVP: If you later plug translator, replace this.
-    # For now, we keep a readable placeholder by prefixing "اردو:" removed; instead keep same.
+    # MVP Urdu: fallback (same text). Next step: plug offline translator.
     return lines_en
 
 def impact_score(feed_name: str, title: str) -> int:
     s = 0
     name_l = feed_name.lower()
     t = title.lower()
-    # Source strength
-    if "federal reserve" in name_l or "treasury" in name_l or "white house" in name_l:
+
+    if "federal reserve" in name_l or "treasury" in name_l:
         s += 30
-    elif "yahoo" in name_l or "coindesk" in name_l or "reuters" in name_l or "bloomberg" in name_l:
+    elif "nasdaq" in name_l or "yahoo" in name_l or "coindesk" in name_l or "cointelegraph" in name_l:
         s += 20
     else:
         s += 10
-    # Event type
+
     if any(k in t for k in ["rate", "fomc", "inflation", "cpi", "policy", "sanction", "regulation", "supreme court"]):
         s += 30
     elif any(k in t for k in ["earnings", "sec", "lawsuit", "hack", "etf", "approval"]):
         s += 20
     else:
         s += 10
-    # Surprise (rough)
+
     if any(k in t for k in ["breaking", "emergency", "unexpected", "announces", "approves", "cuts", "hikes"]):
         s += 20
     else:
         s += 10
+
     return min(100, s)
 
 def tag_from_score(score: int, cfg: dict) -> str:
@@ -370,15 +328,14 @@ def tag_from_score(score: int, cfg: dict) -> str:
     return "low"
 
 def keywords_from_title(title: str) -> List[str]:
-    # simple keyword extraction
     stops = set(["the","a","an","and","or","of","to","in","for","on","with","from","at","by","as","is","are"])
-    words = re.findall(r"[A-Za-z][A-Za-z0-9\-]{2,}", title)
+    words = re.findall(r"[A-Za-z][A-Za-z0-9\\-]{2,}", title)
     kws = []
     for w in words:
         wl = w.lower()
         if wl in stops:
             continue
-        if wl not in kws:
+        if wl not in [x.lower() for x in kws]:
             kws.append(w)
     return kws[:8]
 
@@ -398,63 +355,58 @@ def linked_assets_from_text(text: str) -> List[str]:
         add("^GSPC")
     if "dollar" in t or "usd" in t:
         add("USD/PKR")
-    if "gold" in t:
-        add("XAU/USD")
-    return assets[:6]
+    return assets[:10]
 
-def build_news(cfg: dict, limit_per_feed: int = 10) -> dict:
+def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
     prev = read_json(DATA / "news_latest.json") or {"items": []}
-    seen_hashes = set([it.get("dedupe_hash") for it in prev.get("items", []) if it.get("dedupe_hash")])
+    seen = set([it.get("dedupe_hash") for it in prev.get("items", []) if it.get("dedupe_hash")])
 
-    items_out: List[dict] = []
+    out: List[dict] = []
 
     for feed in FEEDS:
-        r = safe_get(feed.url, timeout=25)
+        r = safe_get(feed.url, timeout=30)
         if not r:
             continue
         parsed = parse_rss_items(r.text)
+
         for it in parsed[:limit_per_feed]:
             title = (it.get("title") or "").strip()
             link = (it.get("link") or "").strip()
             pub_raw = (it.get("published") or "").strip()
             desc = it.get("description") or ""
+
             if not title or not link:
                 continue
 
-            # parse published date
-            published_dt = None
-            if pub_raw:
-                try:
-                    published_dt = dtparser.parse(pub_raw)
-                    if published_dt.tzinfo is None:
-                        published_dt = published_dt.replace(tzinfo=timezone.utc)
-                    published_dt = published_dt.astimezone(timezone.utc)
-                except Exception:
-                    published_dt = utc_now()
-            else:
+            try:
+                published_dt = dtparser.parse(pub_raw) if pub_raw else utc_now()
+                if published_dt.tzinfo is None:
+                    published_dt = published_dt.replace(tzinfo=timezone.utc)
+                published_dt = published_dt.astimezone(timezone.utc)
+            except Exception:
                 published_dt = utc_now()
 
-            # dedupe
             h = hashlib.sha1((link + title).encode("utf-8")).hexdigest()
             dh = f"sha1:{h}"
-            if dh in seen_hashes:
+            if dh in seen:
                 continue
-            seen_hashes.add(dh)
+            seen.add(dh)
 
             score = impact_score(feed.name, title)
             tag = tag_from_score(score, cfg)
             kws = keywords_from_title(title)
             linked = linked_assets_from_text(title + " " + clean_html(desc))
 
-            sum_en = summarize_english(title, desc, max_lines=5)
+            sum_en = summarize_english(title, desc)
             sum_ur = urdu_fallback(sum_en)
 
             news_id = f"news_{published_dt.strftime('%Y%m%d_%H%M%S')}_{h[:6]}"
-            items_out.append({
+
+            out.append({
                 "id": news_id,
                 "category": feed.category,
                 "title_en": title,
-                "title_ur": sum_ur[0] if sum_ur else title,  # fallback
+                "title_ur": sum_ur[0] if sum_ur else title,
                 "summary_en": sum_en[:7],
                 "summary_ur": sum_ur[:7],
                 "published_at_utc": iso_z(published_dt),
@@ -470,25 +422,19 @@ def build_news(cfg: dict, limit_per_feed: int = 10) -> dict:
                 "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
                 "keywords": kws,
                 "linked_assets": linked,
-                "dedupe_hash": dh,
+                "dedupe_hash": dh
             })
 
-    # Sort by published desc
-    items_out.sort(key=lambda x: x.get("published_at_utc", ""), reverse=True)
+    out.sort(key=lambda x: x.get("published_at_utc", ""), reverse=True)
+    return {"generated_at_utc": iso_z(utc_now()), "items": out[:150]}
 
-    return {"generated_at_utc": iso_z(utc_now()), "items": items_out[:60]}
-
-# ---------------- Signals & Sessions (MVP rule-based) ----------------
+# ---------------- Signals / Sessions (MVP) ----------------
 def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
-    """
-    Create simple directional signals from high/medium news.
-    - For each news, create a signal on primary linked asset (first in linked_assets)
-    - Expected move range based on impact + asset type
-    """
     market_map = {it["symbol"]: it for it in markets.get("items", []) if it.get("symbol")}
     active = []
-    closed = read_json(DATA / "signals_latest.json") or {}
-    closed_list = closed.get("closed", [])
+
+    prev = read_json(DATA / "signals_latest.json") or {}
+    closed_list = prev.get("closed", [])
 
     for it in news.get("items", []):
         if it.get("impact_tag") not in ("high", "medium"):
@@ -498,7 +444,7 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
             continue
         asset = linked[0]
         m = market_map.get(asset, {})
-        # Determine bias heuristically
+
         title = (it.get("title_en") or "").lower()
         bias = "neutral"
         if any(k in title for k in ["cuts", "cut", "dovish", "eases", "approves", "approval", "surge", "rally"]):
@@ -506,40 +452,27 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
         if any(k in title for k in ["hikes", "hawkish", "tightens", "ban", "sanction", "hack", "lawsuit", "crash"]):
             bias = "bearish"
 
-        # Expected range by asset type
         asset_type = "stock"
         if asset.endswith("USDT"):
             asset_type = "crypto"
         elif "/" in asset:
             asset_type = "fx"
-        base_low, base_high = (0.2, 0.6)
-        if it["impact_tag"] == "high":
-            if asset_type == "crypto":
-                base_low, base_high = (1.5, 4.5)
-            elif asset_type == "stock":
-                base_low, base_high = (0.4, 1.2)
-            else:
-                base_low, base_high = (0.2, 0.8)
-        else:  # medium
-            if asset_type == "crypto":
-                base_low, base_high = (0.8, 2.2)
-            elif asset_type == "stock":
-                base_low, base_high = (0.2, 0.7)
-            else:
-                base_low, base_high = (0.1, 0.4)
 
-        # Context multiplier based on volume_label/trend
+        if it["impact_tag"] == "high":
+            base_low, base_high = (1.5, 4.5) if asset_type == "crypto" else ((0.4, 1.2) if asset_type == "stock" else (0.2, 0.8))
+        else:
+            base_low, base_high = (0.8, 2.2) if asset_type == "crypto" else ((0.2, 0.7) if asset_type == "stock" else (0.1, 0.4))
+
         mult = 1.0
         if m.get("volume_label") == "high":
             mult *= 1.2
         if m.get("volume_label") == "low":
             mult *= 0.8
 
-        # Sign
         low = base_low * mult
         high = base_high * mult
         if bias == "bearish":
-            low, high = (-high, -low)  # keep low < high? We'll keep low negative larger magnitude
+            low, high = (-high, -low)
         if bias == "neutral":
             low, high = (-0.3, 0.3)
 
@@ -556,6 +489,7 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
         now = utc_now()
         window_h = 3 if it.get("impact_tag") == "high" else 5
         sig_id = f"sig_{now.strftime('%Y%m%d_%H%M%S')}_{asset.replace('/','')}"
+
         active.append({
             "signal_id": sig_id,
             "news_id": it["id"],
@@ -568,50 +502,35 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
             "valid_until_utc": iso_z(now + timedelta(hours=window_h)),
             "reason_en": "Rule-based signal from news impact + current context (MVP).",
             "reason_ur": "خبر کے امپیکٹ اور موجودہ کنٹیکسٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-            "context": {
-                "rvol": m.get("rvol"),
-                "session": "US" if asset_type == "stock" else "CRYPTO",
-                "pre_trend": m.get("trend")
-            }
+            "context": {"rvol": m.get("rvol"), "pre_trend": m.get("trend")}
         })
 
-    # keep only top 5 by confidence
     active.sort(key=lambda s: s.get("confidence_pct", 0), reverse=True)
-    active = active[:5]
-
-    return {"generated_at_utc": iso_z(utc_now()), "active": active, "closed": closed_list[:10]}
+    return {"generated_at_utc": iso_z(utc_now()), "active": active[:8], "closed": closed_list[:12]}
 
 def build_sessions(cfg: dict, markets: dict) -> dict:
-    """
-    MVP session panel uses latest market changes as a proxy.
-    Real intraday windows require time-series storage; we add that in next iteration.
-    """
     mm = {it["symbol"]: it for it in markets.get("items", []) if it.get("symbol")}
     sessions = []
-    # US proxy: ^GSPC
     spx = mm.get("^GSPC")
     if spx:
         sessions.append({
             "market": "US",
             "asset_proxy": "^GSPC",
-            "session_open_utc": "",  # UI already shows timing
+            "session_open_utc": "",
             "now_utc": iso_z(utc_now()),
             "status": "open",
-            "windows": [
-                {
-                    "hours": 1,
-                    "direction": spx.get("trend", "sideways"),
-                    "net_move_pct": float(spx.get("change_pct_1d", 0.0)),
-                    "volatility_label": "normal",
-                    "volume_label": spx.get("volume_label") or "normal",
-                    "reason_en": "MVP uses daily change as proxy. Next version will compute true 1h/3h/5h/7h windows.",
-                    "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے ونڈوز نکالے گا۔"
-                }
-            ]
+            "windows": [{
+                "hours": 1,
+                "direction": spx.get("trend", "sideways"),
+                "net_move_pct": float(spx.get("change_pct_1d", 0.0)),
+                "volatility_label": "normal",
+                "volume_label": spx.get("volume_label") or "normal",
+                "reason_en": "MVP uses daily change as proxy. Next version will compute real 1h/3h/5h/7h trends.",
+                "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے رجحانات نکالے گا۔"
+            }]
         })
     return {"generated_at_utc": iso_z(utc_now()), "sessions": sessions}
 
-# ---------------- Main ----------------
 def main():
     cfg = read_json(DATA / "config.json")
     if not cfg:
@@ -629,11 +548,10 @@ def main():
     sessions = build_sessions(cfg, markets)
     write_json(DATA / "sessions_latest.json", sessions)
 
-    # archive news daily
     ymd = utc_now().strftime("%Y-%m-%d")
     write_json(ARCH_NEWS / f"{ymd}.json", news)
 
-    print("Updated data at", iso_z(utc_now()))
+    print("Updated:", iso_z(utc_now()))
 
 if __name__ == "__main__":
     main()
