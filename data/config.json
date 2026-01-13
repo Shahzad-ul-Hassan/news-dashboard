@@ -5,30 +5,16 @@
 
   "watchlist_defaults": {
     "crypto": [
-  "BTCUSDT","ETHUSDT",
-  "SOLUSDT","BNBUSDT","XRPUSDT","ADAUSDT","DOGEUSDT","AVAXUSDT","LINKUSDT","MATICUSDT",
-  "DOTUSDT","TRXUSDT","LTCUSDT","BCHUSDT","UNIUSDT","ATOMUSDT","ICPUSDT","FILUSDT","APTUSDT","ARBUSDT"
-],
-
+      "BTCUSDT","ETHUSDT",
+      "SOLUSDT","BNBUSDT","XRPUSDT","ADAUSDT","DOGEUSDT","AVAXUSDT","LINKUSDT","MATICUSDT",
+      "DOTUSDT","TRXUSDT","LTCUSDT","BCHUSDT","UNIUSDT","ATOMUSDT","ICPUSDT","FILUSDT","APTUSDT","ARBUSDT"
+    ],
     "stocks": [
-      "^GSPC",
-      "^NDX",
-      "^DJI",
-      "AAPL",
-      "MSFT",
-      "NVDA",
-      "AMZN",
-      "TSLA",
-      "GOOGL",
-      "META"
+      "^GSPC","^NDX","^DJI",
+      "AAPL","MSFT","NVDA","AMZN","TSLA","GOOGL","META"
     ],
     "fx": [
-      "USD/PKR",
-      "EUR/USD",
-      "GBP/USD",
-      "USD/JPY",
-      "AUD/USD",
-      "USD/CAD"
+      "USD/PKR","EUR/USD","GBP/USD","USD/JPY","AUD/USD","USD/CAD"
     ]
   },
 
