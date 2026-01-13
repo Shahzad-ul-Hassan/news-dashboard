@@ -5,17 +5,11 @@
 
   "watchlist_defaults": {
     "crypto": [
-      "BTCUSDT",
-      "ETHUSDT",
-      "BNBUSDT",
-      "SOLUSDT",
-      "XRPUSDT",
-      "ADAUSDT",
-      "DOGEUSDT",
-      "AVAXUSDT",
-      "LINKUSDT",
-      "MATICUSDT"
-    ],
+  "BTCUSDT","ETHUSDT",
+  "SOLUSDT","BNBUSDT","XRPUSDT","ADAUSDT","DOGEUSDT","AVAXUSDT","LINKUSDT","MATICUSDT",
+  "DOTUSDT","TRXUSDT","LTCUSDT","BCHUSDT","UNIUSDT","ATOMUSDT","ICPUSDT","FILUSDT","APTUSDT","ARBUSDT"
+],
+
     "stocks": [
       "^GSPC",
       "^NDX",
