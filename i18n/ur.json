@@ -1,0 +1,12 @@
+{
+  "market_open": "اوپن",
+  "market_closed": "بند",
+  "market_preopen": "اوپن سے پہلے",
+  "volume_high": "والیوم زیادہ",
+  "volume_normal": "والیوم نارمل",
+  "volume_low": "والیوم کم",
+  "expected_move": "متوقع موومنٹ",
+  "confidence": "اعتماد",
+  "why_it_matters": "یہ کیوں اہم ہے",
+  "what_to_watch": "آگے کیا دیکھیں"
+}

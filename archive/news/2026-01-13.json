@@ -1,0 +1,44 @@
+{
+  "generated_at_utc": "2026-01-13T12:30:00Z",
+  "items": [
+    {
+      "id": "news_20260113_000145_abcd",
+      "category": "usa_decisions",
+      "title_en": "Federal Reserve signals a possible rate cut in coming months",
+      "title_ur": "فیڈرل ریزرو نے آئندہ مہینوں میں شرحِ سود میں کمی کا امکان ظاہر کیا",
+      "summary_en": [
+        "The Fed hinted inflation is easing faster than expected.",
+        "Markets reacted as policy may turn less restrictive.",
+        "Watch bond yields and the next FOMC guidance for confirmation."
+      ],
+      "summary_ur": [
+        "فیڈ نے عندیہ دیا کہ مہنگائی توقع سے تیزی سے کم ہو رہی ہے۔",
+        "پالیسی میں نرمی کے امکان سے مارکیٹ میں مثبت ردِعمل آیا۔",
+        "بانڈ ییلڈز اور اگلے ایف او ایم سی گائیڈنس پر نظر رکھیں۔"
+      ],
+      "published_at_utc": "2026-01-13T11:58:00Z",
+      "published_at_pkt": "2026-01-13T16:58:00+05:00",
+      "source_name": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/",
+      "original_url": "https://www.federalreserve.gov/",
+      "impact_score": 82,
+      "impact_tag": "high",
+      "why_it_matters_en": "Rate expectations influence equities, USD, and risk assets.",
+      "why_it_matters_ur": "شرحِ سود کی توقعات ایکویٹیز، ڈالر اور رسک اثاثوں کو متاثر کرتی ہیں۔",
+      "what_to_watch_en": "Next FOMC guidance; USD index and yields.",
+      "what_to_watch_ur": "اگلا ایف او ایم سی گائیڈنس؛ ڈالر انڈیکس اور ییلڈز۔",
+      "keywords": [
+        "Fed",
+        "Rates",
+        "FOMC"
+      ],
+      "linked_assets": [
+        "^GSPC",
+        "^NDX",
+        "USD/PKR",
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:demo1"
+    }
+  ]
+}

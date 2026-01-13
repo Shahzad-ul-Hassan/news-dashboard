@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-01-13T12:30:00Z",
+  "sessions": [
+    {
+      "market": "US",
+      "asset_proxy": "^GSPC",
+      "session_open_utc": "2026-01-13T14:30:00Z",
+      "now_utc": "2026-01-13T12:30:00Z",
+      "status": "pre_open",
+      "windows": [
+        {
+          "hours": 1,
+          "direction": "bullish",
+          "net_move_pct": 0.35,
+          "volatility_label": "normal",
+          "volume_label": "high",
+          "reason_en": "Higher highs + rising volume after open.",
+          "reason_ur": "اوپن کے بعد ہائر ہائیز + بڑھتا والیوم۔"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "generated_at_utc": "2026-01-13T12:30:00Z",
+  "active": [
+    {
+      "signal_id": "sig_20260113_1200_spx_01",
+      "news_id": "news_20260113_000145_abcd",
+      "asset": "^GSPC",
+      "bias": "bullish",
+      "expected_move_pct_range": {
+        "low": 0.6,
+        "high": 1.2
+      },
+      "time_window_hours": 3,
+      "confidence_pct": 72,
+      "created_at_utc": "2026-01-13T12:00:00Z",
+      "valid_until_utc": "2026-01-13T15:00:00Z",
+      "reason_en": "High-impact Fed guidance + improving breadth; volume normal-to-high.",
+      "reason_ur": "ہائی امپیکٹ فیڈ گائیڈنس + مارکیٹ بریڈتھ بہتر؛ والیوم نارمل تا زیادہ۔",
+      "context": {
+        "rvol": 1.05,
+        "session": "US",
+        "pre_trend": "bullish"
+      }
+    }
+  ],
+  "closed": [
+    {
+      "signal_id": "sig_20260112_1500_btc_02",
+      "asset": "BTCUSDT",
+      "bias": "bearish",
+      "expected_move_pct_range": {
+        "low": -2.5,
+        "high": -1.0
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 61,
+      "created_at_utc": "2026-01-12T15:00:00Z",
+      "valid_until_utc": "2026-01-12T20:00:00Z",
+      "actual_move_pct": -1.6,
+      "result": "played_out",
+      "notes_en": "Move matched within range.",
+      "notes_ur": "موومنٹ متوقع رینج کے اندر رہی۔"
+    }
+  ]
+}

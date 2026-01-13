@@ -1,0 +1,12 @@
+{
+  "market_open": "Open",
+  "market_closed": "Closed",
+  "market_preopen": "Pre-Open",
+  "volume_high": "High Volume",
+  "volume_normal": "Normal Volume",
+  "volume_low": "Low Volume",
+  "expected_move": "Expected Move",
+  "confidence": "Confidence",
+  "why_it_matters": "Why it matters",
+  "what_to_watch": "What to watch next"
+}

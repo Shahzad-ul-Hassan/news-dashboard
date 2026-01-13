@@ -1,0 +1,63 @@
+{
+  "default_language": "en",
+  "retention_days": 90,
+  "update_interval_minutes": 30,
+  "watchlist_defaults": {
+    "crypto": [
+      "BTCUSDT",
+      "ETHUSDT",
+      "BNBUSDT",
+      "SOLUSDT",
+      "XRPUSDT"
+    ],
+    "stocks": [
+      "^GSPC",
+      "^NDX",
+      "^DJI",
+      "AAPL",
+      "MSFT",
+      "NVDA",
+      "AMZN",
+      "TSLA",
+      "GOOGL",
+      "META"
+    ],
+    "fx": [
+      "USD/PKR",
+      "EUR/USD",
+      "GBP/USD",
+      "USD/JPY"
+    ]
+  },
+  "market_sessions": {
+    "US": {
+      "tz": "America/New_York",
+      "open": "09:30",
+      "close": "16:00"
+    },
+    "PSX": {
+      "tz": "Asia/Karachi",
+      "open": "09:30",
+      "close": "15:30"
+    },
+    "CRYPTO": {
+      "tz": "UTC",
+      "open": "00:00",
+      "close": "23:59"
+    }
+  },
+  "signal_windows_hours": [
+    1,
+    3,
+    5,
+    7
+  ],
+  "impact_thresholds": {
+    "high": 70,
+    "medium": 40
+  },
+  "rvol_thresholds": {
+    "high": 1.2,
+    "low": 0.8
+  }
+}
