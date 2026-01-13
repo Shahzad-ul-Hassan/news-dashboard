@@ -7,34 +7,39 @@ import json
 import re
 from dataclasses import dataclass
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, List, Optional, Tuple
 from xml.etree import ElementTree as ET
 
 import requests
-from dateutil import parser as dtparser
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 ARCH_NEWS = ROOT / "archive" / "news"
 
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "news-dashboard/1.1 (+github actions)"})
+SESSION.headers.update({"User-Agent": "news-dashboard/1.2 (+github actions)"})
+
 
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)
 
+
 def iso_z(dt: datetime) -> str:
-    return dt.replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    return dt.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
 
 def read_json(path: Path) -> Optional[dict]:
     if not path.exists():
         return None
     return json.loads(path.read_text(encoding="utf-8"))
 
+
 def write_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
+
 
 def safe_get(url: str, timeout: int = 25) -> Optional[requests.Response]:
     try:
@@ -44,6 +49,7 @@ def safe_get(url: str, timeout: int = 25) -> Optional[requests.Response]:
         return r
     except Exception:
         return None
+
 
 # ---------------- Markets ----------------
 def binance_24h(symbol: str) -> Optional[dict]:
@@ -56,8 +62,9 @@ def binance_24h(symbol: str) -> Optional[dict]:
     except Exception:
         return None
 
+
 def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
-    m = {
+    mapping = {
         "^GSPC": "^spx",
         "^NDX": "^ndx",
         "^DJI": "^dji",
@@ -67,9 +74,9 @@ def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
         "AMZN": "amzn.us",
         "TSLA": "tsla.us",
         "GOOGL": "googl.us",
-        "META": "meta.us"
+        "META": "meta.us",
     }
-    t = m.get(symbol, symbol)
+    t = mapping.get(symbol, symbol)
     url = f"https://stooq.com/q/d/l/?s={t}&i=d"
     r = safe_get(url)
     if not r:
@@ -86,6 +93,7 @@ def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
         return close, chg
     except Exception:
         return None
+
 
 def fx_rate(pair: str) -> Optional[Tuple[float, float]]:
     base, quote = pair.split("/")
@@ -110,12 +118,14 @@ def fx_rate(pair: str) -> Optional[Tuple[float, float]]:
     except Exception:
         return (latest, 0.0)
 
+
 def compute_trend_from_change(chg_pct: float, threshold: float = 0.15) -> str:
     if chg_pct > threshold:
         return "bullish"
     if chg_pct < -threshold:
         return "bearish"
     return "sideways"
+
 
 def volume_label_from_rvol(rvol: Optional[float], high: float = 1.2, low: float = 0.8) -> Optional[str]:
     if rvol is None:
@@ -126,13 +136,14 @@ def volume_label_from_rvol(rvol: Optional[float], high: float = 1.2, low: float 
         return "low"
     return "normal"
 
+
 def build_markets(cfg: dict) -> dict:
     prev = read_json(DATA / "markets_latest.json") or {"items": []}
     prev_map = {it.get("symbol"): it for it in prev.get("items", [])}
 
     out_items: List[dict] = []
 
-    # Crypto
+    # Crypto (Binance)
     for sym in cfg["watchlist_defaults"]["crypto"]:
         j = binance_24h(sym)
         if j:
@@ -150,7 +161,7 @@ def build_markets(cfg: dict) -> dict:
                 "change_pct_24h": chg,
                 "volume_24h": vol,
                 "rvol": rvol,
-                "volume_label": volume_label_from_rvol(rvol, **cfg["rvol_thresholds"]),
+                "volume_label": volume_label_from_rvol(rvol, **cfg.get("rvol_thresholds", {"high": 1.2, "low": 0.8})),
                 "trend": trend,
                 "source_name": "Binance",
                 "source_url": f"https://www.tradingview.com/symbols/{sym}/",
@@ -164,7 +175,7 @@ def build_markets(cfg: dict) -> dict:
             item["last_update_utc"] = iso_z(utc_now())
         out_items.append(item)
 
-    # Stocks (daily)
+    # Stocks (Stooq daily)
     for sym in cfg["watchlist_defaults"]["stocks"]:
         res = stooq_last(sym)
         if res:
@@ -192,7 +203,7 @@ def build_markets(cfg: dict) -> dict:
             item["last_update_utc"] = iso_z(utc_now())
         out_items.append(item)
 
-    # FX
+    # FX (exchangerate.host)
     for pair in cfg["watchlist_defaults"]["fx"]:
         res = fx_rate(pair)
         if res:
@@ -221,13 +232,15 @@ def build_markets(cfg: dict) -> dict:
 
     return {"generated_at_utc": iso_z(utc_now()), "items": out_items}
 
-# ---------------- News (RSS) ----------------
+
+# ---------------- News (RSS/Atom) ----------------
 @dataclass
 class Feed:
     name: str
     url: str
     category: str
     source_url: str
+
 
 FEEDS: List[Feed] = [
     Feed("Federal Reserve", "https://www.federalreserve.gov/feeds/press_all.xml", "usa_decisions", "https://www.federalreserve.gov/"),
@@ -239,10 +252,33 @@ FEEDS: List[Feed] = [
 
     Feed("Yahoo Finance", "https://finance.yahoo.com/news/rssindex", "stocks_macro", "https://finance.yahoo.com/news/"),
     Feed("Nasdaq", "https://www.nasdaq.com/feed/rssoutbound?category=Markets", "stocks_macro", "https://www.nasdaq.com/"),
-    Feed("Investing.com", "https://www.investing.com/rss/news_25.rss", "stocks_macro", "https://www.investing.com/")
+    Feed("Investing.com", "https://www.investing.com/rss/news_25.rss", "stocks_macro", "https://www.investing.com/"),
 ]
 
-def parse_rss_items(xml_text: str) -> List[dict]:
+
+def parse_datetime_guess(s: str) -> datetime:
+    s = (s or "").strip()
+    if not s:
+        return utc_now()
+    # Try RFC2822 (RSS)
+    try:
+        dt = parsedate_to_datetime(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+    # Try ISO (Atom)
+    try:
+        dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return utc_now()
+
+
+def parse_feed_items(xml_text: str) -> List[dict]:
     items: List[dict] = []
     try:
         root = ET.fromstring(xml_text)
@@ -270,10 +306,12 @@ def parse_rss_items(xml_text: str) -> List[dict]:
         items.append({"title": title, "link": link, "published": updated, "description": summary})
     return items
 
+
 def clean_html(text: str) -> str:
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
 
 def summarize_english(title: str, description: str) -> List[str]:
     desc = clean_html(description)
@@ -290,18 +328,20 @@ def summarize_english(title: str, description: str) -> List[str]:
         lines = (lines + ["Watch market reaction."] * 3)[:3]
     return lines
 
+
 def urdu_fallback(lines_en: List[str]) -> List[str]:
-    # MVP Urdu: fallback (same text). Next step: plug offline translator.
+    # MVP Urdu: same text. Next step can add offline translator.
     return lines_en
+
 
 def impact_score(feed_name: str, title: str) -> int:
     s = 0
-    name_l = feed_name.lower()
-    t = title.lower()
+    name_l = (feed_name or "").lower()
+    t = (title or "").lower()
 
     if "federal reserve" in name_l or "treasury" in name_l:
         s += 30
-    elif "nasdaq" in name_l or "yahoo" in name_l or "coindesk" in name_l or "cointelegraph" in name_l:
+    elif any(k in name_l for k in ["nasdaq", "yahoo", "coindesk", "cointelegraph", "investing"]):
         s += 20
     else:
         s += 10
@@ -320,17 +360,20 @@ def impact_score(feed_name: str, title: str) -> int:
 
     return min(100, s)
 
+
 def tag_from_score(score: int, cfg: dict) -> str:
-    if score >= cfg["impact_thresholds"]["high"]:
+    thr = cfg.get("impact_thresholds", {"high": 70, "medium": 40})
+    if score >= thr["high"]:
         return "high"
-    if score >= cfg["impact_thresholds"]["medium"]:
+    if score >= thr["medium"]:
         return "medium"
     return "low"
 
+
 def keywords_from_title(title: str) -> List[str]:
-    stops = set(["the","a","an","and","or","of","to","in","for","on","with","from","at","by","as","is","are"])
-    words = re.findall(r"[A-Za-z][A-Za-z0-9\\-]{2,}", title)
-    kws = []
+    stops = {"the", "a", "an", "and", "or", "of", "to", "in", "for", "on", "with", "from", "at", "by", "as", "is", "are"}
+    words = re.findall(r"[A-Za-z][A-Za-z0-9\\-]{2,}", title or "")
+    kws: List[str] = []
     for w in words:
         wl = w.lower()
         if wl in stops:
@@ -339,12 +382,15 @@ def keywords_from_title(title: str) -> List[str]:
             kws.append(w)
     return kws[:8]
 
+
 def linked_assets_from_text(text: str) -> List[str]:
-    t = text.lower()
-    assets = []
-    def add(a):
+    t = (text or "").lower()
+    assets: List[str] = []
+
+    def add(a: str):
         if a not in assets:
             assets.append(a)
+
     if "bitcoin" in t or "btc" in t:
         add("BTCUSDT")
     if "ethereum" in t or "eth" in t:
@@ -355,19 +401,22 @@ def linked_assets_from_text(text: str) -> List[str]:
         add("^GSPC")
     if "dollar" in t or "usd" in t:
         add("USD/PKR")
+
     return assets[:10]
+
 
 def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
     prev = read_json(DATA / "news_latest.json") or {"items": []}
-    seen = set([it.get("dedupe_hash") for it in prev.get("items", []) if it.get("dedupe_hash")])
+    seen = {it.get("dedupe_hash") for it in prev.get("items", []) if it.get("dedupe_hash")}
 
     out: List[dict] = []
+    pkt_tz = timezone(timedelta(hours=5))
 
     for feed in FEEDS:
         r = safe_get(feed.url, timeout=30)
         if not r:
             continue
-        parsed = parse_rss_items(r.text)
+        parsed = parse_feed_items(r.text)
 
         for it in parsed[:limit_per_feed]:
             title = (it.get("title") or "").strip()
@@ -378,14 +427,7 @@ def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
             if not title or not link:
                 continue
 
-            try:
-                published_dt = dtparser.parse(pub_raw) if pub_raw else utc_now()
-                if published_dt.tzinfo is None:
-                    published_dt = published_dt.replace(tzinfo=timezone.utc)
-                published_dt = published_dt.astimezone(timezone.utc)
-            except Exception:
-                published_dt = utc_now()
-
+            published_dt = parse_datetime_guess(pub_raw)
             h = hashlib.sha1((link + title).encode("utf-8")).hexdigest()
             dh = f"sha1:{h}"
             if dh in seen:
@@ -410,7 +452,7 @@ def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
                 "summary_en": sum_en[:7],
                 "summary_ur": sum_ur[:7],
                 "published_at_utc": iso_z(published_dt),
-                "published_at_pkt": (published_dt.astimezone(timezone(timedelta(hours=5)))).replace(microsecond=0).isoformat(),
+                "published_at_pkt": published_dt.astimezone(pkt_tz).replace(microsecond=0).isoformat(),
                 "source_name": feed.name,
                 "source_url": feed.source_url,
                 "original_url": link,
@@ -422,16 +464,17 @@ def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
                 "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
                 "keywords": kws,
                 "linked_assets": linked,
-                "dedupe_hash": dh
+                "dedupe_hash": dh,
             })
 
     out.sort(key=lambda x: x.get("published_at_utc", ""), reverse=True)
     return {"generated_at_utc": iso_z(utc_now()), "items": out[:150]}
 
+
 # ---------------- Signals / Sessions (MVP) ----------------
 def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
     market_map = {it["symbol"]: it for it in markets.get("items", []) if it.get("symbol")}
-    active = []
+    active: List[dict] = []
 
     prev = read_json(DATA / "signals_latest.json") or {}
     closed_list = prev.get("closed", [])
@@ -442,6 +485,7 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
         linked = it.get("linked_assets") or []
         if not linked:
             continue
+
         asset = linked[0]
         m = market_map.get(asset, {})
 
@@ -502,21 +546,21 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
             "valid_until_utc": iso_z(now + timedelta(hours=window_h)),
             "reason_en": "Rule-based signal from news impact + current context (MVP).",
             "reason_ur": "خبر کے امپیکٹ اور موجودہ کنٹیکسٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-            "context": {"rvol": m.get("rvol"), "pre_trend": m.get("trend")}
+            "context": {"rvol": m.get("rvol"), "pre_trend": m.get("trend")},
         })
 
     active.sort(key=lambda s: s.get("confidence_pct", 0), reverse=True)
     return {"generated_at_utc": iso_z(utc_now()), "active": active[:8], "closed": closed_list[:12]}
 
+
 def build_sessions(cfg: dict, markets: dict) -> dict:
     mm = {it["symbol"]: it for it in markets.get("items", []) if it.get("symbol")}
-    sessions = []
+    sessions: List[dict] = []
     spx = mm.get("^GSPC")
     if spx:
         sessions.append({
             "market": "US",
             "asset_proxy": "^GSPC",
-            "session_open_utc": "",
             "now_utc": iso_z(utc_now()),
             "status": "open",
             "windows": [{
@@ -526,12 +570,13 @@ def build_sessions(cfg: dict, markets: dict) -> dict:
                 "volatility_label": "normal",
                 "volume_label": spx.get("volume_label") or "normal",
                 "reason_en": "MVP uses daily change as proxy. Next version will compute real 1h/3h/5h/7h trends.",
-                "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے رجحانات نکالے گا۔"
-            }]
+                "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے رجحانات نکالے گا۔",
+            }],
         })
     return {"generated_at_utc": iso_z(utc_now()), "sessions": sessions}
 
-def main():
+
+def main() -> None:
     cfg = read_json(DATA / "config.json")
     if not cfg:
         raise SystemExit("Missing data/config.json")
@@ -552,6 +597,7 @@ def main():
     write_json(ARCH_NEWS / f"{ymd}.json", news)
 
     print("Updated:", iso_z(utc_now()))
+
 
 if __name__ == "__main__":
     main()
