@@ -10,6 +10,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, List, Optional, Tuple
+from urllib.parse import urlencode
 from xml.etree import ElementTree as ET
 
 import requests
@@ -19,7 +20,7 @@ DATA = ROOT / "data"
 ARCH_NEWS = ROOT / "archive" / "news"
 
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "news-dashboard/1.2 (+github actions)"})
+SESSION.headers.update({"User-Agent": "news-dashboard/1.3 (+github actions)"})
 
 
 def utc_now() -> datetime:
@@ -52,17 +53,6 @@ def safe_get(url: str, timeout: int = 25) -> Optional[requests.Response]:
 
 
 # ---------------- Markets ----------------
-def binance_24h(symbol: str) -> Optional[dict]:
-    url = f"https://api.binance.com/api/v3/ticker/24hr?symbol={symbol}"
-    r = safe_get(url)
-    if not r:
-        return None
-    try:
-        return r.json()
-    except Exception:
-        return None
-
-
 def stooq_last(symbol: str) -> Optional[Tuple[float, float]]:
     mapping = {
         "^GSPC": "^spx",
@@ -127,14 +117,27 @@ def compute_trend_from_change(chg_pct: float, threshold: float = 0.15) -> str:
     return "sideways"
 
 
-def volume_label_from_rvol(rvol: Optional[float], high: float = 1.2, low: float = 0.8) -> Optional[str]:
-    if rvol is None:
-        return None
-    if rvol >= high:
-        return "high"
-    if rvol <= low:
-        return "low"
-    return "normal"
+def coingecko_markets(coin_ids: List[str]) -> dict:
+    if not coin_ids:
+        return {}
+    qs = urlencode({
+        "vs_currency": "usd",
+        "ids": ",".join(coin_ids),
+        "order": "market_cap_desc",
+        "per_page": str(max(50, len(coin_ids))),
+        "page": "1",
+        "sparkline": "false",
+        "price_change_percentage": "24h"
+    })
+    url = f"https://api.coingecko.com/api/v3/coins/markets?{qs}"
+    r = safe_get(url, timeout=30)
+    if not r:
+        return {}
+    try:
+        arr = r.json()
+        return {x["id"]: x for x in arr if isinstance(x, dict) and x.get("id")}
+    except Exception:
+        return {}
 
 
 def build_markets(cfg: dict) -> dict:
@@ -143,37 +146,67 @@ def build_markets(cfg: dict) -> dict:
 
     out_items: List[dict] = []
 
-    # Crypto (Binance)
-    for sym in cfg["watchlist_defaults"]["crypto"]:
-        j = binance_24h(sym)
-        if j:
-            price = float(j["lastPrice"])
-            chg = float(j["priceChangePercent"])
-            vol = float(j.get("quoteVolume", 0.0))
-            prev_vol = float(prev_map.get(sym, {}).get("volume_24h", 0.0) or 0.0)
-            rvol = (vol / prev_vol) if prev_vol > 0 else None
+    # Crypto (CoinGecko)
+    sym_to_id = {
+        "BTCUSDT": "bitcoin",
+        "ETHUSDT": "ethereum",
+        "BNBUSDT": "binancecoin",
+        "SOLUSDT": "solana",
+        "XRPUSDT": "ripple",
+        "ADAUSDT": "cardano",
+        "DOGEUSDT": "dogecoin",
+        "AVAXUSDT": "avalanche-2",
+        "LINKUSDT": "chainlink",
+        "MATICUSDT": "polygon-ecosystem-token",
+        "DOTUSDT": "polkadot",
+        "TRXUSDT": "tron",
+        "LTCUSDT": "litecoin",
+        "BCHUSDT": "bitcoin-cash",
+        "UNIUSDT": "uniswap",
+        "ATOMUSDT": "cosmos",
+        "ICPUSDT": "internet-computer",
+        "FILUSDT": "filecoin",
+        "APTUSDT": "aptos",
+        "ARBUSDT": "arbitrum"
+    }
+
+    wanted_syms = cfg["watchlist_defaults"]["crypto"]
+    coin_ids = [sym_to_id[s] for s in wanted_syms if s in sym_to_id]
+    cg = coingecko_markets(coin_ids)
+
+    for sym in wanted_syms:
+        coin_id = sym_to_id.get(sym)
+        item = None
+
+        if coin_id and coin_id in cg:
+            x = cg[coin_id]
+            price = float(x.get("current_price") or 0.0)
+            chg = float(x.get("price_change_percentage_24h") or 0.0)
             trend = compute_trend_from_change(chg, threshold=0.30)
+
             item = {
                 "type": "crypto",
                 "symbol": sym,
                 "display": sym.replace("USDT", "/USDT"),
                 "price": price,
                 "change_pct_24h": chg,
-                "volume_24h": vol,
-                "rvol": rvol,
-                "volume_label": volume_label_from_rvol(rvol, **cfg.get("rvol_thresholds", {"high": 1.2, "low": 0.8})),
+                "volume_24h": float(x.get("total_volume") or 0.0),
+                "rvol": None,
+                "volume_label": None,
                 "trend": trend,
-                "source_name": "Binance",
+                "source_name": "CoinGecko",
                 "source_url": f"https://www.tradingview.com/symbols/{sym}/",
                 "last_update_utc": iso_z(utc_now()),
             }
-        else:
-            item = prev_map.get(sym)
-            if not item:
-                continue
-            item = dict(item)
-            item["last_update_utc"] = iso_z(utc_now())
-        out_items.append(item)
+
+        if item is None:
+            old = prev_map.get(sym)
+            if old:
+                item = dict(old)
+                item["last_update_utc"] = iso_z(utc_now())
+
+        if item:
+            out_items.append(item)
 
     # Stocks (Stooq daily)
     for sym in cfg["watchlist_defaults"]["stocks"]:
@@ -260,7 +293,6 @@ def parse_datetime_guess(s: str) -> datetime:
     s = (s or "").strip()
     if not s:
         return utc_now()
-    # Try RFC2822 (RSS)
     try:
         dt = parsedate_to_datetime(s)
         if dt.tzinfo is None:
@@ -268,7 +300,6 @@ def parse_datetime_guess(s: str) -> datetime:
         return dt.astimezone(timezone.utc)
     except Exception:
         pass
-    # Try ISO (Atom)
     try:
         dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
         if dt.tzinfo is None:
@@ -295,7 +326,6 @@ def parse_feed_items(xml_text: str) -> List[dict]:
             items.append({"title": title, "link": link, "published": pub, "description": desc})
         return items
 
-    # Atom fallback
     ns = {"a": "http://www.w3.org/2005/Atom"}
     for entry in root.findall("a:entry", ns):
         title = (entry.findtext("a:title", default="", namespaces=ns) or "").strip()
@@ -330,7 +360,6 @@ def summarize_english(title: str, description: str) -> List[str]:
 
 
 def urdu_fallback(lines_en: List[str]) -> List[str]:
-    # MVP Urdu: same text. Next step can add offline translator.
     return lines_en
 
 
@@ -371,7 +400,7 @@ def tag_from_score(score: int, cfg: dict) -> str:
 
 
 def keywords_from_title(title: str) -> List[str]:
-    stops = {"the", "a", "an", "and", "or", "of", "to", "in", "for", "on", "with", "from", "at", "by", "as", "is", "are"}
+    stops = {"the","a","an","and","or","of","to","in","for","on","with","from","at","by","as","is","are"}
     words = re.findall(r"[A-Za-z][A-Za-z0-9\\-]{2,}", title or "")
     kws: List[str] = []
     for w in words:
@@ -386,29 +415,29 @@ def keywords_from_title(title: str) -> List[str]:
 def linked_assets_from_text(text: str) -> List[str]:
     t = (text or "").lower()
     assets: List[str] = []
-
     def add(a: str):
         if a not in assets:
             assets.append(a)
-
-    if "bitcoin" in t or "btc" in t:
+    if "bitcoin" in t or " btc" in t or t.startswith("btc"):
         add("BTCUSDT")
-    if "ethereum" in t or "eth" in t:
+    if "ethereum" in t or " eth" in t or t.startswith("eth"):
         add("ETHUSDT")
+    if "solana" in t or " sol" in t:
+        add("SOLUSDT")
+    if "ripple" in t or " xrp" in t:
+        add("XRPUSDT")
     if "nasdaq" in t:
         add("^NDX")
     if "s&p" in t or "s&p 500" in t:
         add("^GSPC")
-    if "dollar" in t or "usd" in t:
+    if "dollar" in t or " usd" in t:
         add("USD/PKR")
-
     return assets[:10]
 
 
 def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
     prev = read_json(DATA / "news_latest.json") or {"items": []}
     seen = {it.get("dedupe_hash") for it in prev.get("items", []) if it.get("dedupe_hash")}
-
     out: List[dict] = []
     pkt_tz = timezone(timedelta(hours=5))
 
@@ -438,7 +467,6 @@ def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
             tag = tag_from_score(score, cfg)
             kws = keywords_from_title(title)
             linked = linked_assets_from_text(title + " " + clean_html(desc))
-
             sum_en = summarize_english(title, desc)
             sum_ur = urdu_fallback(sum_en)
 
@@ -464,7 +492,7 @@ def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
                 "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
                 "keywords": kws,
                 "linked_assets": linked,
-                "dedupe_hash": dh,
+                "dedupe_hash": dh
             })
 
     out.sort(key=lambda x: x.get("published_at_utc", ""), reverse=True)
@@ -475,7 +503,6 @@ def build_news(cfg: dict, limit_per_feed: int = 25) -> dict:
 def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
     market_map = {it["symbol"]: it for it in markets.get("items", []) if it.get("symbol")}
     active: List[dict] = []
-
     prev = read_json(DATA / "signals_latest.json") or {}
     closed_list = prev.get("closed", [])
 
@@ -508,11 +535,6 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
             base_low, base_high = (0.8, 2.2) if asset_type == "crypto" else ((0.2, 0.7) if asset_type == "stock" else (0.1, 0.4))
 
         mult = 1.0
-        if m.get("volume_label") == "high":
-            mult *= 1.2
-        if m.get("volume_label") == "low":
-            mult *= 0.8
-
         low = base_low * mult
         high = base_high * mult
         if bias == "bearish":
@@ -520,12 +542,7 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
         if bias == "neutral":
             low, high = (-0.3, 0.3)
 
-        confidence = 55
-        confidence += 10 if it.get("impact_tag") == "high" else 5
-        if m.get("volume_label") == "high":
-            confidence += 7
-        if m.get("trend") == bias:
-            confidence += 7
+        confidence = 55 + (10 if it.get("impact_tag") == "high" else 5)
         if bias == "neutral":
             confidence -= 10
         confidence = max(35, min(85, confidence))
@@ -544,9 +561,9 @@ def build_signals(cfg: dict, news: dict, markets: dict) -> dict:
             "confidence_pct": int(confidence),
             "created_at_utc": iso_z(now),
             "valid_until_utc": iso_z(now + timedelta(hours=window_h)),
-            "reason_en": "Rule-based signal from news impact + current context (MVP).",
-            "reason_ur": "خبر کے امپیکٹ اور موجودہ کنٹیکسٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-            "context": {"rvol": m.get("rvol"), "pre_trend": m.get("trend")},
+            "reason_en": "Rule-based signal from news impact (MVP).",
+            "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+            "context": {"pre_trend": m.get("trend")},
         })
 
     active.sort(key=lambda s: s.get("confidence_pct", 0), reverse=True)
@@ -569,9 +586,9 @@ def build_sessions(cfg: dict, markets: dict) -> dict:
                 "net_move_pct": float(spx.get("change_pct_1d", 0.0)),
                 "volatility_label": "normal",
                 "volume_label": spx.get("volume_label") or "normal",
-                "reason_en": "MVP uses daily change as proxy. Next version will compute real 1h/3h/5h/7h trends.",
-                "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے رجحانات نکالے گا۔",
-            }],
+                "reason_en": "MVP uses daily change as proxy. Next version can compute real 1h/3h/5h/7h trends.",
+                "reason_ur": "MVP میں روزانہ تبدیلی بطور پراکسی۔ اگلا ورژن حقیقی 1/3/5/7 گھنٹے رجحانات نکالے گا۔"
+            }]
         })
     return {"generated_at_utc": iso_z(utc_now()), "sessions": sessions}
 
