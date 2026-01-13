@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-13T20:32:30Z",
+  "generated_at_utc": "2026-01-13T20:35:20Z",
   "items": [
     {
       "type": "crypto",
@@ -13,7 +13,7 @@
       "trend": "bullish",
       "source_name": "Binance",
       "source_url": "https://www.tradingview.com/symbols/BTCUSDT/",
-      "last_update_utc": "2026-01-13T20:32:22Z"
+      "last_update_utc": "2026-01-13T20:35:12Z"
     },
     {
       "type": "crypto",
@@ -27,147 +27,147 @@
       "trend": "sideways",
       "source_name": "Binance",
       "source_url": "https://www.tradingview.com/symbols/ETHUSDT/",
-      "last_update_utc": "2026-01-13T20:32:22Z"
+      "last_update_utc": "2026-01-13T20:35:12Z"
     },
     {
       "type": "stock",
       "symbol": "^GSPC",
       "display": "^GSPC",
-      "price": 6944.5,
-      "change_pct_1d": -0.46966793602656104,
+      "price": 6940.15,
+      "change_pct_1d": -0.5320132372690293,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/GSPC/",
-      "last_update_utc": "2026-01-13T20:32:25Z"
+      "last_update_utc": "2026-01-13T20:35:16Z"
     },
     {
       "type": "stock",
       "symbol": "^NDX",
       "display": "^NDX",
-      "price": 25659.77,
-      "change_pct_1d": -0.49593487737933345,
+      "price": 25650.83,
+      "change_pct_1d": -0.53060262156395,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/NDX/",
-      "last_update_utc": "2026-01-13T20:32:25Z"
+      "last_update_utc": "2026-01-13T20:35:16Z"
     },
     {
       "type": "stock",
       "symbol": "^DJI",
       "display": "^DJI",
-      "price": 49104.09,
-      "change_pct_1d": -0.9802541631209404,
+      "price": 49066.99,
+      "change_pct_1d": -1.055067331851856,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/DJI/",
-      "last_update_utc": "2026-01-13T20:32:27Z"
+      "last_update_utc": "2026-01-13T20:35:18Z"
     },
     {
       "type": "stock",
       "symbol": "AAPL",
       "display": "AAPL",
-      "price": 258.96,
-      "change_pct_1d": -0.4956772334294026,
+      "price": 258.93,
+      "change_pct_1d": -0.507204610951006,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/AAPL/",
-      "last_update_utc": "2026-01-13T20:32:28Z"
+      "last_update_utc": "2026-01-13T20:35:18Z"
     },
     {
       "type": "stock",
       "symbol": "MSFT",
       "display": "MSFT",
-      "price": 467.99,
-      "change_pct_1d": -1.92589798398927,
+      "price": 467.985,
+      "change_pct_1d": -1.926945806613855,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/MSFT/",
-      "last_update_utc": "2026-01-13T20:32:28Z"
+      "last_update_utc": "2026-01-13T20:35:19Z"
     },
     {
       "type": "stock",
       "symbol": "NVDA",
       "display": "NVDA",
-      "price": 184.6901,
-      "change_pct_1d": -0.13512490537471433,
+      "price": 184.735,
+      "change_pct_1d": -0.1108467611117033,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "sideways",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/NVDA/",
-      "last_update_utc": "2026-01-13T20:32:28Z"
+      "last_update_utc": "2026-01-13T20:35:19Z"
     },
     {
       "type": "stock",
       "symbol": "AMZN",
       "display": "AMZN",
-      "price": 242.275,
-      "change_pct_1d": -1.702032701748689,
+      "price": 242.335,
+      "change_pct_1d": -1.677688968231424,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/AMZN/",
-      "last_update_utc": "2026-01-13T20:32:29Z"
+      "last_update_utc": "2026-01-13T20:35:19Z"
     },
     {
       "type": "stock",
       "symbol": "TSLA",
       "display": "TSLA",
-      "price": 446.485,
-      "change_pct_1d": -0.5512740555951458,
+      "price": 445.52,
+      "change_pct_1d": -0.7662152530292227,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/TSLA/",
-      "last_update_utc": "2026-01-13T20:32:29Z"
+      "last_update_utc": "2026-01-13T20:35:19Z"
     },
     {
       "type": "stock",
       "symbol": "GOOGL",
       "display": "GOOGL",
-      "price": 336.08,
-      "change_pct_1d": 1.271620562887956,
+      "price": 335.515,
+      "change_pct_1d": 1.1013680467667006,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bullish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/GOOGL/",
-      "last_update_utc": "2026-01-13T20:32:29Z"
+      "last_update_utc": "2026-01-13T20:35:20Z"
     },
     {
       "type": "stock",
       "symbol": "META",
       "display": "META",
-      "price": 628.465,
-      "change_pct_1d": -2.1036808573609354,
+      "price": 628.235,
+      "change_pct_1d": -2.139508076701406,
       "volume": null,
       "rvol": null,
       "volume_label": null,
       "trend": "bearish",
       "source_name": "Stooq",
       "source_url": "https://www.tradingview.com/symbols/META/",
-      "last_update_utc": "2026-01-13T20:32:29Z"
+      "last_update_utc": "2026-01-13T20:35:20Z"
     },
     {
       "type": "fx",
@@ -178,7 +178,7 @@
       "trend": "sideways",
       "source_name": "ReferenceSource",
       "source_url": "https://www.tradingview.com/symbols/USDPKR/",
-      "last_update_utc": "2026-01-13T20:32:29Z"
+      "last_update_utc": "2026-01-13T20:35:20Z"
     },
     {
       "type": "fx",
@@ -189,7 +189,7 @@
       "trend": "bullish",
       "source_name": "ReferenceSource",
       "source_url": "https://www.tradingview.com/symbols/EURUSD/",
-      "last_update_utc": "2026-01-13T20:32:30Z"
+      "last_update_utc": "2026-01-13T20:35:20Z"
     }
   ]
 }
