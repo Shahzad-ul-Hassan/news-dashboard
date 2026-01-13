@@ -30,22 +30,13 @@
     ]
   },
   "market_sessions": {
-    "US": {
-      "tz": "America/New_York",
-      "open": "09:30",
-      "close": "16:00"
-    },
-    "PSX": {
-      "tz": "Asia/Karachi",
-      "open": "09:30",
-      "close": "15:30"
-    },
-    "CRYPTO": {
-      "tz": "UTC",
-      "open": "00:00",
-      "close": "23:59"
-    }
-  },
+  "NY":   { "tz": "America/New_York",     "open": "09:30", "close": "16:00" },
+  "PK":   { "tz": "Asia/Karachi",         "open": "09:30", "close": "15:30" },
+  "TYO":  { "tz": "Asia/Tokyo",           "open": "09:00", "close": "15:00" },
+  "SYD":  { "tz": "Australia/Sydney",     "open": "10:00", "close": "16:00" },
+  "CRYPTO": { "tz": "UTC",               "open": "00:00", "close": "23:59" }
+}
+
   "signal_windows_hours": [
     1,
     3,
