@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-01-14T10:26:44Z",
+  "generated_at_utc": "2026-01-14T10:48:58Z",
   "sessions": [
     {
       "market": "US",
       "asset_proxy": "^GSPC",
-      "now_utc": "2026-01-14T10:26:44Z",
+      "now_utc": "2026-01-14T10:48:58Z",
       "status": "open",
       "windows": [
         {
