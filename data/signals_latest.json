@@ -1,10 +1,86 @@
 {
-  "generated_at_utc": "2026-01-14T05:25:57Z",
+  "generated_at_utc": "2026-01-14T05:46:48Z",
   "active": [
     {
-      "signal_id": "sig_20260114_052557_BTCUSDT",
-      "news_id": "news_20260114_031332_81b8b3",
+      "signal_id": "sig_20260114_054648_BTCUSDT",
+      "news_id": "news_20260113_164912_6a47dd",
       "asset": "BTCUSDT",
+      "bias": "bullish",
+      "expected_move_pct_range": {
+        "low": 1.5,
+        "high": 4.5
+      },
+      "time_window_hours": 3,
+      "confidence_pct": 65,
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T08:46:48Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_054648_BTCUSDT",
+      "news_id": "news_20260114_050041_346bc0",
+      "asset": "BTCUSDT",
+      "bias": "bullish",
+      "expected_move_pct_range": {
+        "low": 0.8,
+        "high": 2.2
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 60,
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_054648_BTCUSDT",
+      "news_id": "news_20260114_022736_9bc3d1",
+      "asset": "BTCUSDT",
+      "bias": "bullish",
+      "expected_move_pct_range": {
+        "low": 0.8,
+        "high": 2.2
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 60,
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_054648_BTCUSDT",
+      "news_id": "news_20260113_171500_22cc98",
+      "asset": "BTCUSDT",
+      "bias": "bullish",
+      "expected_move_pct_range": {
+        "low": 0.8,
+        "high": 2.2
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 60,
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_054648_ETHUSDT",
+      "news_id": "news_20260113_150225_d415c3",
+      "asset": "ETHUSDT",
       "bias": "bearish",
       "expected_move_pct_range": {
         "low": -2.2,
@@ -12,8 +88,8 @@
       },
       "time_window_hours": 5,
       "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T05:25:57Z",
-      "valid_until_utc": "2026-01-14T10:25:57Z",
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
@@ -21,56 +97,18 @@
       }
     },
     {
-      "signal_id": "sig_20260114_052557_ETHUSDT",
-      "news_id": "news_20260114_012947_21bdeb",
-      "asset": "ETHUSDT",
-      "bias": "bullish",
+      "signal_id": "sig_20260114_054648_^GSPC",
+      "news_id": "news_20260114_053004_7b4644",
+      "asset": "^GSPC",
+      "bias": "neutral",
       "expected_move_pct_range": {
-        "low": 0.8,
-        "high": 2.2
+        "low": -0.3,
+        "high": 0.3
       },
       "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T05:25:57Z",
-      "valid_until_utc": "2026-01-14T10:25:57Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_052557_BTCUSDT",
-      "news_id": "news_20260114_001940_1e44ae",
-      "asset": "BTCUSDT",
-      "bias": "bullish",
-      "expected_move_pct_range": {
-        "low": 0.8,
-        "high": 2.2
-      },
-      "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T05:25:57Z",
-      "valid_until_utc": "2026-01-14T10:25:57Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_052557_^NDX",
-      "news_id": "news_20260113_221425_f3ae5d",
-      "asset": "^NDX",
-      "bias": "bearish",
-      "expected_move_pct_range": {
-        "low": -0.7,
-        "high": -0.2
-      },
-      "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T05:25:57Z",
-      "valid_until_utc": "2026-01-14T10:25:57Z",
+      "confidence_pct": 50,
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
@@ -78,8 +116,8 @@
       }
     },
     {
-      "signal_id": "sig_20260114_052557_BTCUSDT",
-      "news_id": "news_20260114_044220_a6229b",
+      "signal_id": "sig_20260114_054648_BTCUSDT",
+      "news_id": "news_20260114_045852_f2930f",
       "asset": "BTCUSDT",
       "bias": "neutral",
       "expected_move_pct_range": {
@@ -88,8 +126,8 @@
       },
       "time_window_hours": 5,
       "confidence_pct": 50,
-      "created_at_utc": "2026-01-14T05:25:57Z",
-      "valid_until_utc": "2026-01-14T10:25:57Z",
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
@@ -97,8 +135,8 @@
       }
     },
     {
-      "signal_id": "sig_20260114_052557_BTCUSDT",
-      "news_id": "news_20260113_224152_63fa87",
+      "signal_id": "sig_20260114_054648_BTCUSDT",
+      "news_id": "news_20260113_234832_05da54",
       "asset": "BTCUSDT",
       "bias": "neutral",
       "expected_move_pct_range": {
@@ -107,8 +145,8 @@
       },
       "time_window_hours": 5,
       "confidence_pct": 50,
-      "created_at_utc": "2026-01-14T05:25:57Z",
-      "valid_until_utc": "2026-01-14T10:25:57Z",
+      "created_at_utc": "2026-01-14T05:46:48Z",
+      "valid_until_utc": "2026-01-14T10:46:48Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
