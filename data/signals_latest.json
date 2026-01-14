@@ -1,105 +1,10 @@
 {
-  "generated_at_utc": "2026-01-14T06:55:42Z",
+  "generated_at_utc": "2026-01-14T07:18:28Z",
   "active": [
     {
-      "signal_id": "sig_20260114_065542_BTCUSDT",
-      "news_id": "news_20260113_164912_6a47dd",
+      "signal_id": "sig_20260114_071828_BTCUSDT",
+      "news_id": "news_20260114_031332_81b8b3",
       "asset": "BTCUSDT",
-      "bias": "bullish",
-      "expected_move_pct_range": {
-        "low": 1.5,
-        "high": 4.5
-      },
-      "time_window_hours": 3,
-      "confidence_pct": 65,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T09:55:42Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_065542_XRPUSDT",
-      "news_id": "news_20260114_055832_76a795",
-      "asset": "XRPUSDT",
-      "bias": "bullish",
-      "expected_move_pct_range": {
-        "low": 0.8,
-        "high": 2.2
-      },
-      "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_065542_BTCUSDT",
-      "news_id": "news_20260114_050041_346bc0",
-      "asset": "BTCUSDT",
-      "bias": "bullish",
-      "expected_move_pct_range": {
-        "low": 0.8,
-        "high": 2.2
-      },
-      "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_065542_BTCUSDT",
-      "news_id": "news_20260114_022736_9bc3d1",
-      "asset": "BTCUSDT",
-      "bias": "bullish",
-      "expected_move_pct_range": {
-        "low": 0.8,
-        "high": 2.2
-      },
-      "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_065542_BTCUSDT",
-      "news_id": "news_20260113_171500_22cc98",
-      "asset": "BTCUSDT",
-      "bias": "bullish",
-      "expected_move_pct_range": {
-        "low": 0.8,
-        "high": 2.2
-      },
-      "time_window_hours": 5,
-      "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
-      "reason_en": "Rule-based signal from news impact (MVP).",
-      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
-      "context": {
-        "pre_trend": "bullish"
-      }
-    },
-    {
-      "signal_id": "sig_20260114_065542_ETHUSDT",
-      "news_id": "news_20260113_150225_d415c3",
-      "asset": "ETHUSDT",
       "bias": "bearish",
       "expected_move_pct_range": {
         "low": -2.2,
@@ -107,8 +12,8 @@
       },
       "time_window_hours": 5,
       "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
@@ -116,41 +21,117 @@
       }
     },
     {
-      "signal_id": "sig_20260114_065542_USDPKR",
-      "news_id": "news_20260112_203344_48b627",
-      "asset": "USD/PKR",
+      "signal_id": "sig_20260114_071828_ETHUSDT",
+      "news_id": "news_20260114_012947_21bdeb",
+      "asset": "ETHUSDT",
       "bias": "bullish",
       "expected_move_pct_range": {
-        "low": 0.1,
-        "high": 0.4
+        "low": 0.8,
+        "high": 2.2
       },
       "time_window_hours": 5,
       "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
-        "pre_trend": "sideways"
+        "pre_trend": "bullish"
       }
     },
     {
-      "signal_id": "sig_20260114_065542_USDPKR",
-      "news_id": "news_20260112_190900_b0ff3a",
-      "asset": "USD/PKR",
+      "signal_id": "sig_20260114_071828_BTCUSDT",
+      "news_id": "news_20260114_001940_1e44ae",
+      "asset": "BTCUSDT",
       "bias": "bullish",
       "expected_move_pct_range": {
-        "low": 0.1,
-        "high": 0.4
+        "low": 0.8,
+        "high": 2.2
       },
       "time_window_hours": 5,
       "confidence_pct": 60,
-      "created_at_utc": "2026-01-14T06:55:42Z",
-      "valid_until_utc": "2026-01-14T11:55:42Z",
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
       "reason_en": "Rule-based signal from news impact (MVP).",
       "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
       "context": {
-        "pre_trend": "sideways"
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_071828_^NDX",
+      "news_id": "news_20260113_221425_f3ae5d",
+      "asset": "^NDX",
+      "bias": "bearish",
+      "expected_move_pct_range": {
+        "low": -0.7,
+        "high": -0.2
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 60,
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bearish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_071828_BTCUSDT",
+      "news_id": "news_20260114_044220_a6229b",
+      "asset": "BTCUSDT",
+      "bias": "neutral",
+      "expected_move_pct_range": {
+        "low": -0.3,
+        "high": 0.3
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 50,
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_071828_BTCUSDT",
+      "news_id": "news_20260113_224152_63fa87",
+      "asset": "BTCUSDT",
+      "bias": "neutral",
+      "expected_move_pct_range": {
+        "low": -0.3,
+        "high": 0.3
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 50,
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bullish"
+      }
+    },
+    {
+      "signal_id": "sig_20260114_071828_^GSPC",
+      "news_id": "news_20260112_210821_1ef1ca",
+      "asset": "^GSPC",
+      "bias": "neutral",
+      "expected_move_pct_range": {
+        "low": -0.3,
+        "high": 0.3
+      },
+      "time_window_hours": 5,
+      "confidence_pct": 50,
+      "created_at_utc": "2026-01-14T07:18:28Z",
+      "valid_until_utc": "2026-01-14T12:18:28Z",
+      "reason_en": "Rule-based signal from news impact (MVP).",
+      "reason_ur": "خبر کے امپیکٹ سے بنایا گیا رول بیسڈ سگنل (MVP).",
+      "context": {
+        "pre_trend": "bearish"
       }
     }
   ],
