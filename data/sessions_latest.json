@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-01-14T15:27:45Z",
+  "generated_at_utc": "2026-01-14T15:44:33Z",
   "sessions": [
     {
       "market": "US",
       "asset_proxy": "^GSPC",
-      "now_utc": "2026-01-14T15:27:45Z",
+      "now_utc": "2026-01-14T15:44:33Z",
       "status": "open",
       "windows": [
         {
           "hours": 1,
           "direction": "bearish",
-          "net_move_pct": -0.593933719524274,
+          "net_move_pct": -0.7984215378517787,
           "volatility_label": "normal",
           "volume_label": "normal",
           "reason_en": "MVP uses daily change as proxy. Next version can compute real 1h/3h/5h/7h trends.",
