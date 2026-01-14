@@ -1,64 +1,26 @@
 {
-  "generated_at_utc": "2026-01-14T14:17:14Z",
+  "generated_at_utc": "2026-01-14T14:26:51Z",
   "items": [
     {
-      "id": "news_20260114_141240_d373fa",
-      "category": "crypto",
-      "title_en": "Mantra restructures after OM token collapse and tough year",
-      "title_ur": "Mantra restructures after OM token collapse and tough year",
-      "summary_en": [
-        "Mantra restructures after OM token collapse and tough year",
-        "RWA blockchain Mantra is restructuring and cutting staff after a steep OM token collapse and prolonged market pressure strained its business model in 2025.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Mantra restructures after OM token collapse and tough year",
-        "RWA blockchain Mantra is restructuring and cutting staff after a steep OM token collapse and prolonged market pressure strained its business model in 2025.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T14:12:40Z",
-      "published_at_pkt": "2026-01-14T19:12:40+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/mantra-restructures-om-token-collapse-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Mantra",
-        "restructures",
-        "after",
-        "token",
-        "collapse",
-        "tough",
-        "year"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:d373faf76c68d52fbc20e20bd9992d78294b43b6"
-    },
-    {
-      "id": "news_20260114_140114_f66923",
+      "id": "news_20260114_141835_5eac6e",
       "category": "stocks_macro",
-      "title_en": "US banking giants reap bigger profits as borrowers seek more loans",
-      "title_ur": "US banking giants reap bigger profits as borrowers seek more loans",
+      "title_en": "These 2 Materials Stocks Are on JPMorgan’s Focus List",
+      "title_ur": "These 2 Materials Stocks Are on JPMorgan’s Focus List",
       "summary_en": [
-        "US banking giants reap bigger profits as borrowers seek more loans",
+        "These 2 Materials Stocks Are on JPMorgan’s Focus List",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "US banking giants reap bigger profits as borrowers seek more loans",
+        "These 2 Materials Stocks Are on JPMorgan’s Focus List",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T14:01:14Z",
-      "published_at_pkt": "2026-01-14T19:01:14+05:00",
+      "published_at_utc": "2026-01-14T14:18:35Z",
+      "published_at_pkt": "2026-01-14T19:18:35+05:00",
       "source_name": "Investing.com",
       "source_url": "https://www.investing.com/",
-      "original_url": "https://www.investing.com/news/stock-market-news/us-banking-giants-reap-bigger-profits-as-borrowers-seek-more-loans-4447373",
+      "original_url": "https://www.investing.com/news/stock-market-news/these-2-materials-stocks-are-on-jpmorgans-focus-list-93CH-4447439",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -66,38 +28,36 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "banking",
-        "giants",
-        "reap",
-        "bigger",
-        "profits",
-        "borrowers",
-        "seek",
-        "more"
+        "These",
+        "Materials",
+        "Stocks",
+        "JPMorgan",
+        "Focus",
+        "List"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:f66923e244eca7613023780046a42aef554833d7"
+      "dedupe_hash": "sha1:5eac6ea74cb39a813254095529422ebf0f9e40de"
     },
     {
-      "id": "news_20260114_140035_41ec9c",
+      "id": "news_20260114_141825_2c14f9",
       "category": "stocks_macro",
-      "title_en": "UK PM Starmer says X moves to comply with UK law over AI deepfakes",
-      "title_ur": "UK PM Starmer says X moves to comply with UK law over AI deepfakes",
+      "title_en": "BofA profit beats estimates as interest income hits record, trading surges",
+      "title_ur": "BofA profit beats estimates as interest income hits record, trading surges",
       "summary_en": [
-        "UK PM Starmer says X moves to comply with UK law over AI deepfakes",
+        "BofA profit beats estimates as interest income hits record, trading surges",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "UK PM Starmer says X moves to comply with UK law over AI deepfakes",
+        "BofA profit beats estimates as interest income hits record, trading surges",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T14:00:35Z",
-      "published_at_pkt": "2026-01-14T19:00:35+05:00",
+      "published_at_utc": "2026-01-14T14:18:25Z",
+      "published_at_pkt": "2026-01-14T19:18:25+05:00",
       "source_name": "Investing.com",
       "source_url": "https://www.investing.com/",
-      "original_url": "https://www.investing.com/news/stock-market-news/uk-pm-starmer-says-x-moves-to-comply-with-uk-law-over-ai-deepfakes-4447073",
+      "original_url": "https://www.investing.com/news/stock-market-news/bank-of-america-profit-climbs-as-trading-surges-in-volatile-markets-4446798",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -105,37 +65,262 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Starmer",
-        "says",
-        "moves",
-        "comply",
-        "law",
-        "over",
-        "deepfakes"
+        "BofA",
+        "profit",
+        "beats",
+        "estimates",
+        "interest",
+        "income",
+        "hits",
+        "record"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:41ec9cfc0bfe93e6bd79139f4ac8a840b23276d5"
+      "dedupe_hash": "sha1:2c14f9d15a0e05738327a63a35850ac0e0cdab0f"
     },
     {
-      "id": "news_20260114_140000_1c9352",
-      "category": "crypto",
-      "title_en": "Algorand Foundation returns to U.S. amid friendlier crypto regulation under Trump",
-      "title_ur": "Algorand Foundation returns to U.S. amid friendlier crypto regulation under Trump",
+      "id": "news_20260114_141740_b0607f",
+      "category": "stocks_macro",
+      "title_en": "Kratos Defense opens new 55,000-square-foot hypersonic system manufacturing",
+      "title_ur": "Kratos Defense opens new 55,000-square-foot hypersonic system manufacturing",
       "summary_en": [
-        "Algorand Foundation returns to U.S. amid friendlier crypto regulation under Trump",
-        "The blockchain nonprofit is moving its base of operations back to the United States and has appointed a new board to oversee its next phase of growth.",
-        "Watch market reaction and follow-up official updates."
+        "Kratos Defense opens new 55,000-square-foot hypersonic system manufacturing",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
       ],
       "summary_ur": [
-        "Algorand Foundation returns to U.S. amid friendlier crypto regulation under Trump",
-        "The blockchain nonprofit is moving its base of operations back to the United States and has appointed a new board to oversee its next phase of growth.",
-        "Watch market reaction and follow-up official updates."
+        "Kratos Defense opens new 55,000-square-foot hypersonic system manufacturing",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T14:00:00Z",
-      "published_at_pkt": "2026-01-14T19:00:00+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/business/2026/01/14/algorand-foundation-returns-to-u-s-amid-friendlier-crypto-regulation-under-trump",
+      "published_at_utc": "2026-01-14T14:17:40Z",
+      "published_at_pkt": "2026-01-14T19:17:40+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/kratos-defense-opens-55-000-141740162.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Kratos",
+        "Defense",
+        "opens",
+        "new",
+        "square-foot",
+        "hypersonic",
+        "system",
+        "manufacturing"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:b0607f294bfc733d51002dfa81b43c41f51d199e"
+    },
+    {
+      "id": "news_20260114_141730_e5fbce",
+      "category": "stocks_macro",
+      "title_en": "Terreno Realty price target raised to $60 from $57 at Barclays",
+      "title_ur": "Terreno Realty price target raised to $60 from $57 at Barclays",
+      "summary_en": [
+        "Terreno Realty price target raised to $60 from $57 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Terreno Realty price target raised to $60 from $57 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:17:30Z",
+      "published_at_pkt": "2026-01-14T19:17:30+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/terreno-realty-price-target-raised-141730387.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Terreno",
+        "Realty",
+        "price",
+        "target",
+        "raised",
+        "Barclays"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:e5fbce073687cda8053c5e1095336c0d90a08c9e"
+    },
+    {
+      "id": "news_20260114_141718_97deeb",
+      "category": "stocks_macro",
+      "title_en": "W.P. Carey price target lowered to $65 from $67 at Barclays",
+      "title_ur": "W.P. Carey price target lowered to $65 from $67 at Barclays",
+      "summary_en": [
+        "W.P. Carey price target lowered to $65 from $67 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "W.P. Carey price target lowered to $65 from $67 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:17:18Z",
+      "published_at_pkt": "2026-01-14T19:17:18+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/w-p-carey-price-target-141718942.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Carey",
+        "price",
+        "target",
+        "lowered",
+        "Barclays"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:97deeb0c79f53feb840dd8beb4fbdccf4a1586e8"
+    },
+    {
+      "id": "news_20260114_141708_87011f",
+      "category": "stocks_macro",
+      "title_en": "Equinix price target raised to $870 from $804 at Barclays",
+      "title_ur": "Equinix price target raised to $870 from $804 at Barclays",
+      "summary_en": [
+        "Equinix price target raised to $870 from $804 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Equinix price target raised to $870 from $804 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:17:08Z",
+      "published_at_pkt": "2026-01-14T19:17:08+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/equinix-price-target-raised-870-141708164.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Equinix",
+        "price",
+        "target",
+        "raised",
+        "Barclays"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:87011fe7dcdce4ed27d504d17fd4be29b10d1c39"
+    },
+    {
+      "id": "news_20260114_141659_46ed9c",
+      "category": "stocks_macro",
+      "title_en": "Iron Mountain price target raised to $126 from $123 at Barclays",
+      "title_ur": "Iron Mountain price target raised to $126 from $123 at Barclays",
+      "summary_en": [
+        "Iron Mountain price target raised to $126 from $123 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Iron Mountain price target raised to $126 from $123 at Barclays",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:16:59Z",
+      "published_at_pkt": "2026-01-14T19:16:59+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/iron-mountain-price-target-raised-141659349.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Iron",
+        "Mountain",
+        "price",
+        "target",
+        "raised",
+        "Barclays"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:46ed9cc1c8d607ee9d23b5102ba90695fb883636"
+    },
+    {
+      "id": "news_20260114_141622_11b541",
+      "category": "stocks_macro",
+      "title_en": "Intuitive stock falls despite strong Q4 procedure growth, revenue beat",
+      "title_ur": "Intuitive stock falls despite strong Q4 procedure growth, revenue beat",
+      "summary_en": [
+        "Intuitive stock falls despite strong Q4 procedure growth, revenue beat",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Intuitive stock falls despite strong Q4 procedure growth, revenue beat",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:16:22Z",
+      "published_at_pkt": "2026-01-14T19:16:22+05:00",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/",
+      "original_url": "https://www.investing.com/news/stock-market-news/intuitive-stock-falls-despite-strong-q4-procedure-growth-revenue-beat-93CH-4447442",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Intuitive",
+        "stock",
+        "falls",
+        "despite",
+        "strong",
+        "procedure",
+        "growth",
+        "revenue"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:11b5414b6d83b2378d4ae0560febb927c77fff5f"
+    },
+    {
+      "id": "news_20260114_141532_32ea96",
+      "category": "stocks_macro",
+      "title_en": "Will Gartner (IT) be Able to Reaccelerate Its Organic Growth?",
+      "title_ur": "Will Gartner (IT) be Able to Reaccelerate Its Organic Growth?",
+      "summary_en": [
+        "Will Gartner (IT) be Able to Reaccelerate Its Organic Growth?",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Will Gartner (IT) be Able to Reaccelerate Its Organic Growth?",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:15:32Z",
+      "published_at_pkt": "2026-01-14T19:15:32+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/gartner-able-reaccelerate-organic-growth-141532052.html",
       "impact_score": 60,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -143,77 +328,37 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Algorand",
-        "Foundation",
-        "returns",
-        "amid",
-        "friendlier",
-        "crypto",
-        "regulation",
-        "under"
+        "Will",
+        "Gartner",
+        "Able",
+        "Reaccelerate",
+        "Its",
+        "Organic",
+        "Growth"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:1c9352f1f569cf6e2859583d16cffa4f54516263"
+      "dedupe_hash": "sha1:32ea961104447233372f72824e9f04edfb6b11da"
     },
     {
-      "id": "news_20260114_140000_4a519c",
-      "category": "crypto",
-      "title_en": "Crossmint gets MiCA nod to provide stablecoin infrastructure across EU",
-      "title_ur": "Crossmint gets MiCA nod to provide stablecoin infrastructure across EU",
+      "id": "news_20260114_141307_150b35",
+      "category": "stocks_macro",
+      "title_en": "U.S. stock futures retreat after PPI release; bank earnings in spotlight",
+      "title_ur": "U.S. stock futures retreat after PPI release; bank earnings in spotlight",
       "summary_en": [
-        "Crossmint gets MiCA nod to provide stablecoin infrastructure across EU",
-        "Crossmint has secured MiCA authorization from Spain’s CNMV to operate as a crypto asset service provider, allowing it to passport stablecoin infrastructure services across the EU.",
-        "Watch market reaction and follow-up official updates."
+        "U.S. stock futures retreat after PPI release; bank earnings in spotlight",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
       ],
       "summary_ur": [
-        "Crossmint gets MiCA nod to provide stablecoin infrastructure across EU",
-        "Crossmint has secured MiCA authorization from Spain’s CNMV to operate as a crypto asset service provider, allowing it to passport stablecoin infrastructure services across the EU.",
-        "Watch market reaction and follow-up official updates."
+        "U.S. stock futures retreat after PPI release; bank earnings in spotlight",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T14:00:00Z",
-      "published_at_pkt": "2026-01-14T19:00:00+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/crossmint-gains-mica-approval-spain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Crossmint",
-        "gets",
-        "MiCA",
-        "nod",
-        "provide",
-        "stablecoin",
-        "infrastructure",
-        "across"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:4a519c3475ddeb5cddab2c81ae006615849bbbad"
-    },
-    {
-      "id": "news_20260114_135511_4f1c49",
-      "category": "crypto",
-      "title_en": "Bitcoin ETFs on rollercoaster as traditional funds pull in $46B in 2026",
-      "title_ur": "Bitcoin ETFs on rollercoaster as traditional funds pull in $46B in 2026",
-      "summary_en": [
-        "Bitcoin ETFs on rollercoaster as traditional funds pull in $46B in 2026",
-        "Bitcoin ETF flows have swung sharply in early 2026 as investors pour billions into traditional ETFs, leaving crypto funds lagging behind.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Bitcoin ETFs on rollercoaster as traditional funds pull in $46B in 2026",
-        "Bitcoin ETF flows have swung sharply in early 2026 as investors pour billions into traditional ETFs, leaving crypto funds lagging behind.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T13:55:11Z",
-      "published_at_pkt": "2026-01-14T18:55:11+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/bitcoin-etfs-rollercoaster-tradfi-etfs-2026-abnormally-high-46b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-14T14:13:07Z",
+      "published_at_pkt": "2026-01-14T19:13:07+05:00",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/",
+      "original_url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-wall-st-falls-from-record-highs-on-bank-losses-4445961",
       "impact_score": 50,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -221,38 +366,38 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Bitcoin",
-        "ETFs",
-        "rollercoaster",
-        "traditional",
-        "funds",
-        "pull"
+        "stock",
+        "futures",
+        "retreat",
+        "after",
+        "PPI",
+        "release",
+        "bank",
+        "earnings"
       ],
-      "linked_assets": [
-        "BTCUSDT"
-      ],
-      "dedupe_hash": "sha1:4f1c49bf1cd74309592d8c9f60ad6d80d70b1c2b"
+      "linked_assets": [],
+      "dedupe_hash": "sha1:150b35a6eb50dd162793d182ffaebd66763bf3f7"
     },
     {
-      "id": "news_20260114_135429_8673ec",
+      "id": "news_20260114_141249_e0a35c",
       "category": "stocks_macro",
-      "title_en": "Citi profit beats estimates as dealmaking rebounds",
-      "title_ur": "Citi profit beats estimates as dealmaking rebounds",
+      "title_en": "NovaGold Resources’ Donlin Gold LLC Signs a Non-Binding Natural Gas LOI with Glenfarne Alaska LNG",
+      "title_ur": "NovaGold Resources’ Donlin Gold LLC Signs a Non-Binding Natural Gas LOI with Glenfarne Alaska LNG",
       "summary_en": [
-        "Citi profit beats estimates as dealmaking rebounds",
+        "NovaGold Resources’ Donlin Gold LLC Signs a Non-Binding Natural Gas LOI with Glenfarne Alaska LNG",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "Citi profit beats estimates as dealmaking rebounds",
+        "NovaGold Resources’ Donlin Gold LLC Signs a Non-Binding Natural Gas LOI with Glenfarne Alaska LNG",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:54:29Z",
-      "published_at_pkt": "2026-01-14T18:54:29+05:00",
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/",
-      "original_url": "https://www.investing.com/news/stock-market-news/citigroup-profit-hit-by-russia-charge-as-dealmaking-and-services-shine-4447128",
+      "published_at_utc": "2026-01-14T14:12:49Z",
+      "published_at_pkt": "2026-01-14T19:12:49+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/novagold-resources-donlin-gold-llc-141249727.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -260,36 +405,274 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Citi",
-        "profit",
-        "beats",
-        "estimates",
-        "dealmaking",
-        "rebounds"
+        "NovaGold",
+        "Resources",
+        "Donlin",
+        "Gold",
+        "LLC",
+        "Signs",
+        "Non-Binding",
+        "Natural"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:8673ec7ef4dafcac950dbd3372a1816de8c10cd9"
+      "dedupe_hash": "sha1:e0a35cb8f89fcb06d03adfdd52471419de6eace6"
     },
     {
-      "id": "news_20260114_135347_c63ae2",
+      "id": "news_20260114_141248_c6cc49",
       "category": "stocks_macro",
-      "title_en": "Here’s Why Oakmark Select Fund Backs Targa Resources (TRGP)",
-      "title_ur": "Here’s Why Oakmark Select Fund Backs Targa Resources (TRGP)",
+      "title_en": "Is Alamos Gold Inc. (NYSE:AGI) the Best Precious Metal Stocks to Buy After the U.S. Venezuela Mission?",
+      "title_ur": "Is Alamos Gold Inc. (NYSE:AGI) the Best Precious Metal Stocks to Buy After the U.S. Venezuela Mission?",
       "summary_en": [
-        "Here’s Why Oakmark Select Fund Backs Targa Resources (TRGP)",
+        "Is Alamos Gold Inc. (NYSE:AGI) the Best Precious Metal Stocks to Buy After the U.S. Venezuela Mission?",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "Here’s Why Oakmark Select Fund Backs Targa Resources (TRGP)",
+        "Is Alamos Gold Inc. (NYSE:AGI) the Best Precious Metal Stocks to Buy After the U.S. Venezuela Mission?",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:53:47Z",
-      "published_at_pkt": "2026-01-14T18:53:47+05:00",
+      "published_at_utc": "2026-01-14T14:12:48Z",
+      "published_at_pkt": "2026-01-14T19:12:48+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/why-oakmark-select-fund-backs-135347506.html",
+      "original_url": "https://finance.yahoo.com/news/alamos-gold-inc-nyse-agi-141248349.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Alamos",
+        "Gold",
+        "Inc",
+        "NYSE",
+        "AGI",
+        "Best",
+        "Precious",
+        "Metal"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:c6cc491ee217fce0807cebd1ac5bcd4aeb758242"
+    },
+    {
+      "id": "news_20260114_141246_f73a78",
+      "category": "stocks_macro",
+      "title_en": "H.C. Wainwright Increases PT on Endeavour Silver Corp. From $11 to $14.50, Keeps Buy Rating",
+      "title_ur": "H.C. Wainwright Increases PT on Endeavour Silver Corp. From $11 to $14.50, Keeps Buy Rating",
+      "summary_en": [
+        "H.C. Wainwright Increases PT on Endeavour Silver Corp. From $11 to $14.50, Keeps Buy Rating",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "H.C. Wainwright Increases PT on Endeavour Silver Corp. From $11 to $14.50, Keeps Buy Rating",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:12:46Z",
+      "published_at_pkt": "2026-01-14T19:12:46+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/h-c-wainwright-increases-pt-141246562.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Wainwright",
+        "Increases",
+        "Endeavour",
+        "Silver",
+        "Corp",
+        "Keeps",
+        "Buy",
+        "Rating"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:f73a78e8ca9b335529248a88f6114337c2e10c49"
+    },
+    {
+      "id": "news_20260114_141245_510165",
+      "category": "stocks_macro",
+      "title_en": "McEwen Inc. (NYSE:MUX) Plans to Begin Construction at El Gallo Mine in Mid-2026",
+      "title_ur": "McEwen Inc. (NYSE:MUX) Plans to Begin Construction at El Gallo Mine in Mid-2026",
+      "summary_en": [
+        "McEwen Inc. (NYSE:MUX) Plans to Begin Construction at El Gallo Mine in Mid-2026",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "McEwen Inc. (NYSE:MUX) Plans to Begin Construction at El Gallo Mine in Mid-2026",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:12:45Z",
+      "published_at_pkt": "2026-01-14T19:12:45+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/mcewen-inc-nyse-mux-plans-141245975.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "McEwen",
+        "Inc",
+        "NYSE",
+        "MUX",
+        "Plans",
+        "Begin",
+        "Construction",
+        "Gallo"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:510165238aad042b8f462043bda8d68784b83a92"
+    },
+    {
+      "id": "news_20260114_141242_cc5df3",
+      "category": "stocks_macro",
+      "title_en": "Why Are Analysts Positive on Perpetua Resources Corp. (NASDAQ:PPTA)?",
+      "title_ur": "Why Are Analysts Positive on Perpetua Resources Corp. (NASDAQ:PPTA)?",
+      "summary_en": [
+        "Why Are Analysts Positive on Perpetua Resources Corp. (NASDAQ:PPTA)?",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Why Are Analysts Positive on Perpetua Resources Corp. (NASDAQ:PPTA)?",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:12:42Z",
+      "published_at_pkt": "2026-01-14T19:12:42+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/why-analysts-positive-perpetua-resources-141242858.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Why",
+        "Analysts",
+        "Positive",
+        "Perpetua",
+        "Resources",
+        "Corp",
+        "NASDAQ",
+        "PPTA"
+      ],
+      "linked_assets": [
+        "^NDX"
+      ],
+      "dedupe_hash": "sha1:cc5df32022d00148fada92eb1dcffff1ab0c90c3"
+    },
+    {
+      "id": "news_20260114_141240_18f01a",
+      "category": "stocks_macro",
+      "title_en": "Analysts Remain Bullish on Coeur Mining as CDE Shares Spiked Over 215% During Last Six Months",
+      "title_ur": "Analysts Remain Bullish on Coeur Mining as CDE Shares Spiked Over 215% During Last Six Months",
+      "summary_en": [
+        "Analysts Remain Bullish on Coeur Mining as CDE Shares Spiked Over 215% During Last Six Months",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Analysts Remain Bullish on Coeur Mining as CDE Shares Spiked Over 215% During Last Six Months",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:12:40Z",
+      "published_at_pkt": "2026-01-14T19:12:40+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/analysts-remain-bullish-coeur-mining-141240963.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Analysts",
+        "Remain",
+        "Bullish",
+        "Coeur",
+        "Mining",
+        "CDE",
+        "Shares",
+        "Spiked"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:18f01a2096eed9d461212004a382d88cc168e337"
+    },
+    {
+      "id": "news_20260114_141239_e4cb89",
+      "category": "stocks_macro",
+      "title_en": "Analysts Still See Potential In Wheaton Precious Metals (WPM) as Stock Skyrockets Over 129% In One Year",
+      "title_ur": "Analysts Still See Potential In Wheaton Precious Metals (WPM) as Stock Skyrockets Over 129% In One Year",
+      "summary_en": [
+        "Analysts Still See Potential In Wheaton Precious Metals (WPM) as Stock Skyrockets Over 129% In One Year",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Analysts Still See Potential In Wheaton Precious Metals (WPM) as Stock Skyrockets Over 129% In One Year",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:12:39Z",
+      "published_at_pkt": "2026-01-14T19:12:39+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/analysts-still-see-potential-wheaton-141239779.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Analysts",
+        "Still",
+        "See",
+        "Potential",
+        "Wheaton",
+        "Precious",
+        "Metals",
+        "WPM"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:e4cb89615e5fde1922adebd78d77544076d8986d"
+    },
+    {
+      "id": "news_20260114_141102_307553",
+      "category": "stocks_macro",
+      "title_en": "Here’s What Supports Mondelez International’s (MDLZ) Dominant Growth in the Industry",
+      "title_ur": "Here’s What Supports Mondelez International’s (MDLZ) Dominant Growth in the Industry",
+      "summary_en": [
+        "Here’s What Supports Mondelez International’s (MDLZ) Dominant Growth in the Industry",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Here’s What Supports Mondelez International’s (MDLZ) Dominant Growth in the Industry",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T14:11:02Z",
+      "published_at_pkt": "2026-01-14T19:11:02+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/supports-mondelez-international-mdlz-dominant-141102698.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -298,265 +681,38 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Here",
-        "Why",
-        "Oakmark",
-        "Select",
-        "Fund",
-        "Backs",
-        "Targa",
-        "Resources"
+        "What",
+        "Supports",
+        "Mondelez",
+        "International",
+        "MDLZ",
+        "Dominant",
+        "Growth"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:c63ae25ff2d038385f2b38eef46a53375980d78d"
+      "dedupe_hash": "sha1:3075538a3748a310655186d2a68203dd16d89f53"
     },
     {
-      "id": "news_20260114_135200_a7f094",
+      "id": "news_20260114_140931_5288ea",
       "category": "stocks_macro",
-      "title_en": "Is It Time to Dump Your Shares of Eli Lilly?",
-      "title_ur": "Is It Time to Dump Your Shares of Eli Lilly?",
+      "title_en": "Will Alibaba Group (BABA) be Able to Leverage Its Capabilities?",
+      "title_ur": "Will Alibaba Group (BABA) be Able to Leverage Its Capabilities?",
       "summary_en": [
-        "Is It Time to Dump Your Shares of Eli Lilly?",
+        "Will Alibaba Group (BABA) be Able to Leverage Its Capabilities?",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "Is It Time to Dump Your Shares of Eli Lilly?",
+        "Will Alibaba Group (BABA) be Able to Leverage Its Capabilities?",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:52:00Z",
-      "published_at_pkt": "2026-01-14T18:52:00+05:00",
+      "published_at_utc": "2026-01-14T14:09:31Z",
+      "published_at_pkt": "2026-01-14T19:09:31+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/time-dump-shares-eli-lilly-135200635.html",
+      "original_url": "https://finance.yahoo.com/news/alibaba-group-baba-able-leverage-140931308.html",
       "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Time",
-        "Dump",
-        "Your",
-        "Shares",
-        "Eli",
-        "Lilly"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:a7f0942520db371ba2ee0c6942809d955379445e"
-    },
-    {
-      "id": "news_20260114_135135_cc41d8",
-      "category": "stocks_macro",
-      "title_en": "Paycom Software (PAYC) Fell Along with Peers",
-      "title_ur": "Paycom Software (PAYC) Fell Along with Peers",
-      "summary_en": [
-        "Paycom Software (PAYC) Fell Along with Peers",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Paycom Software (PAYC) Fell Along with Peers",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:51:35Z",
-      "published_at_pkt": "2026-01-14T18:51:35+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/paycom-software-payc-fell-along-135135678.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Paycom",
-        "Software",
-        "PAYC",
-        "Fell",
-        "Along",
-        "Peers"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:cc41d830ba23573341267b0dffc1f8fb324b6b88"
-    },
-    {
-      "id": "news_20260114_134803_94f843",
-      "category": "stocks_macro",
-      "title_en": "Stock Market Today: Dow Falls On Surprise Inflation Data; Wells Fargo Slips On Sales Miss (Live Coverage)",
-      "title_ur": "Stock Market Today: Dow Falls On Surprise Inflation Data; Wells Fargo Slips On Sales Miss (Live Coverage)",
-      "summary_en": [
-        "Stock Market Today: Dow Falls On Surprise Inflation Data; Wells Fargo Slips On Sales Miss (Live Coverage)",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Stock Market Today: Dow Falls On Surprise Inflation Data; Wells Fargo Slips On Sales Miss (Live Coverage)",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:48:03Z",
-      "published_at_pkt": "2026-01-14T18:48:03+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-wells-fargo-wfc-stock/?src=A00220&yptr=yahoo",
-      "impact_score": 60,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Stock",
-        "Market",
-        "Today",
-        "Dow",
-        "Falls",
-        "Surprise",
-        "Inflation",
-        "Data"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:94f843ffc6a70a38f4383a7578ef7a11a0fa4976"
-    },
-    {
-      "id": "news_20260114_134602_14dd9f",
-      "category": "stocks_macro",
-      "title_en": "Morning Minute: Financial Advisors Are More Bullish Crypto Than Ever",
-      "title_ur": "Morning Minute: Financial Advisors Are More Bullish Crypto Than Ever",
-      "summary_en": [
-        "Morning Minute: Financial Advisors Are More Bullish Crypto Than Ever",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Morning Minute: Financial Advisors Are More Bullish Crypto Than Ever",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:46:02Z",
-      "published_at_pkt": "2026-01-14T18:46:02+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/morning-minute-financial-advisors-more-134602929.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Morning",
-        "Minute",
-        "Financial",
-        "Advisors",
-        "More",
-        "Bullish",
-        "Crypto",
-        "Than"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:14dd9fa0523ed3685f231e56cb2dd54fae683236"
-    },
-    {
-      "id": "news_20260114_134518_aa62a6",
-      "category": "stocks_macro",
-      "title_en": "Fiserv (FISV) Fell on a Weak Earnings Report",
-      "title_ur": "Fiserv (FISV) Fell on a Weak Earnings Report",
-      "summary_en": [
-        "Fiserv (FISV) Fell on a Weak Earnings Report",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Fiserv (FISV) Fell on a Weak Earnings Report",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:45:18Z",
-      "published_at_pkt": "2026-01-14T18:45:18+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/fiserv-fisv-fell-weak-earnings-134518999.html",
-      "impact_score": 50,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Fiserv",
-        "FISV",
-        "Fell",
-        "Weak",
-        "Earnings",
-        "Report"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:aa62a622960e085431015390be62f80e38fed577"
-    },
-    {
-      "id": "news_20260114_134300_a5a467",
-      "category": "stocks_macro",
-      "title_en": "Nike Stock: Reasonably Priced or Still Too Expensive?​",
-      "title_ur": "Nike Stock: Reasonably Priced or Still Too Expensive?​",
-      "summary_en": [
-        "Nike Stock: Reasonably Priced or Still Too Expensive?​",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Nike Stock: Reasonably Priced or Still Too Expensive?​",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:43:00Z",
-      "published_at_pkt": "2026-01-14T18:43:00+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/nike-stock-reasonably-priced-still-134300494.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Nike",
-        "Stock",
-        "Reasonably",
-        "Priced",
-        "Still",
-        "Too",
-        "Expensive"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:a5a46782b542b41ee8ef292be90cddeb365c463e"
-    },
-    {
-      "id": "news_20260114_134243_827ed9",
-      "category": "stocks_macro",
-      "title_en": "Will AerCap Holdings (AER) Benefit from Secular Growth in Global Travel Demand?",
-      "title_ur": "Will AerCap Holdings (AER) Benefit from Secular Growth in Global Travel Demand?",
-      "summary_en": [
-        "Will AerCap Holdings (AER) Benefit from Secular Growth in Global Travel Demand?",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Will AerCap Holdings (AER) Benefit from Secular Growth in Global Travel Demand?",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:42:43Z",
-      "published_at_pkt": "2026-01-14T18:42:43+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/aercap-holdings-aer-benefit-secular-134243491.html",
-      "impact_score": 50,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
       "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
@@ -564,37 +720,37 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Will",
-        "AerCap",
-        "Holdings",
-        "AER",
-        "Benefit",
-        "Secular",
-        "Growth",
-        "Global"
+        "Alibaba",
+        "Group",
+        "BABA",
+        "Able",
+        "Leverage",
+        "Its",
+        "Capabilities"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:827ed908e92596dd03da770bbe1ec98576b50738"
+      "dedupe_hash": "sha1:5288ea5356270423126d576fbf1bfed7f072a1c1"
     },
     {
-      "id": "news_20260114_134206_dbd27d",
+      "id": "news_20260114_140818_470716",
       "category": "stocks_macro",
-      "title_en": "Willis Lease Finance Corporation (WLFC): A Bull Case Theory",
-      "title_ur": "Willis Lease Finance Corporation (WLFC): A Bull Case Theory",
+      "title_en": "Rivian downgraded to Sell at UBS as R2 and AI optimism priced in",
+      "title_ur": "Rivian downgraded to Sell at UBS as R2 and AI optimism priced in",
       "summary_en": [
-        "Willis Lease Finance Corporation (WLFC): A Bull Case Theory",
+        "Rivian downgraded to Sell at UBS as R2 and AI optimism priced in",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "Willis Lease Finance Corporation (WLFC): A Bull Case Theory",
+        "Rivian downgraded to Sell at UBS as R2 and AI optimism priced in",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:42:06Z",
-      "published_at_pkt": "2026-01-14T18:42:06+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/willis-lease-finance-corporation-wlfc-134206681.html",
+      "published_at_utc": "2026-01-14T14:08:18Z",
+      "published_at_pkt": "2026-01-14T19:08:18+05:00",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/",
+      "original_url": "https://www.investing.com/news/stock-market-news/rivian-downgraded-to-sell-at-ubs-as-r2-and-ai-optimism-priced-in-4447401",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -602,38 +758,36 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Willis",
-        "Lease",
-        "Finance",
-        "Corporation",
-        "WLFC",
-        "Bull",
-        "Case",
-        "Theory"
+        "Rivian",
+        "downgraded",
+        "Sell",
+        "UBS",
+        "optimism",
+        "priced"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:dbd27dfcdc6381eac41680717adeb5570df1bcae"
+      "dedupe_hash": "sha1:470716bfeea0442358590063a8dca74f860312cc"
     },
     {
-      "id": "news_20260114_134120_c5cc28",
+      "id": "news_20260114_140626_65864d",
       "category": "stocks_macro",
-      "title_en": "Quantum Computing Stocks: Honeywell's Quantinuum Plans IPO",
-      "title_ur": "Quantum Computing Stocks: Honeywell's Quantinuum Plans IPO",
+      "title_en": "Wells Fargo profit, interest income miss estimates; shares fall",
+      "title_ur": "Wells Fargo profit, interest income miss estimates; shares fall",
       "summary_en": [
-        "Quantum Computing Stocks: Honeywell's Quantinuum Plans IPO",
+        "Wells Fargo profit, interest income miss estimates; shares fall",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "Quantum Computing Stocks: Honeywell's Quantinuum Plans IPO",
+        "Wells Fargo profit, interest income miss estimates; shares fall",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:41:20Z",
-      "published_at_pkt": "2026-01-14T18:41:20+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://www.investors.com/news/technology/quantum-computing-stocks-honeywell-quantinuum-plans-ipo/?src=A00220&yptr=yahoo",
+      "published_at_utc": "2026-01-14T14:06:26Z",
+      "published_at_pkt": "2026-01-14T19:06:26+05:00",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/",
+      "original_url": "https://www.investing.com/news/stock-market-news/wells-fargo-profit-climbs-on-interest-income-boost-4446726",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -641,37 +795,38 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Quantum",
-        "Computing",
-        "Stocks",
-        "Honeywell",
-        "Quantinuum",
-        "Plans",
-        "IPO"
+        "Wells",
+        "Fargo",
+        "profit",
+        "interest",
+        "income",
+        "miss",
+        "estimates",
+        "shares"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:c5cc280fd8fb8d6442fd49bf3d5a919f55f45032"
+      "dedupe_hash": "sha1:65864dff18ec5d763bcae26581701cbc493e0925"
     },
     {
-      "id": "news_20260114_134047_21d6b7",
+      "id": "news_20260114_134856_eaabfe",
       "category": "stocks_macro",
-      "title_en": "Citi Sees M&A Fee Haul Surge 84% in Fourth Quarter",
-      "title_ur": "Citi Sees M&A Fee Haul Surge 84% in Fourth Quarter",
+      "title_en": "Factbox-What Saks Global’s bankruptcy filing reveals about its assets, creditors, financing",
+      "title_ur": "Factbox-What Saks Global’s bankruptcy filing reveals about its assets, creditors, financing",
       "summary_en": [
-        "Citi Sees M&A Fee Haul Surge 84% in Fourth Quarter",
+        "Factbox-What Saks Global’s bankruptcy filing reveals about its assets, creditors, financing",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "Citi Sees M&A Fee Haul Surge 84% in Fourth Quarter",
+        "Factbox-What Saks Global’s bankruptcy filing reveals about its assets, creditors, financing",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:40:47Z",
-      "published_at_pkt": "2026-01-14T18:40:47+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/video/citi-sees-m-fee-haul-134047861.html",
+      "published_at_utc": "2026-01-14T13:48:56Z",
+      "published_at_pkt": "2026-01-14T18:48:56+05:00",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/",
+      "original_url": "https://www.investing.com/news/stock-market-news/factboxwhat-saks-globals-bankruptcy-filing-reveals-about-its-assets-creditors-financing-4447258",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -679,37 +834,38 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Citi",
-        "Sees",
-        "Fee",
-        "Haul",
-        "Surge",
-        "Fourth",
-        "Quarter"
+        "Factbox-What",
+        "Saks",
+        "Global",
+        "bankruptcy",
+        "filing",
+        "reveals",
+        "about",
+        "its"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:21d6b7116936bc276601dc909ead8ced8fb7bbb7"
+      "dedupe_hash": "sha1:eaabfe93b9163106c350781511c0a635243cd781"
     },
     {
-      "id": "news_20260114_134044_b8e4ac",
+      "id": "news_20260114_134008_e08e90",
       "category": "stocks_macro",
-      "title_en": "What Makes Amrize (AMRZ) a Strong Investment?",
-      "title_ur": "What Makes Amrize (AMRZ) a Strong Investment?",
+      "title_en": "Another Winning Year",
+      "title_ur": "Another Winning Year",
       "summary_en": [
-        "What Makes Amrize (AMRZ) a Strong Investment?",
+        "Another Winning Year",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "What Makes Amrize (AMRZ) a Strong Investment?",
+        "Another Winning Year",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:40:44Z",
-      "published_at_pkt": "2026-01-14T18:40:44+05:00",
+      "published_at_utc": "2026-01-14T13:40:08Z",
+      "published_at_pkt": "2026-01-14T18:40:08+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/makes-amrize-amrz-strong-investment-134044701.html",
+      "original_url": "https://finance.yahoo.com/research/reports/ARGUS_45848_PortfolioIdeas_1768398008000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -717,36 +873,33 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "What",
-        "Makes",
-        "Amrize",
-        "AMRZ",
-        "Strong",
-        "Investment"
+        "Another",
+        "Winning",
+        "Year"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:b8e4ac9e8b4c03ac04bd4baeea340c31bc96c13a"
+      "dedupe_hash": "sha1:e08e90a541bd39f0fe7507880d31dd6963006f68"
     },
     {
-      "id": "news_20260114_134018_1602f0",
+      "id": "news_20260114_124051_a2ef46",
       "category": "stocks_macro",
-      "title_en": "First Solar, Inc. (FSLR): A Bull Case Theory",
-      "title_ur": "First Solar, Inc. (FSLR): A Bull Case Theory",
+      "title_en": "Technical Assessment: Bullish in the Intermediate-Term",
+      "title_ur": "Technical Assessment: Bullish in the Intermediate-Term",
       "summary_en": [
-        "First Solar, Inc. (FSLR): A Bull Case Theory",
+        "Technical Assessment: Bullish in the Intermediate-Term",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
       "summary_ur": [
-        "First Solar, Inc. (FSLR): A Bull Case Theory",
+        "Technical Assessment: Bullish in the Intermediate-Term",
         "Watch market reaction and follow-up official updates.",
         "Watch market reaction."
       ],
-      "published_at_utc": "2026-01-14T13:40:18Z",
-      "published_at_pkt": "2026-01-14T18:40:18+05:00",
+      "published_at_utc": "2026-01-14T12:40:51Z",
+      "published_at_pkt": "2026-01-14T17:40:51+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/first-solar-inc-fslr-bull-134018267.html",
+      "original_url": "https://finance.yahoo.com/research/reports/ARGUS_45844_TechnicalAnalysis_1768394451000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -754,591 +907,264 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "First",
-        "Solar",
-        "Inc",
-        "FSLR",
-        "Bull",
-        "Case",
-        "Theory"
-      ],
-      "linked_assets": [
-        "SOLUSDT"
-      ],
-      "dedupe_hash": "sha1:1602f05d5a8460a8a02ca65072e624896a5b164a"
-    },
-    {
-      "id": "news_20260114_133710_00a0f9",
-      "category": "stocks_macro",
-      "title_en": "Pinterest, Inc. (PINS): A Bull Case Theory",
-      "title_ur": "Pinterest, Inc. (PINS): A Bull Case Theory",
-      "summary_en": [
-        "Pinterest, Inc. (PINS): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Pinterest, Inc. (PINS): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:37:10Z",
-      "published_at_pkt": "2026-01-14T18:37:10+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/pinterest-inc-pins-bull-case-133710812.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Pinterest",
-        "Inc",
-        "PINS",
-        "Bull",
-        "Case",
-        "Theory"
+        "Technical",
+        "Assessment",
+        "Bullish",
+        "Intermediate-Term"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:00a0f95ef021374e02348db616a36171edc17b35"
+      "dedupe_hash": "sha1:a2ef464071217884a66eea33f825fbd9601972f7"
     },
     {
-      "id": "news_20260114_133657_3ee4db",
-      "category": "stocks_macro",
-      "title_en": "Western Digital Corporation (WDC): A Bull Case Theory",
-      "title_ur": "Western Digital Corporation (WDC): A Bull Case Theory",
-      "summary_en": [
-        "Western Digital Corporation (WDC): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Western Digital Corporation (WDC): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:36:57Z",
-      "published_at_pkt": "2026-01-14T18:36:57+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/western-digital-corporation-wdc-bull-133657698.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Western",
-        "Digital",
-        "Corporation",
-        "WDC",
-        "Bull",
-        "Case",
-        "Theory"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:3ee4db52a9240a0a7347b7b5a6a0918068f0db86"
-    },
-    {
-      "id": "news_20260114_133645_e2d849",
-      "category": "stocks_macro",
-      "title_en": "ADMA Biologics, Inc. (ADMA): A Bull Case Theory",
-      "title_ur": "ADMA Biologics, Inc. (ADMA): A Bull Case Theory",
-      "summary_en": [
-        "ADMA Biologics, Inc. (ADMA): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "ADMA Biologics, Inc. (ADMA): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:36:45Z",
-      "published_at_pkt": "2026-01-14T18:36:45+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/adma-biologics-inc-adma-bull-133645596.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "ADMA",
-        "Biologics",
-        "Inc",
-        "Bull",
-        "Case",
-        "Theory"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:e2d849db2bc92a45f5b06b616c8c4ba7922d9ec4"
-    },
-    {
-      "id": "news_20260114_133613_505da0",
-      "category": "stocks_macro",
-      "title_en": "Viper Energy, Inc. (VNOM): A Bull Case Theory",
-      "title_ur": "Viper Energy, Inc. (VNOM): A Bull Case Theory",
-      "summary_en": [
-        "Viper Energy, Inc. (VNOM): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Viper Energy, Inc. (VNOM): A Bull Case Theory",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:36:13Z",
-      "published_at_pkt": "2026-01-14T18:36:13+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/viper-energy-inc-vnom-bull-133613207.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Viper",
-        "Energy",
-        "Inc",
-        "VNOM",
-        "Bull",
-        "Case",
-        "Theory"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:505da039cf80a2a0a8c550634f306a7e503147bb"
-    },
-    {
-      "id": "news_20260114_132628_68cefb",
+      "id": "news_20260114_120740_f9d05a",
       "category": "crypto",
-      "title_en": "Germany’s DZ Bank secures MiCA license for ‘meinKrypto’ platform",
-      "title_ur": "Germany’s DZ Bank secures MiCA license for ‘meinKrypto’ platform",
+      "title_en": "Spain’s Bankinter joins $35M Bit2Me round amid growing bank crypto alliances",
+      "title_ur": "Spain’s Bankinter joins $35M Bit2Me round amid growing bank crypto alliances",
       "summary_en": [
-        "Germany’s DZ Bank secures MiCA license for ‘meinKrypto’ platform",
-        "Retail crypto access will initially cover Bitcoin, Ether, Litecoin and Cardano through participating cooperative banks.",
+        "Spain’s Bankinter joins $35M Bit2Me round amid growing bank crypto alliances",
+        "Bankinter joins Tether and BBVA in the $35 million investment round after the Spanish crypto exchange received its MiCA license in 2025.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Germany’s DZ Bank secures MiCA license for ‘meinKrypto’ platform",
-        "Retail crypto access will initially cover Bitcoin, Ether, Litecoin and Cardano through participating cooperative banks.",
+        "Spain’s Bankinter joins $35M Bit2Me round amid growing bank crypto alliances",
+        "Bankinter joins Tether and BBVA in the $35 million investment round after the Spanish crypto exchange received its MiCA license in 2025.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T13:26:28Z",
-      "published_at_pkt": "2026-01-14T18:26:28+05:00",
+      "published_at_utc": "2026-01-14T12:07:40Z",
+      "published_at_pkt": "2026-01-14T17:07:40+05:00",
       "source_name": "Cointelegraph",
       "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/dz-bank-mica-license-crypto-services-germany?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 50,
+      "original_url": "https://cointelegraph.com/news/bankinter-30m-bit2me-investment-eu-fintech-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
       "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Germany",
-        "Bank",
-        "secures",
-        "MiCA",
-        "license",
-        "meinKrypto",
+        "Spain",
+        "Bankinter",
+        "joins",
+        "Bit2Me",
+        "round",
+        "amid",
+        "growing",
+        "bank"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:f9d05afd614a67849043d66782943e3820aba6ae"
+    },
+    {
+      "id": "news_20260114_120703_5d60bd",
+      "category": "stocks_macro",
+      "title_en": "Analyst Report: Danaher Corp.",
+      "title_ur": "Analyst Report: Danaher Corp.",
+      "summary_en": [
+        "Analyst Report: Danaher Corp.",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Analyst Report: Danaher Corp.",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T12:07:03Z",
+      "published_at_pkt": "2026-01-14T17:07:03+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/research/reports/ARGUS_2892_AnalystReport_1768392423000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Analyst",
+        "Report",
+        "Danaher",
+        "Corp"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:5d60bdb13678b9f624e774ab1d1aa9ac777d5324"
+    },
+    {
+      "id": "news_20260114_120703_b42f32",
+      "category": "stocks_macro",
+      "title_en": "Analyst Report: JPMorgan Chase & Co.",
+      "title_ur": "Analyst Report: JPMorgan Chase & Co.",
+      "summary_en": [
+        "Analyst Report: JPMorgan Chase & Co.",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "summary_ur": [
+        "Analyst Report: JPMorgan Chase & Co.",
+        "Watch market reaction and follow-up official updates.",
+        "Watch market reaction."
+      ],
+      "published_at_utc": "2026-01-14T12:07:03Z",
+      "published_at_pkt": "2026-01-14T17:07:03+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/research/reports/ARGUS_3110_AnalystReport_1768392423000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Analyst",
+        "Report",
+        "JPMorgan",
+        "Chase"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:b42f32cc490c653e53468d4ec44193e9d847c8e1"
+    },
+    {
+      "id": "news_20260114_114032_f1db8a",
+      "category": "crypto",
+      "title_en": "Bitcoin clears $94,500 as altcoins steal the spotlight: Crypto Markets Today",
+      "title_ur": "Bitcoin clears $94,500 as altcoins steal the spotlight: Crypto Markets Today",
+      "summary_en": [
+        "Bitcoin clears $94,500 as altcoins steal the spotlight: Crypto Markets Today",
+        "Crypto markets pushed higher on Wednesday after bitcoin broke above a key resistance level, triggering heavy liquidations and paving the way for sharp gains across altcoins.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Bitcoin clears $94,500 as altcoins steal the spotlight: Crypto Markets Today",
+        "Crypto markets pushed higher on Wednesday after bitcoin broke above a key resistance level, triggering heavy liquidations and paving the way for sharp gains across altcoins.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T11:40:32Z",
+      "published_at_pkt": "2026-01-14T16:40:32+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/14/bitcoin-clears-usd94-500-as-altcoins-steal-the-spotlight-crypto-markets-today",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Bitcoin",
+        "clears",
+        "altcoins",
+        "steal",
+        "spotlight",
+        "Crypto",
+        "Markets",
+        "Today"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:f1db8a36e0dc4b3b3fb6ea736c286478c736f880"
+    },
+    {
+      "id": "news_20260114_113650_aefd69",
+      "category": "crypto",
+      "title_en": "MetaPlanet just 5% away from restarting share sales for bitcoin buying",
+      "title_ur": "MetaPlanet just 5% away from restarting share sales for bitcoin buying",
+      "summary_en": [
+        "MetaPlanet just 5% away from restarting share sales for bitcoin buying",
+        "Metaplanet shares approached the 637 yen trigger that reactivates the company’s moving strike warrants and unlocks hundreds of millions for new bitcoin purchases.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "MetaPlanet just 5% away from restarting share sales for bitcoin buying",
+        "Metaplanet shares approached the 637 yen trigger that reactivates the company’s moving strike warrants and unlocks hundreds of millions for new bitcoin purchases.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T11:36:50Z",
+      "published_at_pkt": "2026-01-14T16:36:50+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/14/metaplanet-just-5-away-from-restarting-share-sales-for-bitcoin-buying",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "MetaPlanet",
+        "just",
+        "away",
+        "restarting",
+        "share",
+        "sales",
+        "bitcoin",
+        "buying"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:aefd69bd209f863a2202f3b78fec48f6c67451dc"
+    },
+    {
+      "id": "news_20260114_112450_fe67ee",
+      "category": "crypto",
+      "title_en": "Backpack exchange launches beta testing of prediction market platform",
+      "title_ur": "Backpack exchange launches beta testing of prediction market platform",
+      "summary_en": [
+        "Backpack exchange launches beta testing of prediction market platform",
+        "Backpack exchange launched an invite-only beta for its Unified Prediction Portfolio, letting users hedge and trade across markets in a single crypto account.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Backpack exchange launches beta testing of prediction market platform",
+        "Backpack exchange launched an invite-only beta for its Unified Prediction Portfolio, letting users hedge and trade across markets in a single crypto account.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T11:24:50Z",
+      "published_at_pkt": "2026-01-14T16:24:50+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/backpack-exchange-launches-beta-testing-of-prediction-market-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Backpack",
+        "exchange",
+        "launches",
+        "beta",
+        "testing",
+        "prediction",
+        "market",
         "platform"
       ],
-      "linked_assets": [
-        "BTCUSDT",
-        "ETHUSDT"
-      ],
-      "dedupe_hash": "sha1:68cefb50aa5f06ac63b7a8a445c949265cd9adce"
-    },
-    {
-      "id": "news_20260114_131505_158176",
-      "category": "crypto",
-      "title_en": "Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year",
-      "title_ur": "Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year",
-      "summary_en": [
-        "Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year",
-        "Bitcoin Magazine Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year Rhode Island lawmakers have reintroduced a temporary Bitcoin tax exemption bill that would eliminate state income and capital gains taxes on small Bitcoin transactions — up to $20,000 annually.",
-        "This post Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year",
-        "Bitcoin Magazine Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year Rhode Island lawmakers have reintroduced a temporary Bitcoin tax exemption bill that would eliminate state income and capital gains taxes on small Bitcoin transactions — up to $20,000 annually.",
-        "This post Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T13:15:05Z",
-      "published_at_pkt": "2026-01-14T18:15:05+05:00",
-      "source_name": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/news/rhode-island-reintroduces-bitcoin-tax-bill",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Rhode",
-        "Island",
-        "Reintroduces",
-        "Bitcoin",
-        "Tax",
-        "Exemption",
-        "Bill",
-        "Second"
-      ],
-      "linked_assets": [
-        "BTCUSDT"
-      ],
-      "dedupe_hash": "sha1:158176cc42749112a1b7db637184b02c98b707ec"
-    },
-    {
-      "id": "news_20260114_131424_54bad7",
-      "category": "stocks_macro",
-      "title_en": "Oil prices rise as tensions flare in Iran, risking 'the nerve center of the global oil market'",
-      "title_ur": "Oil prices rise as tensions flare in Iran, risking 'the nerve center of the global oil market'",
-      "summary_en": [
-        "Oil prices rise as tensions flare in Iran, risking 'the nerve center of the global oil market'",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Oil prices rise as tensions flare in Iran, risking 'the nerve center of the global oil market'",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T13:14:24Z",
-      "published_at_pkt": "2026-01-14T18:14:24+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/oil-prices-rise-as-tensions-flare-in-iran-risking-the-nerve-center-of-the-global-oil-market-131424127.html",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Oil",
-        "prices",
-        "rise",
-        "tensions",
-        "flare",
-        "Iran",
-        "risking",
-        "nerve"
-      ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:54bad749244f57e42ff28dcb4f43307b88ed4aed"
+      "dedupe_hash": "sha1:fe67ee7ea52f0a61f0236b5ba5f705b9b6767da1"
     },
     {
-      "id": "news_20260114_130000_75d933",
+      "id": "news_20260114_112117_ed7053",
       "category": "crypto",
-      "title_en": "Congress must bar interest on payment stablecoins to avoid harming Main Street lending",
-      "title_ur": "Congress must bar interest on payment stablecoins to avoid harming Main Street lending",
+      "title_en": "Visa taps BVNK to power stablecoin payouts on Visa Direct",
+      "title_ur": "Visa taps BVNK to power stablecoin payouts on Visa Direct",
       "summary_en": [
-        "Congress must bar interest on payment stablecoins to avoid harming Main Street lending",
-        "Allowing crypto exchanges and other intermediaries to offer yield-like incentives on payment stablecoins would pose significant risks to local economies, argues Kevin Paintner, chairman of the Independent Community Bankers of America’s Digital Assets Subcommittee.",
+        "Visa taps BVNK to power stablecoin payouts on Visa Direct",
+        "Visa has chosen BVNK to power Visa Direct pilots using stablecoins, enabling pre-funded cross-border payouts to wallets in select markets.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Congress must bar interest on payment stablecoins to avoid harming Main Street lending",
-        "Allowing crypto exchanges and other intermediaries to offer yield-like incentives on payment stablecoins would pose significant risks to local economies, argues Kevin Paintner, chairman of the Independent Community Bankers of America’s Digital Assets Subcommittee.",
+        "Visa taps BVNK to power stablecoin payouts on Visa Direct",
+        "Visa has chosen BVNK to power Visa Direct pilots using stablecoins, enabling pre-funded cross-border payouts to wallets in select markets.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T13:00:00Z",
-      "published_at_pkt": "2026-01-14T18:00:00+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/opinion/2026/01/14/congress-must-bar-interest-on-payment-stablecoins-to-avoid-harming-main-street-lending",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Congress",
-        "must",
-        "bar",
-        "interest",
-        "payment",
-        "stablecoins",
-        "avoid",
-        "harming"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:75d93373fa3e7ddc5dccb042d21ad6eed78f48d6"
-    },
-    {
-      "id": "news_20260114_124233_9a2ae2",
-      "category": "crypto",
-      "title_en": "Germany’s second-largest lender DZ Bank secures retail crypto trading MiCA license",
-      "title_ur": "Germany’s second-largest lender DZ Bank secures retail crypto trading MiCA license",
-      "summary_en": [
-        "Germany’s second-largest lender DZ Bank secures retail crypto trading MiCA license",
-        "DZ Bank will \"shortly\" roll out a crypto trading platform for cooperative banks to offer to clients.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Germany’s second-largest lender DZ Bank secures retail crypto trading MiCA license",
-        "DZ Bank will \"shortly\" roll out a crypto trading platform for cooperative banks to offer to clients.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T12:42:33Z",
-      "published_at_pkt": "2026-01-14T17:42:33+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/business/2026/01/14/germany-s-second-largest-lender-dz-bank-secures-retail-crypto-trading-mica-license",
-      "impact_score": 50,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Germany",
-        "second-largest",
-        "lender",
-        "Bank",
-        "secures",
-        "retail",
-        "crypto",
-        "trading"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:9a2ae21cc9fe64bb38c27b82988735f80c414ae6"
-    },
-    {
-      "id": "news_20260114_123523_2cb780",
-      "category": "crypto",
-      "title_en": "Tokenized gold accounts for 25% of RWA net growth in 2025 after 177% market-cap rise",
-      "title_ur": "Tokenized gold accounts for 25% of RWA net growth in 2025 after 177% market-cap rise",
-      "summary_en": [
-        "Tokenized gold accounts for 25% of RWA net growth in 2025 after 177% market-cap rise",
-        "Onchain gold products added billions in new value last year, outpacing physical bullion and most gold ETFs as trading activity increasingly shifted to blockchain rails.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Tokenized gold accounts for 25% of RWA net growth in 2025 after 177% market-cap rise",
-        "Onchain gold products added billions in new value last year, outpacing physical bullion and most gold ETFs as trading activity increasingly shifted to blockchain rails.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T12:35:23Z",
-      "published_at_pkt": "2026-01-14T17:35:23+05:00",
+      "published_at_utc": "2026-01-14T11:21:17Z",
+      "published_at_pkt": "2026-01-14T16:21:17+05:00",
       "source_name": "Cointelegraph",
       "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/tokenized-gold-drives-rwa-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Tokenized",
-        "gold",
-        "accounts",
-        "RWA",
-        "net",
-        "growth",
-        "after",
-        "market-cap"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:2cb780c50ec5de9c9dd19fa59b64966e8508d217"
-    },
-    {
-      "id": "news_20260114_122617_5c9954",
-      "category": "crypto",
-      "title_en": "Bitcoin could rise to $100,000, analysts say: Crypto Daybook Americas",
-      "title_ur": "Bitcoin could rise to $100,000, analysts say: Crypto Daybook Americas",
-      "summary_en": [
-        "Bitcoin could rise to $100,000, analysts say: Crypto Daybook Americas",
-        "Your day-ahead look for Jan.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Bitcoin could rise to $100,000, analysts say: Crypto Daybook Americas",
-        "Your day-ahead look for Jan.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T12:26:17Z",
-      "published_at_pkt": "2026-01-14T17:26:17+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/daybook-us/2026/01/14/bitcoin-opens-path-to-usd100-00-paved-by-gold-crypto-daybook-americas",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Bitcoin",
-        "could",
-        "rise",
-        "analysts",
-        "say",
-        "Crypto",
-        "Daybook",
-        "Americas"
-      ],
-      "linked_assets": [
-        "BTCUSDT"
-      ],
-      "dedupe_hash": "sha1:5c99547e4c437b02109b6be70448f438013497be"
-    },
-    {
-      "id": "news_20260114_113730_a362f8",
-      "category": "crypto",
-      "title_en": "Perp DEXs will ‘eat’ expensive TradFi in 2026: Delphi Digital",
-      "title_ur": "Perp DEXs will ‘eat’ expensive TradFi in 2026: Delphi Digital",
-      "summary_en": [
-        "Perp DEXs will ‘eat’ expensive TradFi in 2026: Delphi Digital",
-        "Perp DEXs handle only a fraction of the trading activity seen in TradFi investments, but their infrastructure is catching up to the slow and fragmented centralized trading venues.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Perp DEXs will ‘eat’ expensive TradFi in 2026: Delphi Digital",
-        "Perp DEXs handle only a fraction of the trading activity seen in TradFi investments, but their infrastructure is catching up to the slow and fragmented centralized trading venues.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T11:37:30Z",
-      "published_at_pkt": "2026-01-14T16:37:30+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/perp-dexs-gain-share-tradfi-onchain-derivatives-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Perp",
-        "DEXs",
-        "will",
-        "eat",
-        "expensive",
-        "TradFi",
-        "Delphi",
-        "Digital"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:a362f8b62ae06de7b6972c56d32842fd17cef527"
-    },
-    {
-      "id": "news_20260114_101340_9ec459",
-      "category": "crypto",
-      "title_en": "Galaxy says Senate crypto bill risks expanding Treasury surveillance authority",
-      "title_ur": "Galaxy says Senate crypto bill risks expanding Treasury surveillance authority",
-      "summary_en": [
-        "Galaxy says Senate crypto bill risks expanding Treasury surveillance authority",
-        "Galaxy says the draft crypto market structure bill would give the US Treasury new powers to freeze transactions and deploy Patriot Act–style measures.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Galaxy says Senate crypto bill risks expanding Treasury surveillance authority",
-        "Galaxy says the draft crypto market structure bill would give the US Treasury new powers to freeze transactions and deploy Patriot Act–style measures.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T10:13:40Z",
-      "published_at_pkt": "2026-01-14T15:13:40+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/galaxy-warns-senate-crypto-bill-expands-treasury-surveillance-powers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Galaxy",
-        "says",
-        "Senate",
-        "crypto",
-        "bill",
-        "risks",
-        "expanding",
-        "Treasury"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:9ec4594d3ef6ec3b3ceeb3f81f1443e63d99fad0"
-    },
-    {
-      "id": "news_20260114_095638_2e0218",
-      "category": "crypto",
-      "title_en": "U.S. bitcoin buyers are now driving price rally, reversing late 2025 trend",
-      "title_ur": "U.S. bitcoin buyers are now driving price rally, reversing late 2025 trend",
-      "summary_en": [
-        "U.S. bitcoin buyers are now driving price rally, reversing late 2025 trend",
-        "Strength in bitcoin linked U.S.",
-        "equities, led by Strategy, is reinforcing positive sentiment during U.S.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "U.S. bitcoin buyers are now driving price rally, reversing late 2025 trend",
-        "Strength in bitcoin linked U.S.",
-        "equities, led by Strategy, is reinforcing positive sentiment during U.S.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T09:56:38Z",
-      "published_at_pkt": "2026-01-14T14:56:38+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/14/north-american-hours-become-the-strongest-window-for-bitcoin-returns-reversing-late-2025-trend",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "bitcoin",
-        "buyers",
-        "now",
-        "driving",
-        "price",
-        "rally",
-        "reversing",
-        "late"
-      ],
-      "linked_assets": [
-        "BTCUSDT"
-      ],
-      "dedupe_hash": "sha1:2e0218afb5f820a772a096d57741d5cf47bd6c37"
-    },
-    {
-      "id": "news_20260114_080625_65feea",
-      "category": "crypto",
-      "title_en": "Visa teams up with BVNK to launch stablecoin payouts",
-      "title_ur": "Visa teams up with BVNK to launch stablecoin payouts",
-      "summary_en": [
-        "Visa teams up with BVNK to launch stablecoin payouts",
-        "The new feature lets companies send money to digital wallets instantly, even outside banking hours.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Visa teams up with BVNK to launch stablecoin payouts",
-        "The new feature lets companies send money to digital wallets instantly, even outside banking hours.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T08:06:25Z",
-      "published_at_pkt": "2026-01-14T13:06:25+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/business/2026/01/13/visa-teams-up-with-bvnk-to-launch-stablecoin-payouts",
+      "original_url": "https://cointelegraph.com/news/visa-bvnk-stablecoin-payouts-visa-direct-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1347,35 +1173,36 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Visa",
-        "teams",
+        "taps",
         "BVNK",
-        "launch",
+        "power",
         "stablecoin",
-        "payouts"
+        "payouts",
+        "Direct"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:65feea3a30ac3e5b7c7a50a96e3dcbbb7974918c"
+      "dedupe_hash": "sha1:ed7053361e28543a9787dad6f5eb46285e4f8d79"
     },
     {
-      "id": "news_20260114_080000_d18659",
+      "id": "news_20260114_110541_1bf0ac",
       "category": "crypto",
-      "title_en": "Spanish bank Bankinter joins BBVA and Tether with stake in crypto exchange Bit2Me",
-      "title_ur": "Spanish bank Bankinter joins BBVA and Tether with stake in crypto exchange Bit2Me",
+      "title_en": "Bitcoin cools near $96.5K as markets shrug off US tariff uncertainty",
+      "title_ur": "Bitcoin cools near $96.5K as markets shrug off US tariff uncertainty",
       "summary_en": [
-        "Spanish bank Bankinter joins BBVA and Tether with stake in crypto exchange Bit2Me",
-        "The investment strengthens Bit2Me's capital structure and supports its regulatory ambitions in Europe and Latin America.",
+        "Bitcoin cools near $96.5K as markets shrug off US tariff uncertainty",
+        "Bitcoin held near yearly highs as traders weighed geopolitical risks and a potential US Supreme Court tariff ruling that markets appear to have already priced in.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Spanish bank Bankinter joins BBVA and Tether with stake in crypto exchange Bit2Me",
-        "The investment strengthens Bit2Me's capital structure and supports its regulatory ambitions in Europe and Latin America.",
+        "Bitcoin cools near $96.5K as markets shrug off US tariff uncertainty",
+        "Bitcoin held near yearly highs as traders weighed geopolitical risks and a potential US Supreme Court tariff ruling that markets appear to have already priced in.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T08:00:00Z",
-      "published_at_pkt": "2026-01-14T13:00:00+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/business/2026/01/14/spanish-bank-bankinter-joins-bbva-and-tether-with-stake-in-crypto-exchange-bit2me",
+      "published_at_utc": "2026-01-14T11:05:41Z",
+      "published_at_pkt": "2026-01-14T16:05:41+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-rests-96-5k-high-analysis-us-tariff-ruling-priced-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1383,38 +1210,40 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Spanish",
-        "bank",
-        "Bankinter",
-        "joins",
-        "BBVA",
-        "Tether",
-        "stake",
-        "crypto"
+        "Bitcoin",
+        "cools",
+        "near",
+        "markets",
+        "shrug",
+        "off",
+        "tariff",
+        "uncertainty"
       ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:d186598f681813b74e7ff8e1ba94063fd2a618f5"
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:1bf0ac0b2c65c4008accaab1b707d5929d440fdf"
     },
     {
-      "id": "news_20260114_075128_485556",
+      "id": "news_20260114_103235_c3b5dc",
       "category": "crypto",
-      "title_en": "Pakistan taps Trump-linked crypto company for stablecoin payments deal: Report",
-      "title_ur": "Pakistan taps Trump-linked crypto company for stablecoin payments deal: Report",
+      "title_en": "Pakistan signs deal with WLFI-linked crypto business for cross-border payments",
+      "title_ur": "Pakistan signs deal with WLFI-linked crypto business for cross-border payments",
       "summary_en": [
-        "Pakistan taps Trump-linked crypto company for stablecoin payments deal: Report",
-        "Pakistan signed an agreement with SC Financial Technologies, which is linked to Trump-backed World Liberty Financial, to explore using its USD1 stablecoin for payments.",
+        "Pakistan signs deal with WLFI-linked crypto business for cross-border payments",
+        "The agreement would explore integrating a dollar-backed stablecoin into Pakistan’s regulated payments system as the country ramps up plans for digital currency and virtual-asset rules.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Pakistan taps Trump-linked crypto company for stablecoin payments deal: Report",
-        "Pakistan signed an agreement with SC Financial Technologies, which is linked to Trump-backed World Liberty Financial, to explore using its USD1 stablecoin for payments.",
+        "Pakistan signs deal with WLFI-linked crypto business for cross-border payments",
+        "The agreement would explore integrating a dollar-backed stablecoin into Pakistan’s regulated payments system as the country ramps up plans for digital currency and virtual-asset rules.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T07:51:28Z",
-      "published_at_pkt": "2026-01-14T12:51:28+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/pakistan-world-liberty-stablecoin-cross-border-payments-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-14T10:32:35Z",
+      "published_at_pkt": "2026-01-14T15:32:35+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/14/pakistan-signs-deal-with-trump-linked-crypto-business-for-cross-border-payments",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1423,80 +1252,196 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Pakistan",
-        "taps",
-        "Trump-linked",
+        "signs",
+        "deal",
+        "WLFI-linked",
         "crypto",
-        "company",
-        "stablecoin",
-        "payments",
-        "deal"
+        "business",
+        "cross-border",
+        "payments"
       ],
       "linked_assets": [
         "USD/PKR"
       ],
-      "dedupe_hash": "sha1:485556e62303bd6b3b26d1e785e5f0752102ba08"
+      "dedupe_hash": "sha1:c3b5dcfb4cc44cccf8fdb76b229675da50b2bf40"
     },
     {
-      "id": "news_20260114_073437_6d172f",
+      "id": "news_20260114_102502_a0d00c",
       "category": "crypto",
-      "title_en": "U.S. spot bitcoin ETFs pull in $750 million in strongest day since October",
-      "title_ur": "U.S. spot bitcoin ETFs pull in $750 million in strongest day since October",
+      "title_en": "Animoca buys Somo as NFT market rebounds early in 2026",
+      "title_ur": "Animoca buys Somo as NFT market rebounds early in 2026",
       "summary_en": [
-        "U.S. spot bitcoin ETFs pull in $750 million in strongest day since October",
-        "Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.",
+        "Animoca buys Somo as NFT market rebounds early in 2026",
+        "Animoca’s acquisition of Somo comes as NFT market data shows a short-term increase in prices and trading activity early in 2026.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "U.S. spot bitcoin ETFs pull in $750 million in strongest day since October",
-        "Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.",
+        "Animoca buys Somo as NFT market rebounds early in 2026",
+        "Animoca’s acquisition of Somo comes as NFT market data shows a short-term increase in prices and trading activity early in 2026.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T07:34:37Z",
-      "published_at_pkt": "2026-01-14T12:34:37+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october",
-      "impact_score": 50,
+      "published_at_utc": "2026-01-14T10:25:02Z",
+      "published_at_pkt": "2026-01-14T15:25:02+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/animoca-brands-acquires-somo-nft-market-rebound-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
       "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "spot",
-        "bitcoin",
-        "ETFs",
-        "pull",
-        "million",
-        "strongest",
-        "day",
-        "since"
+        "Animoca",
+        "buys",
+        "Somo",
+        "NFT",
+        "market",
+        "rebounds",
+        "early"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:a0d00c88316c17aebf40af56cc56b7d5156b96a8"
+    },
+    {
+      "id": "news_20260114_101528_e5085d",
+      "category": "crypto",
+      "title_en": "Ripple wins early money license nod in Luxembourg for Europe expansion",
+      "title_ur": "Ripple wins early money license nod in Luxembourg for Europe expansion",
+      "summary_en": [
+        "Ripple wins early money license nod in Luxembourg for Europe expansion",
+        "The payments firm says the CSSF has issued a preliminary approval for an EMI license, a step toward offering regulated crypto and stablecoin payment services across the EU.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Ripple wins early money license nod in Luxembourg for Europe expansion",
+        "The payments firm says the CSSF has issued a preliminary approval for an EMI license, a step toward offering regulated crypto and stablecoin payment services across the EU.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T10:15:28Z",
+      "published_at_pkt": "2026-01-14T15:15:28+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/14/ripple-steps-up-europe-licensing-drive-with-preliminary-luxembourg-emi-clearance",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Ripple",
+        "wins",
+        "early",
+        "money",
+        "license",
+        "nod",
+        "Luxembourg",
+        "Europe"
       ],
       "linked_assets": [
-        "BTCUSDT"
+        "XRPUSDT"
       ],
-      "dedupe_hash": "sha1:6d172fbe76aa04b1f36768b04e16d3e183e536a0"
+      "dedupe_hash": "sha1:e5085d4b1cf44c5ab71b4deae54a2de777db2df0"
     },
     {
-      "id": "news_20260114_065936_21d58d",
+      "id": "news_20260114_094038_a7a157",
       "category": "crypto",
-      "title_en": "Dogecoin jumps nearly 9% as buyers push price out of recent downtrend",
-      "title_ur": "Dogecoin jumps nearly 9% as buyers push price out of recent downtrend",
+      "title_en": "France flags 90 unlicensed crypto companies ahead of MiCA cutoff: Report",
+      "title_ur": "France flags 90 unlicensed crypto companies ahead of MiCA cutoff: Report",
       "summary_en": [
-        "Dogecoin jumps nearly 9% as buyers push price out of recent downtrend",
-        "The rally in meme coins like Dogecoin and Pepe reflects renewed speculative interest as broader crypto markets remain mixed.",
+        "France flags 90 unlicensed crypto companies ahead of MiCA cutoff: Report",
+        "Of the 90 crypto businesses registered in France without a MiCA license, 40% are not seeking the license, while 30% remain unresponsive as regulators warn of July shutdowns.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Dogecoin jumps nearly 9% as buyers push price out of recent downtrend",
-        "The rally in meme coins like Dogecoin and Pepe reflects renewed speculative interest as broader crypto markets remain mixed.",
+        "France flags 90 unlicensed crypto companies ahead of MiCA cutoff: Report",
+        "Of the 90 crypto businesses registered in France without a MiCA license, 40% are not seeking the license, while 30% remain unresponsive as regulators warn of July shutdowns.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T06:59:36Z",
-      "published_at_pkt": "2026-01-14T11:59:36+05:00",
+      "published_at_utc": "2026-01-14T09:40:38Z",
+      "published_at_pkt": "2026-01-14T14:40:38+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/french-regulator-flags-90-crypto-firms-not-licensed-under-mica-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "France",
+        "flags",
+        "unlicensed",
+        "crypto",
+        "companies",
+        "ahead",
+        "MiCA",
+        "cutoff"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:a7a15780a77c12a88aef97071a87c69ed71be7dd"
+    },
+    {
+      "id": "news_20260114_090324_195cff",
+      "category": "crypto",
+      "title_en": "UK rolls back digital ID for work checks as privacy fears drive backlash",
+      "title_ur": "UK rolls back digital ID for work checks as privacy fears drive backlash",
+      "summary_en": [
+        "UK rolls back digital ID for work checks as privacy fears drive backlash",
+        "UK Prime Minister Keir Starmer scrapped plans to make digital ID mandatory for workers after a backlash over “Orwellian” surveillance fears.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "UK rolls back digital ID for work checks as privacy fears drive backlash",
+        "UK Prime Minister Keir Starmer scrapped plans to make digital ID mandatory for workers after a backlash over “Orwellian” surveillance fears.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T09:03:24Z",
+      "published_at_pkt": "2026-01-14T14:03:24+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/uk-drops-mandatory-digital-id-right-to-work-2029-optional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "rolls",
+        "back",
+        "digital",
+        "work",
+        "checks",
+        "privacy",
+        "fears",
+        "drive"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:195cffdbb2e30ade56d4e401abeab11574ceecb9"
+    },
+    {
+      "id": "news_20260114_090000_85bcc7",
+      "category": "crypto",
+      "title_en": "Binance Wallet unlocks in-app leveraged crypto futures trading with Aster team-up",
+      "title_ur": "Binance Wallet unlocks in-app leveraged crypto futures trading with Aster team-up",
+      "summary_en": [
+        "Binance Wallet unlocks in-app leveraged crypto futures trading with Aster team-up",
+        "Binance Wallet's new feature allows users to trade leveraged futures directly from their crypto wallets through an integration with decentralized exchange Aster.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Binance Wallet unlocks in-app leveraged crypto futures trading with Aster team-up",
+        "Binance Wallet's new feature allows users to trade leveraged futures directly from their crypto wallets through an integration with decentralized exchange Aster.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T09:00:00Z",
+      "published_at_pkt": "2026-01-14T14:00:00+05:00",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/14/dogecoin-jumps-nearly-9-as-buyers-push-price-out-of-recent-downtrend",
+      "original_url": "https://www.coindesk.com/business/2026/01/14/binance-wallet-unlocks-in-app-leveraged-crypto-futures-trading-with-aster-team-up",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1504,38 +1449,38 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Dogecoin",
-        "jumps",
-        "nearly",
-        "buyers",
-        "push",
-        "price",
-        "out",
-        "recent"
+        "Binance",
+        "Wallet",
+        "unlocks",
+        "in-app",
+        "leveraged",
+        "crypto",
+        "futures",
+        "trading"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:21d58def8de080a42e07a980040060da6fb0f178"
+      "dedupe_hash": "sha1:85bcc7fcd654504d47aba0efadb98706f7b36176"
     },
     {
-      "id": "news_20260114_053335_83f590",
+      "id": "news_20260114_090000_fe1194",
       "category": "crypto",
-      "title_en": "‘Concerning trend’: Impersonation scams swell 1,400% in 2025",
-      "title_ur": "‘Concerning trend’: Impersonation scams swell 1,400% in 2025",
+      "title_en": "Ripple targets MiCA passporting in EU with Luxembourg e-money nod",
+      "title_ur": "Ripple targets MiCA passporting in EU with Luxembourg e-money nod",
       "summary_en": [
-        "‘Concerning trend’: Impersonation scams swell 1,400% in 2025",
-        "Crypto security experts said a good way to counter scams that rely on deceiving victims is to be skeptical of every unsolicited message and interaction.",
+        "Ripple targets MiCA passporting in EU with Luxembourg e-money nod",
+        "The preliminary Luxembourg approval boosts Ripple’s EU expansion aims following its recent UK authorization, supporting its push toward full MiCA compliance.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "‘Concerning trend’: Impersonation scams swell 1,400% in 2025",
-        "Crypto security experts said a good way to counter scams that rely on deceiving victims is to be skeptical of every unsolicited message and interaction.",
+        "Ripple targets MiCA passporting in EU with Luxembourg e-money nod",
+        "The preliminary Luxembourg approval boosts Ripple’s EU expansion aims following its recent UK authorization, supporting its push toward full MiCA compliance.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T05:33:35Z",
-      "published_at_pkt": "2026-01-14T10:33:35+05:00",
+      "published_at_utc": "2026-01-14T09:00:00Z",
+      "published_at_pkt": "2026-01-14T14:00:00+05:00",
       "source_name": "Cointelegraph",
       "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/crypto-scams-2025-ai-impersonation-fraud-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "original_url": "https://cointelegraph.com/news/ripple-luxembourg-e-money-approval-europe-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1543,35 +1488,81 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Concerning",
-        "trend",
-        "Impersonation",
-        "scams",
-        "swell"
+        "Ripple",
+        "targets",
+        "MiCA",
+        "passporting",
+        "Luxembourg",
+        "e-money",
+        "nod"
       ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:83f590015c2cdfc867f22aa706ddc6f4f5381752"
+      "linked_assets": [
+        "XRPUSDT"
+      ],
+      "dedupe_hash": "sha1:fe1194472982ed01b09d9d16f1f873a9e39eeb5e"
     },
     {
-      "id": "news_20260114_044220_a6229b",
+      "id": "news_20260114_082209_2b9b58",
       "category": "crypto",
-      "title_en": "Crypto treasury buying outpaces Bitcoin supply at 3-to-1",
-      "title_ur": "Crypto treasury buying outpaces Bitcoin supply at 3-to-1",
+      "title_en": "Efforts to bulletproof Ethereum are paying off in user metrics",
+      "title_ur": "Efforts to bulletproof Ethereum are paying off in user metrics",
       "summary_en": [
-        "Crypto treasury buying outpaces Bitcoin supply at 3-to-1",
-        "Corporate Bitcoin treasuries expanded by 260,000 BTC in six months, three times the amount mined, with Strategy holding 60% of all corporate holdings.",
+        "Efforts to bulletproof Ethereum are paying off in user metrics",
+        "The Ethereum blockchain underwent a series of upgrades last year that have resulted in lower transaction fees and more active addresses.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Crypto treasury buying outpaces Bitcoin supply at 3-to-1",
-        "Corporate Bitcoin treasuries expanded by 260,000 BTC in six months, three times the amount mined, with Strategy holding 60% of all corporate holdings.",
+        "Efforts to bulletproof Ethereum are paying off in user metrics",
+        "The Ethereum blockchain underwent a series of upgrades last year that have resulted in lower transaction fees and more active addresses.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T04:42:20Z",
-      "published_at_pkt": "2026-01-14T09:42:20+05:00",
+      "published_at_utc": "2026-01-14T08:22:09Z",
+      "published_at_pkt": "2026-01-14T13:22:09+05:00",
       "source_name": "Cointelegraph",
       "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/crypto-treasury-buying-outpaces-bitcoin-supply-3x?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "original_url": "https://cointelegraph.com/news/efforts-bulletproof-ethereum-paying-off-user0metrics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Efforts",
+        "bulletproof",
+        "Ethereum",
+        "paying",
+        "off",
+        "user",
+        "metrics"
+      ],
+      "linked_assets": [
+        "ETHUSDT"
+      ],
+      "dedupe_hash": "sha1:2b9b584440fd9cf2d868726e035e04dc87f57689"
+    },
+    {
+      "id": "news_20260114_061624_578c98",
+      "category": "crypto",
+      "title_en": "Crypto market structure rulemaking could take years: Paradigm exec",
+      "title_ur": "Crypto market structure rulemaking could take years: Paradigm exec",
+      "summary_en": [
+        "Crypto market structure rulemaking could take years: Paradigm exec",
+        "Rulemaking involves individual regulators and agencies fleshing out the details of a law passed by legislators.",
+        "It can include publishing proposed rules and seeking public comment.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Crypto market structure rulemaking could take years: Paradigm exec",
+        "Rulemaking involves individual regulators and agencies fleshing out the details of a law passed by legislators.",
+        "It can include publishing proposed rules and seeking public comment.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T06:16:24Z",
+      "published_at_pkt": "2026-01-14T11:16:24+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/crypto-market-structure-bill-rulemaking-years-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1580,77 +1571,37 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Crypto",
-        "treasury",
-        "buying",
-        "outpaces",
-        "Bitcoin",
-        "supply",
-        "to-1"
-      ],
-      "linked_assets": [
-        "BTCUSDT"
-      ],
-      "dedupe_hash": "sha1:a6229bcbabf202cce05b70f583e72475b4630521"
-    },
-    {
-      "id": "news_20260114_043222_d25351",
-      "category": "crypto",
-      "title_en": "Prediction market volume hits record $702M despite recent scrutiny",
-      "title_ur": "Prediction market volume hits record $702M despite recent scrutiny",
-      "summary_en": [
-        "Prediction market volume hits record $702M despite recent scrutiny",
-        "Prediction market Kalshi dominated trading volumes on Monday, accounting for two-thirds of the $701.7 million tally.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Prediction market volume hits record $702M despite recent scrutiny",
-        "Prediction market Kalshi dominated trading volumes on Monday, accounting for two-thirds of the $701.7 million tally.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T04:32:22Z",
-      "published_at_pkt": "2026-01-14T09:32:22+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/prediction-market-trading-volumes-hit-new-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Prediction",
         "market",
-        "volume",
-        "hits",
-        "record",
-        "despite",
-        "recent",
-        "scrutiny"
+        "structure",
+        "rulemaking",
+        "could",
+        "take",
+        "years",
+        "Paradigm"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:d25351c07d73c7289abab791339a56c96ab6efa9"
+      "dedupe_hash": "sha1:578c98d31677cbf231ef35c6fe97046fdc5e9a8f"
     },
     {
-      "id": "news_20260114_031332_81b8b3",
+      "id": "news_20260114_061123_b81293",
       "category": "crypto",
-      "title_en": "Rattled retail retreats to Bitcoin, Ether after October crash",
-      "title_ur": "Rattled retail retreats to Bitcoin, Ether after October crash",
+      "title_en": "BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked",
+      "title_ur": "BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked",
       "summary_en": [
-        "Rattled retail retreats to Bitcoin, Ether after October crash",
-        "Retail traders fled to Bitcoin and Ether after the October crypto crash last year, adding to an already tough year for altcoins.",
+        "BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked",
+        "BitMine staked another 186,560 Ether, bringing its total staked to 1.53 million, which is valued at over $5 billion.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Rattled retail retreats to Bitcoin, Ether after October crash",
-        "Retail traders fled to Bitcoin and Ether after the October crypto crash last year, adding to an already tough year for altcoins.",
+        "BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked",
+        "BitMine staked another 186,560 Ether, bringing its total staked to 1.53 million, which is valued at over $5 billion.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T03:13:32Z",
-      "published_at_pkt": "2026-01-14T08:13:32+05:00",
+      "published_at_utc": "2026-01-14T06:11:23Z",
+      "published_at_pkt": "2026-01-14T11:11:23+05:00",
       "source_name": "Cointelegraph",
       "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/rattled-retail-rotate-to-btc-and-eth-after-october-crash-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "original_url": "https://cointelegraph.com/news/bitmine-adds-more-staked-eth-as-entry-queue-soars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1658,80 +1609,120 @@
       "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
-        "Rattled",
-        "retail",
-        "retreats",
-        "Bitcoin",
+        "BitMine",
+        "staked",
         "Ether",
-        "after",
-        "October",
-        "crash"
+        "reaches",
+        "equating",
+        "total"
+      ],
+      "linked_assets": [
+        "ETHUSDT"
+      ],
+      "dedupe_hash": "sha1:b8129383f7e41bcb5e7ecf1364a9d4cb0008ce31"
+    },
+    {
+      "id": "news_20260114_055832_76a795",
+      "category": "crypto",
+      "title_en": "XRP zooms 6% higher on surge in trading activity",
+      "title_ur": "XRP zooms 6% higher on surge in trading activity",
+      "summary_en": [
+        "XRP zooms 6% higher on surge in trading activity",
+        "While XRP's recent rally stands out in a mixed crypto market, it remains below longer-term resistance levels.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "XRP zooms 6% higher on surge in trading activity",
+        "While XRP's recent rally stands out in a mixed crypto market, it remains below longer-term resistance levels.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T05:58:32Z",
+      "published_at_pkt": "2026-01-14T10:58:32+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/14/xrp-zooms-6-higher-on-surge-in-trading-activity",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "XRP",
+        "zooms",
+        "higher",
+        "surge",
+        "trading",
+        "activity"
+      ],
+      "linked_assets": [
+        "XRPUSDT"
+      ],
+      "dedupe_hash": "sha1:76a795d792f6195c4fa07f5984f245f23c2ec77a"
+    },
+    {
+      "id": "news_20260114_050041_346bc0",
+      "category": "crypto",
+      "title_en": "Bitcoin surges above $95,000 as ether, solana, cardano jump 8% on investor optimism",
+      "title_ur": "Bitcoin surges above $95,000 as ether, solana, cardano jump 8% on investor optimism",
+      "summary_en": [
+        "Bitcoin surges above $95,000 as ether, solana, cardano jump 8% on investor optimism",
+        "Lower inflation eased pressure on bond yields and improved liquidity conditions, a setup that has historically favored crypto and other risk assets.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Bitcoin surges above $95,000 as ether, solana, cardano jump 8% on investor optimism",
+        "Lower inflation eased pressure on bond yields and improved liquidity conditions, a setup that has historically favored crypto and other risk assets.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T05:00:41Z",
+      "published_at_pkt": "2026-01-14T10:00:41+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/14/bitcoin-surges-above-usd95-000-eth-sol-ada-up-8-as-risk-appetite-snaps-back",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Bitcoin",
+        "surges",
+        "above",
+        "ether",
+        "solana",
+        "cardano",
+        "jump",
+        "investor"
       ],
       "linked_assets": [
         "BTCUSDT",
-        "ETHUSDT"
+        "ETHUSDT",
+        "SOLUSDT"
       ],
-      "dedupe_hash": "sha1:81b8b35806eac2aef6e62543ac85809ceda332e4"
+      "dedupe_hash": "sha1:346bc077cc1092af2acd6c60008983489afc65cb"
     },
     {
-      "id": "news_20260114_020913_8bf7de",
+      "id": "news_20260114_045852_f2930f",
       "category": "crypto",
-      "title_en": "Senators pitch more than 75 amendments for crypto bill, including on yield, DeFi sections",
-      "title_ur": "Senators pitch more than 75 amendments for crypto bill, including on yield, DeFi sections",
+      "title_en": "Bitcoin prices hit two-month high, but U.S. demand lags",
+      "title_ur": "Bitcoin prices hit two-month high, but U.S. demand lags",
       "summary_en": [
-        "Senators pitch more than 75 amendments for crypto bill, including on yield, DeFi sections",
-        "A list of amendments — some of them far afield — is circulating for the planned markup hearing of the crypto market structure bill.",
+        "Bitcoin prices hit two-month high, but U.S. demand lags",
+        "The Coinbase premium index remains negative, indicating a relatively weaker U.S.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Senators pitch more than 75 amendments for crypto bill, including on yield, DeFi sections",
-        "A list of amendments — some of them far afield — is circulating for the planned markup hearing of the crypto market structure bill.",
+        "Bitcoin prices hit two-month high, but U.S. demand lags",
+        "The Coinbase premium index remains negative, indicating a relatively weaker U.S.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-14T02:09:13Z",
-      "published_at_pkt": "2026-01-14T07:09:13+05:00",
+      "published_at_utc": "2026-01-14T04:58:52Z",
+      "published_at_pkt": "2026-01-14T09:58:52+05:00",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/policy/2026/01/13/senators-pitch-more-than-130-amendments-for-crypto-bill-including-on-yield-defi-sections",
-      "impact_score": 50,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Senators",
-        "pitch",
-        "more",
-        "than",
-        "amendments",
-        "crypto",
-        "bill",
-        "including"
-      ],
-      "linked_assets": [],
-      "dedupe_hash": "sha1:8bf7de22dd7d8ac1414298ce504b3549b7e18eaa"
-    },
-    {
-      "id": "news_20260114_001940_1e44ae",
-      "category": "crypto",
-      "title_en": "Bitcoin climbs to two-month high of $96,240 as altcoins surge and shorts get squeezed",
-      "title_ur": "Bitcoin climbs to two-month high of $96,240 as altcoins surge and shorts get squeezed",
-      "summary_en": [
-        "Bitcoin climbs to two-month high of $96,240 as altcoins surge and shorts get squeezed",
-        "Bitcoin climbed above $96,000 for the first time since November, triggering over $500 million in liquidations as altcoins outperformed and traders rushed to cover bearish bets.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Bitcoin climbs to two-month high of $96,240 as altcoins surge and shorts get squeezed",
-        "Bitcoin climbed above $96,000 for the first time since November, triggering over $500 million in liquidations as altcoins outperformed and traders rushed to cover bearish bets.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-14T00:19:40Z",
-      "published_at_pkt": "2026-01-14T05:19:40+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/13/bitcoin-climbs-to-two-month-high-of-usd96-240-as-altcoins-surge-and-shorts-get-squeezed",
+      "original_url": "https://www.coindesk.com/markets/2026/01/14/bitcoin-prices-hit-two-month-high-but-u-s-demand-lags-key-signal-shows",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1740,124 +1731,41 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Bitcoin",
-        "climbs",
+        "prices",
+        "hit",
         "two-month",
         "high",
-        "altcoins",
-        "surge",
-        "shorts",
-        "get"
+        "but",
+        "demand",
+        "lags"
       ],
       "linked_assets": [
         "BTCUSDT"
       ],
-      "dedupe_hash": "sha1:1e44ae9249a0464965966f16feb48861e7ea979b"
+      "dedupe_hash": "sha1:f2930f64629f123138b0f9b6e04be979d14a7f51"
     },
     {
-      "id": "news_20260114_000622_b8ff84",
-      "category": "stocks_macro",
-      "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures slide amid upbeat bank earnings, Iran fears",
-      "title_ur": "Stock market today: Dow, S&P 500, Nasdaq futures slide amid upbeat bank earnings, Iran fears",
-      "summary_en": [
-        "Stock market today: Dow, S&P 500, Nasdaq futures slide amid upbeat bank earnings, Iran fears",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "summary_ur": [
-        "Stock market today: Dow, S&P 500, Nasdaq futures slide amid upbeat bank earnings, Iran fears",
-        "Watch market reaction and follow-up official updates.",
-        "Watch market reaction."
-      ],
-      "published_at_utc": "2026-01-14T00:06:22Z",
-      "published_at_pkt": "2026-01-14T05:06:22+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-amid-upbeat-bank-earnings-iran-fears-000622524.html",
-      "impact_score": 50,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Stock",
-        "market",
-        "today",
-        "Dow",
-        "Nasdaq",
-        "futures",
-        "slide",
-        "amid"
-      ],
-      "linked_assets": [
-        "^NDX",
-        "^GSPC"
-      ],
-      "dedupe_hash": "sha1:b8ff840575232c46977910b14adbacf0a74c02ac"
-    },
-    {
-      "id": "news_20260113_224152_63fa87",
+      "id": "news_20260114_040017_36c2b4",
       "category": "crypto",
-      "title_en": "Strive tumbles 12% as reverse stock split stumps investors despite Semler acquisition",
-      "title_ur": "Strive tumbles 12% as reverse stock split stumps investors despite Semler acquisition",
+      "title_en": "US Senate Agriculture Committee sets Jan 27 for CLARITY Act markup",
+      "title_ur": "US Senate Agriculture Committee sets Jan 27 for CLARITY Act markup",
       "summary_en": [
-        "Strive tumbles 12% as reverse stock split stumps investors despite Semler acquisition",
-        "Upon completion, the combined firm would hold nearly 13,000 BTC, surpassing the holdings of Tesla and Trump Media & Technology Group.",
+        "US Senate Agriculture Committee sets Jan 27 for CLARITY Act markup",
+        "The Senate Agriculture Committee plans to publish its crypto market structure bill on Jan.",
+        "21 and to hold a markup hearing on Jan.",
         "Watch market reaction and follow-up official updates."
       ],
       "summary_ur": [
-        "Strive tumbles 12% as reverse stock split stumps investors despite Semler acquisition",
-        "Upon completion, the combined firm would hold nearly 13,000 BTC, surpassing the holdings of Tesla and Trump Media & Technology Group.",
+        "US Senate Agriculture Committee sets Jan 27 for CLARITY Act markup",
+        "The Senate Agriculture Committee plans to publish its crypto market structure bill on Jan.",
+        "21 and to hold a markup hearing on Jan.",
         "Watch market reaction and follow-up official updates."
       ],
-      "published_at_utc": "2026-01-13T22:41:52Z",
-      "published_at_pkt": "2026-01-14T03:41:52+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/business/2026/01/13/strive-tumbles-12-as-reverse-stock-split-stumps-investors-despite-semler-acquisition",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "why_it_matters_en": "This may influence market direction and risk sentiment.",
-      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
-      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
-      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
-      "keywords": [
-        "Strive",
-        "tumbles",
-        "reverse",
-        "stock",
-        "split",
-        "stumps",
-        "investors",
-        "despite"
-      ],
-      "linked_assets": [
-        "BTCUSDT"
-      ],
-      "dedupe_hash": "sha1:63fa87c53fe1be4c32ec44b252a2b617147fb9e4"
-    },
-    {
-      "id": "news_20260113_220337_84e708",
-      "category": "crypto",
-      "title_en": "Senate's Warren: WLFI-tied bank application should be halted until Trump divests",
-      "title_ur": "Senate's Warren: WLFI-tied bank application should be halted until Trump divests",
-      "summary_en": [
-        "Senate's Warren: WLFI-tied bank application should be halted until Trump divests",
-        "Government-ethics questions still hang over the U.S.",
-        "Senate's plans to vote on the crypto market structure bill, and Warren is raising a related argument.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "summary_ur": [
-        "Senate's Warren: WLFI-tied bank application should be halted until Trump divests",
-        "Government-ethics questions still hang over the U.S.",
-        "Senate's plans to vote on the crypto market structure bill, and Warren is raising a related argument.",
-        "Watch market reaction and follow-up official updates."
-      ],
-      "published_at_utc": "2026-01-13T22:03:37Z",
-      "published_at_pkt": "2026-01-14T03:03:37+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/policy/2026/01/13/senate-s-warren-wlfi-tied-bank-application-should-be-halted-until-trump-divests",
+      "published_at_utc": "2026-01-14T04:00:17Z",
+      "published_at_pkt": "2026-01-14T09:00:17+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/senate-ag-committee-sets-jan-27-market-structure-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "why_it_matters_en": "This may influence market direction and risk sentiment.",
@@ -1866,16 +1774,598 @@
       "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
       "keywords": [
         "Senate",
-        "Warren",
-        "WLFI-tied",
-        "bank",
-        "application",
-        "should",
-        "halted",
-        "until"
+        "Agriculture",
+        "Committee",
+        "sets",
+        "Jan",
+        "CLARITY",
+        "Act",
+        "markup"
       ],
       "linked_assets": [],
-      "dedupe_hash": "sha1:84e708585ce6d6354d4b9e49cb5031e8437541b3"
+      "dedupe_hash": "sha1:36c2b49177f9bd3721f86586838f1fb88c5ab2f9"
+    },
+    {
+      "id": "news_20260114_022736_9bc3d1",
+      "category": "crypto",
+      "title_en": "Spot flows drive Bitcoin surge as analysts tip $100K run next",
+      "title_ur": "Spot flows drive Bitcoin surge as analysts tip $100K run next",
+      "summary_en": [
+        "Spot flows drive Bitcoin surge as analysts tip $100K run next",
+        "“Retail FOMO” may ramp up in the coming days if Bitcoin returns to $100,000, according to crypto sentiment platform Santiment.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Spot flows drive Bitcoin surge as analysts tip $100K run next",
+        "“Retail FOMO” may ramp up in the coming days if Bitcoin returns to $100,000, according to crypto sentiment platform Santiment.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-14T02:27:36Z",
+      "published_at_pkt": "2026-01-14T07:27:36+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-price-spot-buying-surge-forecasts-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Spot",
+        "flows",
+        "drive",
+        "Bitcoin",
+        "surge",
+        "analysts",
+        "tip",
+        "run"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:9bc3d18a8f33236ae4e009352b7f7cb4c5a0d2be"
+    },
+    {
+      "id": "news_20260113_230830_69ad4f",
+      "category": "crypto",
+      "title_en": "Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8%",
+      "title_ur": "Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8%",
+      "summary_en": [
+        "Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8%",
+        "Bitcoin Magazine Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8% The Bitcoin price roared past the $96,000 level this afternoon, bringing along a fresh wave of bullish momentum after weeks of choppy, range-bound trading.",
+        "This post Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8% first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8%",
+        "Bitcoin Magazine Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8% The Bitcoin price roared past the $96,000 level this afternoon, bringing along a fresh wave of bullish momentum after weeks of choppy, range-bound trading.",
+        "This post Bitcoin Price Rockets 5.5% Past $96,000, Strategy ($MSTR) Jumps 8% first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T23:08:30Z",
+      "published_at_pkt": "2026-01-14T04:08:30+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/markets/bitcoin-price-pumps-5-past-96000",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Bitcoin",
+        "Price",
+        "Rockets",
+        "Past",
+        "Strategy",
+        "MSTR",
+        "Jumps"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:69ad4f1cfa864bbdead83bf12cda65a85f8ad813"
+    },
+    {
+      "id": "news_20260113_225725_1d4258",
+      "category": "crypto",
+      "title_en": "Senate Agriculture Committee reschedules its own crypto bill hearing to Jan. 27",
+      "title_ur": "Senate Agriculture Committee reschedules its own crypto bill hearing to Jan. 27",
+      "summary_en": [
+        "Senate Agriculture Committee reschedules its own crypto bill hearing to Jan. 27",
+        "The Senate Agriculture Committee said Tuesday its postponed crypto market structure bill would drop on Jan.",
+        "21 and be debated six days later.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Senate Agriculture Committee reschedules its own crypto bill hearing to Jan. 27",
+        "The Senate Agriculture Committee said Tuesday its postponed crypto market structure bill would drop on Jan.",
+        "21 and be debated six days later.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T22:57:25Z",
+      "published_at_pkt": "2026-01-14T03:57:25+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/13/senate-agriculture-committee-reschedules-its-own-crypto-bill-hearing-to-jan-27",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Senate",
+        "Agriculture",
+        "Committee",
+        "reschedules",
+        "its",
+        "own",
+        "crypto",
+        "bill"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:1d4258aff96fd46398524fd241137fccee936f1f"
+    },
+    {
+      "id": "news_20260113_212141_5280cf",
+      "category": "crypto",
+      "title_en": "How a battle with bankers tarnished crypto's market structure bill near the finish line",
+      "title_ur": "How a battle with bankers tarnished crypto's market structure bill near the finish line",
+      "summary_en": [
+        "How a battle with bankers tarnished crypto's market structure bill near the finish line",
+        "The crypto industry contends that Wall Street giants stood behind community banks to undercut digital competitors before they could get a major legislative win.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "How a battle with bankers tarnished crypto's market structure bill near the finish line",
+        "The crypto industry contends that Wall Street giants stood behind community banks to undercut digital competitors before they could get a major legislative win.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T21:21:41Z",
+      "published_at_pkt": "2026-01-14T02:21:41+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/news-analysis/2026/01/13/how-a-battle-with-bankers-tarnished-crypto-s-market-structure-bill-near-the-finish-line",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "How",
+        "battle",
+        "bankers",
+        "tarnished",
+        "crypto",
+        "market",
+        "structure",
+        "bill"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:5280cff68b8cc4a99e5362dfb6f59ad1e47f8643"
+    },
+    {
+      "id": "news_20260113_203802_5f2634",
+      "category": "crypto",
+      "title_en": "Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance",
+      "title_ur": "Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance",
+      "summary_en": [
+        "Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance",
+        "Bitcoin Magazine Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance The bitcoin price just jumped above the $94,000 level this afternoon, breaking through a key resistance zone.",
+        "This post Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance",
+        "Bitcoin Magazine Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance The bitcoin price just jumped above the $94,000 level this afternoon, breaking through a key resistance zone.",
+        "This post Bitcoin Price Roars Past $94,000 as Bulls Reclaim Key Resistance first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T20:38:02Z",
+      "published_at_pkt": "2026-01-14T01:38:02+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/markets/bitcoin-price-roars-past-94000-bulls",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Bitcoin",
+        "Price",
+        "Roars",
+        "Past",
+        "Bulls",
+        "Reclaim",
+        "Key",
+        "Resistance"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:5f2634d75d54feda72a0790e12c37ba94a2a0532"
+    },
+    {
+      "id": "news_20260113_202131_9f997c",
+      "category": "crypto",
+      "title_en": "‘Inflation is aging’: Bryan Johnson’s war against systemic decay",
+      "title_ur": "‘Inflation is aging’: Bryan Johnson’s war against systemic decay",
+      "summary_en": [
+        "‘Inflation is aging’: Bryan Johnson’s war against systemic decay",
+        "From Braintree to Project Blueprint, Bryan Johnson views crypto and longevity as a unified war against systemic decay.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "‘Inflation is aging’: Bryan Johnson’s war against systemic decay",
+        "From Braintree to Project Blueprint, Bryan Johnson views crypto and longevity as a unified war against systemic decay.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T20:21:31Z",
+      "published_at_pkt": "2026-01-14T01:21:31+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/13/inflation-is-aging-bryan-johnson-s-war-against-systemic-decay",
+      "impact_score": 60,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Inflation",
+        "aging",
+        "Bryan",
+        "Johnson",
+        "war",
+        "against",
+        "systemic",
+        "decay"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:9f997c6b691ca62c8da71496d57eaa9a246d82bd"
+    },
+    {
+      "id": "news_20260113_191912_3a2216",
+      "category": "crypto",
+      "title_en": "Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC",
+      "title_ur": "Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC",
+      "summary_en": [
+        "Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC",
+        "Bitcoin Magazine Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC Strive has won shareholder approval to acquire Semler Scientific in an all-stock deal that adds more than 5,000 bitcoin to its balance sheet, lifting combined holdings to nearly 12,800 BTC.",
+        "This post Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC",
+        "Bitcoin Magazine Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC Strive has won shareholder approval to acquire Semler Scientific in an all-stock deal that adds more than 5,000 bitcoin to its balance sheet, lifting combined holdings to nearly 12,800 BTC.",
+        "This post Strive ($ASST) Gets Green Light on Semler Scientific Acquisition, Boosts Bitcoin Holdings to Nearly 13,000 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T19:19:12Z",
+      "published_at_pkt": "2026-01-14T00:19:12+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/news/strive-recieves-yes-on-semler-acquisition",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Strive",
+        "ASST",
+        "Gets",
+        "Green",
+        "Light",
+        "Semler",
+        "Scientific",
+        "Acquisition"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:3a2216141e9a2f05fe8e08e60d5bc583b2619737"
+    },
+    {
+      "id": "news_20260113_183133_fb4a90",
+      "category": "crypto",
+      "title_en": "JPMorgan CFO calls stablecoin yield payout 'obviously dangerous and undesirable'",
+      "title_ur": "JPMorgan CFO calls stablecoin yield payout 'obviously dangerous and undesirable'",
+      "summary_en": [
+        "JPMorgan CFO calls stablecoin yield payout 'obviously dangerous and undesirable'",
+        "JPMorgan's Jeremy Barnum said the bank would compete with crypto offerings but warned that stablecoin yield products look like banks without the same regulation.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "JPMorgan CFO calls stablecoin yield payout 'obviously dangerous and undesirable'",
+        "JPMorgan's Jeremy Barnum said the bank would compete with crypto offerings but warned that stablecoin yield products look like banks without the same regulation.",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T18:31:33Z",
+      "published_at_pkt": "2026-01-13T23:31:33+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/13/stablecoin-yield-debate-looks-like-parallel-banking-system-jpmorgan-cfo-says",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "JPMorgan",
+        "CFO",
+        "calls",
+        "stablecoin",
+        "yield",
+        "payout",
+        "obviously",
+        "dangerous"
+      ],
+      "linked_assets": [],
+      "dedupe_hash": "sha1:fb4a90bf245260ad10822d3cbff2985d00585e2b"
+    },
+    {
+      "id": "news_20260113_172339_113047",
+      "category": "crypto",
+      "title_en": "Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different",
+      "title_ur": "Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different",
+      "summary_en": [
+        "Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different",
+        "Bitcoin Magazine Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different Former Mayor Eric Adams’ NYC Token crashed 80%, despite promises to fund scholarships and social causes.",
+        "This post Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different",
+        "Bitcoin Magazine Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different Former Mayor Eric Adams’ NYC Token crashed 80%, despite promises to fund scholarships and social causes.",
+        "This post Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T17:23:39Z",
+      "published_at_pkt": "2026-01-13T22:23:39+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/news/eric-adams-nyc-token-crashes-80-in-hours",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Eric",
+        "Adams",
+        "NYC",
+        "Token",
+        "Crashes",
+        "Hours",
+        "Offering",
+        "Stark"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:1130477e943c44be45fe73517e4cac505b2152b3"
+    },
+    {
+      "id": "news_20260113_155938_1d868d",
+      "category": "crypto",
+      "title_en": "Samourai Letter #2: Notes From The Inside",
+      "title_ur": "Samourai Letter #2: Notes From The Inside",
+      "summary_en": [
+        "Samourai Letter #2: Notes From The Inside",
+        "Bitcoin Magazine Samourai Letter #2: Notes From The Inside Syndicated from The Rage: In his second letter from prison, Samourai Wallet developer Keonne Rodriguez breaks down how a lack of access drives the need for alternative markets to develop.",
+        "This post Samourai Letter #2: Notes From The Inside first appeared on Bitcoin Magazine and is written by Keonne Rodriguez .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Samourai Letter #2: Notes From The Inside",
+        "Bitcoin Magazine Samourai Letter #2: Notes From The Inside Syndicated from The Rage: In his second letter from prison, Samourai Wallet developer Keonne Rodriguez breaks down how a lack of access drives the need for alternative markets to develop.",
+        "This post Samourai Letter #2: Notes From The Inside first appeared on Bitcoin Magazine and is written by Keonne Rodriguez .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T15:59:38Z",
+      "published_at_pkt": "2026-01-13T20:59:38+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/culture/samourai-letter-2-notes-from-the-inside",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Samourai",
+        "Letter",
+        "Notes",
+        "Inside"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:1d868dc9b017b63e3836ab0b680a1d64578b80c5"
+    },
+    {
+      "id": "news_20260113_150414_5fc9ad",
+      "category": "crypto",
+      "title_en": "Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid",
+      "title_ur": "Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid",
+      "summary_en": [
+        "Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid",
+        "Bitcoin Magazine Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid The bitcoin price briefly rose above $92,700 after December U.S.",
+        "CPI came in at 2.7% year over year, matching expectations and keeping markets focused on the Fed’s policy outlook.",
+        "This post Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid",
+        "Bitcoin Magazine Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid The bitcoin price briefly rose above $92,700 after December U.S.",
+        "CPI came in at 2.7% year over year, matching expectations and keeping markets focused on the Fed’s policy outlook.",
+        "This post Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T15:04:14Z",
+      "published_at_pkt": "2026-01-13T20:04:14+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-above-92500",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Bitcoin",
+        "Price",
+        "Briefly",
+        "Jumps",
+        "Above",
+        "CPI",
+        "Meets",
+        "Forecasts"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:5fc9adc7ad10bf81994708f845c97d8184545af3"
+    },
+    {
+      "id": "news_20260113_142332_a7e748",
+      "category": "crypto",
+      "title_en": "21Shares Launches Bitcoin and Gold ETP on London Stock Exchange",
+      "title_ur": "21Shares Launches Bitcoin and Gold ETP on London Stock Exchange",
+      "summary_en": [
+        "21Shares Launches Bitcoin and Gold ETP on London Stock Exchange",
+        "Bitcoin Magazine 21Shares Launches Bitcoin and Gold ETP on London Stock Exchange 21Shares has launched its Bitcoin and gold exchange-traded product, BOLD, on the London Stock Exchange, offering UK retail investors a regulated, physically backed vehicle combining both assets.",
+        "This post 21Shares Launches Bitcoin and Gold ETP on London Stock Exchange first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "21Shares Launches Bitcoin and Gold ETP on London Stock Exchange",
+        "Bitcoin Magazine 21Shares Launches Bitcoin and Gold ETP on London Stock Exchange 21Shares has launched its Bitcoin and gold exchange-traded product, BOLD, on the London Stock Exchange, offering UK retail investors a regulated, physically backed vehicle combining both assets.",
+        "This post 21Shares Launches Bitcoin and Gold ETP on London Stock Exchange first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T14:23:32Z",
+      "published_at_pkt": "2026-01-13T19:23:32+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/news/21shares-launches-bitcoin-and-gold-etp",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Shares",
+        "Launches",
+        "Bitcoin",
+        "Gold",
+        "ETP",
+        "London",
+        "Stock",
+        "Exchange"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:a7e748fcad22e5c8a10faea3653ce04f88d4a691"
+    },
+    {
+      "id": "news_20260113_130000_9188e3",
+      "category": "crypto",
+      "title_en": "Spark Explained Like You’re Five",
+      "title_ur": "Spark Explained Like You’re Five",
+      "summary_en": [
+        "Spark Explained Like You’re Five",
+        "Bitcoin Magazine Spark Explained Like You’re Five A simple explanation of the cryptography underlying Spark, a layer 2 built using statechains.",
+        "This post Spark Explained Like You’re Five first appeared on Bitcoin Magazine and is written by Roy Sheinfeld .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "Spark Explained Like You’re Five",
+        "Bitcoin Magazine Spark Explained Like You’re Five A simple explanation of the cryptography underlying Spark, a layer 2 built using statechains.",
+        "This post Spark Explained Like You’re Five first appeared on Bitcoin Magazine and is written by Roy Sheinfeld .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-13T13:00:00Z",
+      "published_at_pkt": "2026-01-13T18:00:00+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/technical/spark-explained-like-youre-five",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "Spark",
+        "Explained",
+        "Like",
+        "You",
+        "Five"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:9188e3e3cfa491f3ef61e5d6a68f67ef4e6726c0"
+    },
+    {
+      "id": "news_20260112_221950_37b718",
+      "category": "crypto",
+      "title_en": "SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’",
+      "title_ur": "SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’",
+      "summary_en": [
+        "SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’",
+        "Bitcoin Magazine SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’ SEC Chair Paul Atkins says it is still unclear whether the U.S.",
+        "will seize Venezuela’s rumored $60 billion Bitcoin holdings, while emphasizing upcoming legislation to clarify crypto regulation.",
+        "This post SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "summary_ur": [
+        "SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’",
+        "Bitcoin Magazine SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’ SEC Chair Paul Atkins says it is still unclear whether the U.S.",
+        "will seize Venezuela’s rumored $60 billion Bitcoin holdings, while emphasizing upcoming legislation to clarify crypto regulation.",
+        "This post SEC Chair: Fate of Rumored Venezuelan Bitcoin Stash ‘Remains to Be Seen’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+        "Watch market reaction and follow-up official updates."
+      ],
+      "published_at_utc": "2026-01-12T22:19:50Z",
+      "published_at_pkt": "2026-01-13T03:19:50+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/news/sec-chair-on-rumored-venezuelan-bitcoin",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "why_it_matters_en": "This may influence market direction and risk sentiment.",
+      "why_it_matters_ur": "یہ خبر مارکیٹ کے رجحان اور رسک سینٹیمنٹ کو متاثر کر سکتی ہے۔",
+      "what_to_watch_en": "Watch follow-up confirmations and market reaction.",
+      "what_to_watch_ur": "فالو اَپ کنفرمیشن اور مارکیٹ ردِعمل پر نظر رکھیں۔",
+      "keywords": [
+        "SEC",
+        "Chair",
+        "Fate",
+        "Rumored",
+        "Venezuelan",
+        "Bitcoin",
+        "Stash",
+        "Remains"
+      ],
+      "linked_assets": [
+        "BTCUSDT"
+      ],
+      "dedupe_hash": "sha1:37b718e7935dab8cf4b79d4b535c13c84bdd3d79"
     }
   ]
 }
