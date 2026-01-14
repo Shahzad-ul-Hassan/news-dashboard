@@ -1,11 +1,40 @@
-<header>
-  <div class="top-row">
-    <input class="search-box" placeholder="Search…" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Market & News Intelligence Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+<header class="header">
+  <div class="header-top">
+    <div class="timings" id="timings"></div>
+
+    <div class="controls">
+      <div class="lang-toggle" role="group" aria-label="Language toggle">
+        <button id="btnLangEn" class="btn small active" type="button">EN</button>
+        <button id="btnLangUr" class="btn small" type="button">اردو</button>
+      </div>
+
+      <input
+        id="globalSearch"
+        class="search"
+        type="search"
+        placeholder="Search news (Fed, BTC, CPI, USD/PKR...)"
+      />
+    </div>
   </div>
-  <div class="sessions"></div>
 </header>
 
-<main>
-  <section class="markets"></section>
-  <section class="news-list"></section>
+<main id="app">
+  <section id="sessions" class="sessions"></section>
+  <section id="markets" class="markets"></section>
+  <section id="news" class="news-list"></section>
 </main>
+
+<script src="app.js"></script>
+</body>
+</html>
