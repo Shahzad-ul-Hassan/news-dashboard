@@ -1,207 +1,59 @@
-:root{
-  --bg:#0b0e14;
-  --panel:#121826;
-  --panel2:#0f1420;
-  --text:#e8eefc;
-  --muted:#a7b2d6;
-  --border:#24304a;
-  --good:#2ad37f;
-  --bad:#ff5d5d;
-  --mid:#ffd166;
-  --chip:#1a2236;
-  --shadow: 0 10px 30px rgba(0,0,0,.25);
-  --radius:14px;
-  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-*{box-sizing:border-box}
-body{
-  margin:0;
-  background:linear-gradient(180deg, #070a10, var(--bg));
-  color:var(--text);
-  font: 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-}
-.header{
-  position:sticky; top:0; z-index:10;
-  background:rgba(11,14,20,.92);
-  backdrop-filter: blur(10px);
-  border-bottom:1px solid var(--border);
-}
-.header-top{
-  display:flex; align-items:center; justify-content:space-between;
-  gap:12px;
-  padding:12px 14px;
-}
-.header-bottom{
-  padding:10px 14px 12px;
-  border-top:1px solid rgba(36,48,74,.6);
-}
-.timings{display:flex; gap:10px; flex-wrap:wrap;}
-.timing-tile{
-  background:var(--panel);
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  padding:10px 12px;
-  min-width:220px;
-  box-shadow: var(--shadow);
-}
-.timing-title{font-weight:700}
-.timing-sub{color:var(--muted); font-size:12px; margin-top:2px}
-.timing-count{font-family:var(--mono); margin-top:6px}
-.controls{display:flex; align-items:center; gap:10px; flex-wrap:wrap}
-.search{
-  width:320px; max-width:52vw;
-  background:var(--panel);
-  border:1px solid var(--border);
-  border-radius:12px;
-  padding:10px 12px;
-  color:var(--text);
-}
-.rates-strip{display:flex; gap:10px; flex-wrap:wrap}
-.rate-chip{
-  background:var(--chip);
-  border:1px solid var(--border);
-  border-radius:999px;
-  padding:8px 10px;
-  display:flex; align-items:center; gap:10px;
-}
-.rate-name{font-weight:700}
-.rate-price{font-family:var(--mono)}
-.rate-chg.good{color:var(--good)}
-.rate-chg.bad{color:var(--bad)}
-.rate-chg.mid{color:var(--mid)}
-.rate-arrow{opacity:.9}
-.layout{
-  display:grid;
-  grid-template-columns: 300px minmax(420px, 1fr) 330px;
-  gap:14px;
-  padding:14px;
-  align-items:start;
-}
-.sidebar{
-  position:sticky;
-  top:110px;
-  max-height: calc(100vh - 130px);
-  overflow:auto;
-  padding-right:2px;
-}
-.panel-header{
-  display:flex; align-items:center; justify-content:space-between;
-  padding:8px 4px 10px;
-}
-.panel-title{font-weight:800; letter-spacing:.2px;}
-.tabs{display:flex; gap:8px; padding:0 4px 10px;}
-.tab{
-  flex:1;
-  border:1px solid var(--border);
-  background:var(--panel);
-  color:var(--text);
-  border-radius:12px;
-  padding:8px 10px;
-  cursor:pointer;
-}
-.tab.active{outline:2px solid rgba(255,255,255,.12)}
-.list{display:flex; flex-direction:column; gap:10px; padding:0 4px 14px;}
-.card{
-  background:var(--panel);
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  padding:12px;
-  box-shadow: var(--shadow);
-}
-.row{display:flex; justify-content:space-between; gap:10px; align-items:flex-start;}
-.muted{color:var(--muted)}
-.small{font-size:12px}
-.badge{
-  display:inline-flex;
-  padding:4px 8px;
-  border-radius:999px;
-  border:1px solid var(--border);
-  background:rgba(26,34,54,.8);
-  font-size:12px;
-}
-.badge.high{border-color:rgba(255,93,93,.6)}
-.badge.medium{border-color:rgba(255,209,102,.6)}
-.badge.low{border-color:rgba(167,178,214,.4)}
-.btn{
-  border:1px solid var(--border);
-  background:var(--panel);
-  color:var(--text);
-  border-radius:12px;
-  padding:10px 12px;
-  cursor:pointer;
-}
-.btn.small{padding:7px 10px; border-radius:10px; font-size:12px}
-.btn.ghost{background:transparent}
-.btn.active{outline:2px solid rgba(255,255,255,.12)}
-.select{
-  border:1px solid var(--border);
-  background:var(--panel);
-  color:var(--text);
-  border-radius:12px;
-  padding:10px 12px;
-}
-.feed-header{
-  display:flex; align-items:flex-end; justify-content:space-between;
-  gap:10px;
-  margin-bottom:10px;
-}
-.filters{display:flex; gap:10px; flex-wrap:wrap}
-.feed{display:flex; flex-direction:column; gap:12px}
-.feed-footer{padding:14px 0 50px; display:flex; justify-content:center}
-.news-title{font-weight:900; font-size:16px; margin:0 0 6px}
-.news-lines{margin:8px 0 10px; padding-left:18px}
-.news-lines li{margin:4px 0}
-.links{display:flex; gap:10px; flex-wrap:wrap; align-items:center}
-.link{
-  color:var(--text); text-decoration:none;
-  border:1px solid var(--border);
-  background:rgba(26,34,54,.7);
-  padding:6px 10px;
-  border-radius:999px;
-}
-.kv{display:flex; gap:10px; flex-wrap:wrap; margin-top:8px}
-.kv .kvitem{
-  border:1px solid var(--border);
-  background:rgba(26,34,54,.6);
-  border-radius:12px;
-  padding:8px 10px;
-}
-.arrow.good{color:var(--good)}
-.arrow.bad{color:var(--bad)}
-.arrow.mid{color:var(--mid)}
-.toast{
-  position:fixed;
-  bottom:18px; left:50%;
-  transform:translateX(-50%);
-  background:rgba(18,24,38,.95);
-  border:1px solid var(--border);
-  padding:10px 12px;
-  border-radius:12px;
-  box-shadow: var(--shadow);
+/* ===== Header & Search ===== */
+header {
+  position: relative; /* sticky ختم */
+  padding: 6px 10px;
 }
 
-/* ✅ Price tick animation (up/down) */
-.price-tick{
-  display:inline-block;
-  padding:2px 6px;
-  border-radius:8px;
-  font-family: var(--mono);
+.search-box {
+  max-width: 220px;
+  font-size: 13px;
 }
-.tick-up{
-  background: rgba(42,211,127,.12);
-  border:1px solid rgba(42,211,127,.35);
-}
-.tick-down{
-  background: rgba(255,93,93,.12);
-  border:1px solid rgba(255,93,93,.35);
-}
-@keyframes flashUp { 0%{transform:scale(1)} 30%{transform:scale(1.02)} 100%{transform:scale(1)} }
-@keyframes flashDown { 0%{transform:scale(1)} 30%{transform:scale(1.02)} 100%{transform:scale(1)} }
-.tick-up{ animation: flashUp .35s ease; }
-.tick-down{ animation: flashDown .35s ease; }
 
-@media (max-width: 1100px){
-  .layout{grid-template-columns: 1fr;}
-  .sidebar{position:relative; top:auto; max-height:none}
-  .search{width:min(520px, 92vw)}
+/* ===== Sessions ===== */
+.sessions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-size: 12px;
+}
+
+/* ===== Market arrows (compact) ===== */
+.trend-up::after {
+  content: "▲";
+  font-size: 10px;
+  margin-left: 4px;
+  color: #00c853;
+}
+.trend-down::after {
+  content: "▼";
+  font-size: 10px;
+  margin-left: 4px;
+  color: #d50000;
+}
+
+/* ===== Live price flash ===== */
+.price-up {
+  animation: flashGreen 0.6s;
+}
+.price-down {
+  animation: flashRed 0.6s;
+}
+
+@keyframes flashGreen {
+  from { background:#003300; }
+  to { background:transparent; }
+}
+@keyframes flashRed {
+  from { background:#330000; }
+  to { background:transparent; }
+}
+
+/* ===== News layout ===== */
+.news-list {
+  max-height: none;
+  padding-bottom: 40px;
+}
+
+.news-item {
+  margin-bottom: 14px;
 }
