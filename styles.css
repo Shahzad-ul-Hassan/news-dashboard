@@ -1,59 +1,252 @@
-/* ===== Header & Search ===== */
-header {
-  position: relative; /* sticky ختم */
-  padding: 6px 10px;
+:root{
+  --bg:#0b1220;
+  --panel:#111a2e;
+  --panel2:#0f172a;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --border:rgba(255,255,255,.10);
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
+  --radius:14px;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
 }
 
-.search-box {
-  max-width: 220px;
-  font-size: 13px;
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family:var(--sans);
+  background:linear-gradient(180deg, var(--bg), #060a12);
+  color:var(--text);
 }
 
-/* ===== Sessions ===== */
-.sessions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  font-size: 12px;
+/* ===== Header (NOT sticky) ===== */
+.header{
+  position:relative; /* sticky ختم */
+  z-index:1;
+  padding:10px 12px 8px;
+  border-bottom:1px solid var(--border);
+  background:rgba(9,14,26,.85);
+  backdrop-filter: blur(10px);
 }
 
-/* ===== Market arrows (compact) ===== */
-.trend-up::after {
-  content: "▲";
-  font-size: 10px;
-  margin-left: 4px;
-  color: #00c853;
-}
-.trend-down::after {
-  content: "▼";
-  font-size: 10px;
-  margin-left: 4px;
-  color: #d50000;
+.header-top{
+  display:flex;
+  gap:10px;
+  align-items:flex-start;
+  justify-content:space-between;
+  flex-wrap:wrap;
 }
 
-/* ===== Live price flash ===== */
-.price-up {
-  animation: flashGreen 0.6s;
-}
-.price-down {
-  animation: flashRed 0.6s;
-}
-
-@keyframes flashGreen {
-  from { background:#003300; }
-  to { background:transparent; }
-}
-@keyframes flashRed {
-  from { background:#330000; }
-  to { background:transparent; }
+.timings{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  align-items:center;
 }
 
-/* ===== News layout ===== */
-.news-list {
-  max-height: none;
-  padding-bottom: 40px;
+/* timing tiles (اگر JS بناتا ہے) */
+.timing-tile{
+  background:rgba(255,255,255,.04);
+  border:1px solid var(--border);
+  padding:8px 10px;
+  border-radius:12px;
+  min-width: 170px;
+  box-shadow: var(--shadow);
+}
+.timing-title{font-size:12px;color:var(--muted);letter-spacing:.4px}
+.timing-time{font-family:var(--mono);font-size:13px;margin-top:3px}
+.timing-sub{font-size:12px;color:var(--muted);margin-top:3px}
+
+/* ===== Controls ===== */
+.controls{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  flex-wrap:wrap;
 }
 
-.news-item {
-  margin-bottom: 14px;
+.lang-toggle{
+  display:flex;
+  border:1px solid var(--border);
+  border-radius:12px;
+  overflow:hidden;
+  background:rgba(255,255,255,.03);
 }
+.btn{
+  border:0;
+  padding:8px 10px;
+  color:var(--text);
+  background:transparent;
+  cursor:pointer;
+  font-size:13px;
+}
+.btn.small{padding:6px 9px;font-size:12px}
+.btn.active{
+  background:rgba(59,130,246,.25);
+  box-shadow: inset 0 0 0 1px rgba(59,130,246,.35);
+}
+
+.search{
+  width:240px;     /* ✅ سرچ بار چھوٹی */
+  max-width:240px;
+  padding:8px 10px;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background:rgba(255,255,255,.03);
+  color:var(--text);
+  outline:none;
+}
+.search::placeholder{color:rgba(229,231,235,.55)}
+
+/* ===== Layout ===== */
+.layout{
+  display:grid;
+  grid-template-columns: 280px minmax(0,1fr) 320px;
+  gap:12px;
+  padding:12px;
+}
+
+@media (max-width: 1100px){
+  .layout{grid-template-columns: 1fr; }
+  .sidebar.left,.sidebar.right{order:0}
+}
+
+/* ===== Sidebars / Panels ===== */
+.sidebar, .panel{
+  background:rgba(255,255,255,.04);
+  border:1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.sidebar{
+  padding:12px;
+}
+.panel{
+  padding:12px;
+  margin-bottom:12px;
+}
+
+.sidebar h3, .panel h3{
+  margin:0 0 10px;
+  font-size:14px;
+  letter-spacing:.3px;
+  color:var(--text);
+}
+
+/* ===== Tabs / selects / inputs ===== */
+button, select, input{
+  font-family:inherit;
+}
+select, input[type="date"], input[type="text"], input[type="search"]{
+  border:1px solid var(--border);
+  background:rgba(255,255,255,.03);
+  color:var(--text);
+  border-radius:12px;
+  padding:7px 9px;
+  outline:none;
+}
+select{padding-right:28px}
+
+/* small compact indicators (arrows etc) */
+.trend-up::after{
+  content:"▲";
+  font-size:10px;
+  margin-left:5px;
+  color:#2ad37f;
+}
+.trend-down::after{
+  content:"▼";
+  font-size:10px;
+  margin-left:5px;
+  color:#ff5d5d;
+}
+
+/* ===== Rates strip (اگر موجود ہو) ===== */
+.rates-strip{
+  margin-top:10px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  align-items:center;
+}
+.rate-chip{
+  display:flex;
+  gap:8px;
+  align-items:center;
+  padding:7px 10px;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:rgba(255,255,255,.03);
+  font-size:12px;
+}
+.rate-sym{color:var(--muted);font-family:var(--mono)}
+.rate-price{font-family:var(--mono)}
+.rate-chg.up{color:#2ad37f}
+.rate-chg.down{color:#ff5d5d}
+
+/* ===== News ===== */
+.center{
+  background:transparent;
+  min-height: calc(100vh - 160px);
+}
+
+.filters{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  align-items:center;
+  margin-bottom:10px;
+}
+
+.news-list{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+/* news card */
+.news-item{
+  background:rgba(255,255,255,.04);
+  border:1px solid var(--border);
+  border-radius: var(--radius);
+  padding:12px 12px;
+  box-shadow: var(--shadow);
+}
+.news-item h4{
+  margin:0 0 6px;
+  font-size:14px;
+  line-height:1.35;
+}
+.news-item small{
+  display:block;
+  color:var(--muted);
+  margin-bottom:8px;
+  font-family:var(--mono);
+  font-size:11px;
+}
+.news-item ul{
+  margin:0;
+  padding-left:18px;
+}
+.news-item li{
+  color:rgba(229,231,235,.92);
+  margin:4px 0;
+  line-height:1.45;
+  font-size:13px;
+}
+.news-item a{
+  display:inline-block;
+  margin-top:8px;
+  color:#60a5fa;
+  text-decoration:none;
+  font-size:12px;
+}
+.news-item a:hover{text-decoration:underline}
+
+/* ===== Live flash classes (اگر JS لگاتا ہے) ===== */
+.price-up{ animation: flashGreen .6s; }
+.price-down{ animation: flashRed .6s; }
+@keyframes flashGreen{ from{background:rgba(42,211,127,.15)} to{background:transparent} }
+@keyframes flashRed{ from{background:rgba(255,93,93,.15)} to{background:transparent} }
