@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -6,11 +6,9 @@
   <title>Market & News Intelligence Dashboard</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
-
 <body>
   <header class="header">
     <div class="header-top">
-      <!-- Sessions/Timings row -->
       <div class="timings" id="timings"></div>
 
       <div class="controls">
@@ -19,38 +17,92 @@
           <button id="btnLangUr" class="btn small" type="button">اردو</button>
         </div>
 
-        <input
-          id="globalSearch"
-          class="search"
-          type="search"
-          placeholder="Search news (Fed, BTC, CPI, USD/PKR...)"
-        />
+        <input id="globalSearch" class="search" type="search" placeholder="Search news (Fed, BTC, CPI, USD/PKR...)" />
       </div>
     </div>
 
-    <!-- Rates strip -->
-    <div class="rates-strip" id="ratesStrip"></div>
+    <div class="header-bottom">
+      <div class="rates-strip" id="ratesStrip"></div>
+    </div>
   </header>
 
   <main class="layout">
-    <!-- Left: Watchlist -->
-    <aside class="sidebar left" id="watchlist"></aside>
+    <aside class="sidebar left" id="leftSidebar">
+      <div class="panel-header">
+        <div class="panel-title" id="wlTitle">Watchlist</div>
+        <button class="btn small ghost" id="btnCollapseLeft" type="button">⟷</button>
+      </div>
 
-    <!-- Center: News -->
+      <div class="tabs">
+        <button class="tab active" data-tab="crypto" type="button">Crypto</button>
+        <button class="tab" data-tab="stocks" type="button">Stocks</button>
+        <button class="tab" data-tab="fx" type="button">FX</button>
+      </div>
+
+      <div class="list" id="watchlist"></div>
+      <div class="muted small" id="wlHint"></div>
+    </aside>
+
     <section class="center">
-      <div class="filters" id="filters"></div>
-      <div class="news-list" id="news"></div>
-      <div class="news-list" id="newsFeed"></div>
+      <div class="feed-header">
+        <div class="filters">
+          <select id="filterCategory" class="select">
+            <option value="all">All</option>
+            <option value="crypto">Crypto</option>
+            <option value="stocks_macro">Stocks / Macro</option>
+            <option value="usa_decisions">USA Decisions</option>
+          </select>
+
+          <select id="filterImpact" class="select">
+            <option value="all">All Impact</option>
+            <option value="high">High</option>
+            <option value="medium">Medium</option>
+            <option value="low">Low</option>
+          </select>
+
+          <input id="filterDate" class="select" type="date" />
+
+          <button id="btnClearFilters" class="btn small" type="button">Clear</button>
+        </div>
+
+        <div class="feed-meta">
+          <span class="badge" id="modeBadge" hidden>Archive Mode</span>
+          <span class="muted small" id="lastUpdated"></span>
+        </div>
+      </div>
+
+      <div class="feed" id="newsFeed"></div>
+
+      <div class="feed-footer">
+        <button id="btnLoadMore" class="btn" type="button">Load more</button>
+      </div>
     </section>
 
-    <!-- Right: Signals / Sessions -->
     <aside class="sidebar right">
-      <div class="panel" id="signals"></div>
-      <div class="panel" id="sessions"></div>
-      <div class="panel" id="sessionsPanel"></div>
+      <div class="panel">
+        <div class="panel-header">
+          <div class="panel-title" id="sigTitle">Active Signals</div>
+        </div>
+        <div class="list" id="signalsActive"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-header">
+          <div class="panel-title" id="sessTitle">Session Trend</div>
+        </div>
+        <div class="list" id="sessions"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-header">
+          <div class="panel-title" id="valTitle">Impact Validation</div>
+        </div>
+        <div class="list" id="signalsClosed"></div>
+      </div>
     </aside>
   </main>
 
+  <div class="toast" id="toast" hidden></div>
+
   <script src="app.js"></script>
 </body>
-</html>
