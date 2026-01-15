@@ -10,6 +10,7 @@
 <body>
   <header class="header">
     <div class="header-top">
+      <!-- Sessions/Timings row -->
       <div class="timings" id="timings"></div>
 
       <div class="controls">
@@ -26,17 +27,28 @@
         />
       </div>
     </div>
+
+    <!-- Rates strip -->
+    <div class="rates-strip" id="ratesStrip"></div>
   </header>
 
-  <main class="container">
-    <!-- Sessions row -->
-    <section class="sessions" id="sessions"></section>
+  <main class="layout">
+    <!-- Left: Watchlist -->
+    <aside class="sidebar left" id="watchlist"></aside>
 
-    <!-- Watchlist / Markets -->
-    <section class="markets" id="markets"></section>
+    <!-- Center: News -->
+    <section class="center">
+      <div class="filters" id="filters"></div>
+      <div class="news-list" id="news"></div>
+      <div class="news-list" id="newsFeed"></div>
+    </section>
 
-    <!-- News -->
-    <section class="news-list" id="news"></section>
+    <!-- Right: Signals / Sessions -->
+    <aside class="sidebar right">
+      <div class="panel" id="signals"></div>
+      <div class="panel" id="sessions"></div>
+      <div class="panel" id="sessionsPanel"></div>
+    </aside>
   </main>
 
   <script src="app.js"></script>
