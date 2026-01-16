@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -6,6 +6,7 @@
   <title>Market & News Intelligence Dashboard</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
   <header class="header">
     <div class="header-top">
@@ -17,92 +18,71 @@
           <button id="btnLangUr" class="btn small" type="button">اردو</button>
         </div>
 
-        <input id="globalSearch" class="search" type="search" placeholder="Search news (Fed, BTC, CPI, USD/PKR...)" />
+        <input id="globalSearch" class="search" type="search"
+               placeholder="Search news (Fed, BTC, CPI, USD...)" />
       </div>
     </div>
 
-    <div class="header-bottom">
-      <div class="rates-strip" id="ratesStrip"></div>
-    </div>
+    <div class="rates-strip" id="ratesStrip"></div>
   </header>
 
   <main class="layout">
-    <aside class="sidebar left" id="leftSidebar">
-      <div class="panel-header">
-        <div class="panel-title" id="wlTitle">Watchlist</div>
-        <button class="btn small ghost" id="btnCollapseLeft" type="button">⟷</button>
-      </div>
-
+    <!-- Left: Watchlist -->
+    <aside class="sidebar left">
+      <h3>Watchlist</h3>
       <div class="tabs">
         <button class="tab active" data-tab="crypto" type="button">Crypto</button>
         <button class="tab" data-tab="stocks" type="button">Stocks</button>
         <button class="tab" data-tab="fx" type="button">FX</button>
       </div>
-
-      <div class="list" id="watchlist"></div>
-      <div class="muted small" id="wlHint"></div>
+      <div id="watchlist"></div>
     </aside>
 
+    <!-- Center: News -->
     <section class="center">
-      <div class="feed-header">
-        <div class="filters">
-          <select id="filterCategory" class="select">
-            <option value="all">All</option>
-            <option value="crypto">Crypto</option>
-            <option value="stocks_macro">Stocks / Macro</option>
-            <option value="usa_decisions">USA Decisions</option>
-          </select>
+      <div class="filters">
+        <select id="filterCategory">
+          <option value="all">All</option>
+          <option value="crypto">Crypto</option>
+          <option value="stocks_macro">Stocks/Macro</option>
+          <option value="usa_decisions">USA Decisions</option>
+        </select>
 
-          <select id="filterImpact" class="select">
-            <option value="all">All Impact</option>
-            <option value="high">High</option>
-            <option value="medium">Medium</option>
-            <option value="low">Low</option>
-          </select>
+        <select id="filterImpact">
+          <option value="all">All Impact</option>
+          <option value="high">High</option>
+          <option value="medium">Medium</option>
+          <option value="low">Low</option>
+        </select>
 
-          <input id="filterDate" class="select" type="date" />
-
-          <button id="btnClearFilters" class="btn small" type="button">Clear</button>
-        </div>
-
-        <div class="feed-meta">
-          <span class="badge" id="modeBadge" hidden>Archive Mode</span>
-          <span class="muted small" id="lastUpdated"></span>
-        </div>
+        <input id="filterDate" type="date" />
+        <button id="btnClear" class="btn small" type="button">Clear</button>
       </div>
 
-      <div class="feed" id="newsFeed"></div>
+      <div class="news-list" id="news"></div>
 
-      <div class="feed-footer">
-        <button id="btnLoadMore" class="btn" type="button">Load more</button>
-      </div>
+      <button id="btnLoadMore" class="btn" type="button" style="margin-top:10px">Load more</button>
     </section>
 
+    <!-- Right: Panels -->
     <aside class="sidebar right">
       <div class="panel">
-        <div class="panel-header">
-          <div class="panel-title" id="sigTitle">Active Signals</div>
-        </div>
-        <div class="list" id="signalsActive"></div>
+        <h3>Active Signals</h3>
+        <div id="signals"></div>
       </div>
 
       <div class="panel">
-        <div class="panel-header">
-          <div class="panel-title" id="sessTitle">Session Trend</div>
-        </div>
-        <div class="list" id="sessions"></div>
+        <h3>Session Trend</h3>
+        <div id="sessionsPanel"></div>
       </div>
 
       <div class="panel">
-        <div class="panel-header">
-          <div class="panel-title" id="valTitle">Impact Validation</div>
-        </div>
-        <div class="list" id="signalsClosed"></div>
+        <h3>Impact Validation</h3>
+        <div id="impact"></div>
       </div>
     </aside>
   </main>
 
-  <div class="toast" id="toast" hidden></div>
-
   <script src="app.js"></script>
 </body>
+</html>
