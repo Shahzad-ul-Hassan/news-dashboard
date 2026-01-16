@@ -1,6 +1,5 @@
 {
   "default_language": "en",
-  "retention_days": 90,
   "update_interval_minutes": 30,
 
   "watchlist_defaults": {
@@ -9,14 +8,18 @@
       "DOGEUSDT","AVAXUSDT","LINKUSDT","MATICUSDT",
       "DOTUSDT","TRXUSDT","LTCUSDT","BCHUSDT","UNIUSDT",
       "ATOMUSDT","ICPUSDT","FILUSDT","APTUSDT","ARBUSDT"
-    ]
+    ],
+    "stocks": ["^GSPC","^NDX","^DJI","AAPL","MSFT","NVDA","AMZN","TSLA","GOOGL","META"],
+    "fx": ["USD/PKR","EUR/USD","GBP/USD","USD/JPY","AUD/USD","USD/CAD"]
   },
 
   "market_sessions": {
-    "NY":   { "tz": "America/New_York",   "open": "09:30", "close": "16:00" },
-    "LON":  { "tz": "Europe/London",      "open": "08:00", "close": "16:30" },
-    "TYO":  { "tz": "Asia/Tokyo",         "open": "09:00", "close": "15:00" },
-    "SYD":  { "tz": "Australia/Sydney",   "open": "10:00", "close": "16:00" },
+    "NY": { "tz": "America/New_York", "open": "09:30", "close": "16:00" },
+    "LON": { "tz": "Europe/London", "open": "08:00", "close": "16:30" },
+    "TYO": { "tz": "Asia/Tokyo", "open": "09:00", "close": "15:00" },
+    "SYD": { "tz": "Australia/Sydney", "open": "10:00", "close": "16:00" },
     "CRYPTO": { "tz": "UTC", "open": "00:00", "close": "23:59" }
-  }
+  },
+
+  "impact_thresholds": { "high": 70, "medium": 40 }
 }
