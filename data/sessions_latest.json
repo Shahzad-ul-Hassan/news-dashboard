@@ -1,7 +1,19 @@
 {
   "sessions": [
-    { "market": "NY", "direction": "bullish", "net_move_pct": 0.42 },
-    { "market": "LON", "direction": "bearish", "net_move_pct": -0.31 },
-    { "market": "ASIA", "direction": "bullish", "net_move_pct": 0.18 }
+    {
+      "market": "NY",
+      "direction": "bullish",
+      "net_move_pct": 0.42
+    },
+    {
+      "market": "LON",
+      "direction": "bearish",
+      "net_move_pct": -0.31
+    },
+    {
+      "market": "ASIA",
+      "direction": "bullish",
+      "net_move_pct": 0.18
+    }
   ]
 }
