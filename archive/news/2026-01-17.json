@@ -1,733 +1,2142 @@
 {
-  "generated_at_utc": "2026-01-17T21:40:21Z",
+  "generated_at_utc": "2026-01-17T22:11:19Z",
   "items": [
     {
-      "id": "news_20260117_210736_6153d4",
-      "category": "stocks_macro",
-      "title_en": "Mark Cuban Says 'Our Healthcare Has Become A Game Of Who Can Rip Off Who And Get Away With It'",
-      "title_ur": "Mark Cuban Says 'Our Healthcare Has Become A Game Of Who Can Rip Off Who And Get Away With It'",
+      "id": "news_20260117_220624_7356d0",
+      "category": "crypto",
+      "title_en": "Coinbase CEO denies White House clash, says negotiations are ongoing",
+      "title_ur": "Coinbase CEO denies White House clash, says negotiations are ongoing",
       "summary_en": [
-        "Mark Cuban Says 'Our Healthcare Has Become A Game Of Who Can Rip Off Who And Get Away With It'"
+        "Coinbase CEO denies White House clash, says negotiations are ongoing",
+        "Coinbase CEO Brian Armstrong said the industry is working on several ideas to help community banks in the CLARITY market structure bill."
       ],
       "summary_ur": [
-        "Mark Cuban Says 'Our Healthcare Has Become A Game Of Who Can Rip Off Who And Get Away With It'",
-        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "Coinbase CEO denies White House clash, says negotiations are ongoing",
+        "Coinbase CEO Brian Armstrong said the industry is working on several ideas to help community banks in the CLARITY مارکیٹ structure bill.",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T21:07:36Z",
-      "published_at_pkt": "2026-01-18T02:07:36+05:00",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/mark-cuban-says-healthcare-become-210736199.html",
+      "published_at_utc": "2026-01-17T22:06:24Z",
+      "published_at_pkt": "2026-01-18T03:06:24+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/coinbase-ceo-denies-white-house-clash-negotiation-ongoing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Mark",
-        "Cuban",
-        "Says",
-        "Our",
-        "Healthcare",
-        "Has",
-        "Become",
-        "Game"
+        "Coinbase",
+        "CEO",
+        "denies",
+        "White",
+        "House",
+        "clash",
+        "says",
+        "negotiations"
       ],
-      "dedupe_hash": "sha1:6153d4fbb20e8af023e5f35f8a20179324f1d031"
+      "dedupe_hash": "sha1:7356d07d074cc5f0aa12a2062d3ff7f5510e4a98"
     },
     {
-      "id": "news_20260117_210500_592848",
+      "id": "news_20260117_215353_f7af22",
       "category": "stocks_macro",
-      "title_en": "1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood",
-      "title_ur": "1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood",
+      "title_en": "Trump: 'I'll Be Suing JPMorgan Chase' Over Post-January 6 'Debanking'",
+      "title_ur": "Trump —  'I'll Be Suing JPMorgan Chase' Over Post-January 6 'Debanking'",
       "summary_en": [
-        "1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood"
+        "Trump: 'I'll Be Suing JPMorgan Chase' Over Post-January 6 'Debanking'"
       ],
       "summary_ur": [
-        "1 Spectacular Cryptocurrency That Could Soar by 1,159%, According to Cathie Wood",
+        "Trump —  'I'll Be Suing JPMorgan Chase' Over Post-January 6 'Debanking'",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T21:05:00Z",
-      "published_at_pkt": "2026-01-18T02:05:00+05:00",
+      "published_at_utc": "2026-01-17T21:53:53Z",
+      "published_at_pkt": "2026-01-18T02:53:53+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/1-spectacular-cryptocurrency-could-soar-210500096.html",
+      "original_url": "https://finance.yahoo.com/news/trump-ill-suing-jpmorgan-chase-215353607.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Spectacular",
-        "Cryptocurrency",
-        "That",
-        "Could",
-        "Soar",
-        "According",
-        "Cathie",
-        "Wood"
+        "Trump",
+        "Suing",
+        "JPMorgan",
+        "Chase",
+        "Over",
+        "Post-January",
+        "Debanking"
       ],
-      "dedupe_hash": "sha1:592848ada7db442985759b195f46cd2f24e18080"
+      "dedupe_hash": "sha1:f7af22b6226a3a2452ca16145889efccd4c21966"
     },
     {
-      "id": "news_20260117_204503_fe8352",
+      "id": "news_20260117_215003_fe391a",
       "category": "stocks_macro",
-      "title_en": "American Burger Chain Makes $10 Million Bitcoin Purchase",
-      "title_ur": "American Burger Chain Makes $10 Million بٹ کوائن Purchase",
+      "title_en": "SCHG vs. VUG: Here's How to Decide on the Right Growth ETF for Your Portfolio",
+      "title_ur": "SCHG vs. VUG —  Here's How to Decide on the Right Growth ای ٹی ایف for Your Portfolio",
       "summary_en": [
-        "American Burger Chain Makes $10 Million Bitcoin Purchase"
+        "SCHG vs. VUG: Here's How to Decide on the Right Growth ETF for Your Portfolio"
       ],
       "summary_ur": [
-        "American Burger Chain Makes $10 Million بٹ کوائن Purchase",
+        "SCHG vs. VUG —  Here's How to Decide on the Right Growth ای ٹی ایف for Your Portfolio",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T20:45:03Z",
-      "published_at_pkt": "2026-01-18T01:45:03+05:00",
+      "published_at_utc": "2026-01-17T21:50:03Z",
+      "published_at_pkt": "2026-01-18T02:50:03+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/american-burger-chain-makes-10-204503804.html",
+      "original_url": "https://finance.yahoo.com/news/schg-vs-vug-heres-decide-215003762.html",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "SCHG",
+        "VUG",
+        "Here",
+        "How",
+        "Decide",
+        "Right",
+        "Growth",
+        "ETF"
+      ],
+      "dedupe_hash": "sha1:fe391aaba8d958af6ddd88515bac1ce31249328d"
+    },
+    {
+      "id": "news_20260117_215000_5dc683",
+      "category": "stocks_macro",
+      "title_en": "3 Growth Stocks to Invest $1,000 in Right Now",
+      "title_ur": "3 Growth اسٹاکس to Invest $1,000 in Right Now",
+      "summary_en": [
+        "3 Growth Stocks to Invest $1,000 in Right Now"
+      ],
+      "summary_ur": [
+        "3 Growth اسٹاکس to Invest $1,000 in Right Now",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T21:50:00Z",
+      "published_at_pkt": "2026-01-18T02:50:00+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/3-growth-stocks-invest-1-215000529.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "American",
-        "Burger",
-        "Chain",
-        "Makes",
+        "Growth",
+        "Stocks",
+        "Invest",
+        "Right",
+        "Now"
+      ],
+      "dedupe_hash": "sha1:5dc683bf94e236c4cc1f5e5415bfbd08987db624"
+    },
+    {
+      "id": "news_20260117_213500_614f38",
+      "category": "stocks_macro",
+      "title_en": "Should You Buy Lucid Stock While It's at $10 a Share?",
+      "title_ur": "Should You Buy Lucid Stock While It's at $10 a Share?",
+      "summary_en": [
+        "Should You Buy Lucid Stock While It's at $10 a Share?"
+      ],
+      "summary_ur": [
+        "Should You Buy Lucid Stock While It's at $10 a Share?",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T21:35:00Z",
+      "published_at_pkt": "2026-01-18T02:35:00+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/buy-lucid-stock-while-10-213500806.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Should",
+        "You",
+        "Buy",
+        "Lucid",
+        "Stock",
+        "While",
+        "Share"
+      ],
+      "dedupe_hash": "sha1:614f38f6143faa189e274798783612d72cf4802b"
+    },
+    {
+      "id": "news_20260117_212323_90b071",
+      "category": "stocks_macro",
+      "title_en": "How Will Dow Jones Futures React To Trump's Greenland Tariffs On NATO Nations?",
+      "title_ur": "How Will Dow Jones Futures React To Trump's Greenland Tariffs On NATO Nations?",
+      "summary_en": [
+        "How Will Dow Jones Futures React To Trump's Greenland Tariffs On NATO Nations?"
+      ],
+      "summary_ur": [
+        "How Will Dow Jones Futures React To Trump's Greenland Tariffs On NATO Nations?",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T21:23:23Z",
+      "published_at_pkt": "2026-01-18T02:23:23+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-tariffs-nato-nations-greenland-google/?src=A00220&yptr=yahoo",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "How",
+        "Will",
+        "Dow",
+        "Jones",
+        "Futures",
+        "React",
+        "Trump",
+        "Greenland"
+      ],
+      "dedupe_hash": "sha1:90b0716371f9d58f10957ba781425ebd94bc419d"
+    },
+    {
+      "id": "news_20260117_212000_ea03dc",
+      "category": "stocks_macro",
+      "title_en": "1 Reason Why Now Is a Great Time to Buy Vistra",
+      "title_ur": "1 Reason Why Now Is a Great Time to Buy Vistra",
+      "summary_en": [
+        "1 Reason Why Now Is a Great Time to Buy Vistra"
+      ],
+      "summary_ur": [
+        "1 Reason Why Now Is a Great Time to Buy Vistra",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T21:20:00Z",
+      "published_at_pkt": "2026-01-18T02:20:00+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/1-reason-why-now-great-212000099.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Reason",
+        "Why",
+        "Now",
+        "Great",
+        "Time",
+        "Buy",
+        "Vistra"
+      ],
+      "dedupe_hash": "sha1:ea03dcc009bff7d9aa51ed3ee84d53cd655e4a96"
+    },
+    {
+      "id": "news_20260117_211626_f6aaf4",
+      "category": "crypto",
+      "title_en": "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
+      "title_ur": "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
+      "summary_en": [
+        "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
+        "\"The White House has been super constructive here,\" said CEO Brian Armstrong."
+      ],
+      "summary_ur": [
+        "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
+        "\"The White House has been super constructive here,\" said CEO Brian Armstrong.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T21:16:26Z",
+      "published_at_pkt": "2026-01-18T02:16:26+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/17/coinbase-refutes-rumors-of-white-house-s-threat-to-pull-support-for-crypto-bill",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Coinbase",
+        "refutes",
+        "rumors",
+        "White",
+        "House",
+        "threat",
+        "pull",
+        "support"
+      ],
+      "dedupe_hash": "sha1:f6aaf48772334032b5c9a5bac94f0c60668952ad"
+    },
+    {
+      "id": "news_20260117_205858_614ff3",
+      "category": "crypto",
+      "title_en": "Steak 'n Shake announces $10M notional increase on Bitcoin holdings",
+      "title_ur": "Steak 'n Shake announces $10M notional increase on بٹ کوائن holdings",
+      "summary_en": [
+        "Steak 'n Shake announces $10M notional increase on Bitcoin holdings",
+        "The company began accepting Bitcoin as a method of payment in May 2025, following hundreds of store closures between 2018 and 2025."
+      ],
+      "summary_ur": [
+        "Steak 'n Shake announces $10M notional increase on بٹ کوائن holdings",
+        "The company began accepting بٹ کوائن as a method of payment in May 2025, following hundreds of store closures between 2018 and 2025.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T20:58:58Z",
+      "published_at_pkt": "2026-01-18T01:58:58+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/steak-n-shake-10m-increase-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "Steak",
+        "Shake",
+        "announces",
+        "notional",
+        "increase",
+        "Bitcoin",
+        "holdings"
+      ],
+      "dedupe_hash": "sha1:614ff331e32a920de2e4b55398df39e0b201632a"
+    },
+    {
+      "id": "news_20260117_204009_e9b004",
+      "category": "crypto",
+      "title_en": "Steak ’n Shake Adds $10 Million in Bitcoin to Corporate Treasury",
+      "title_ur": "Steak ’n Shake Adds $10 Million in بٹ کوائن to Corporate ٹریژری",
+      "summary_en": [
+        "Steak ’n Shake Adds $10 Million in Bitcoin to Corporate Treasury",
+        "Bitcoin Magazine Steak ’n Shake Adds $10 Million in Bitcoin to Corporate Treasury Steak ’n Shake says they added $10 million worth of bitcoin to their corporate treasury.",
+        "This post Steak ’n Shake Adds $10 Million in Bitcoin to Corporate Treasury first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+      ],
+      "summary_ur": [
+        "Steak ’n Shake Adds $10 Million in بٹ کوائن to Corporate ٹریژری",
+        "بٹ کوائن Magazine Steak ’n Shake Adds $10 Million in بٹ کوائن to Corporate ٹریژری Steak ’n Shake says they added $10 million worth of بٹ کوائن to their corporate ٹریژری.",
+        "This post Steak ’n Shake Adds $10 Million in بٹ کوائن to Corporate ٹریژری first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
+      ],
+      "published_at_utc": "2026-01-17T20:40:09Z",
+      "published_at_pkt": "2026-01-18T01:40:09+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/news/steak-n-shake-adds-10m-in-bitcoin",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "Steak",
+        "Shake",
+        "Adds",
         "Million",
         "Bitcoin",
-        "Purchase"
+        "Corporate",
+        "Treasury"
       ],
-      "dedupe_hash": "sha1:fe835236c9b6138a484bee8e41b7c457754928c0"
+      "dedupe_hash": "sha1:e9b004eec2437042a332dcd7a373d8252040ec9e"
     },
     {
-      "id": "news_20260117_195806_6dc0bd",
-      "category": "stocks_macro",
-      "title_en": "Spot rates 25% behind inflation: A capacity crunch could change that",
-      "title_ur": "Spot شرحِ سود 25% behind افراطِ زر —  A capacity crunch could change that",
+      "id": "news_20260117_195529_6c84b2",
+      "category": "crypto",
+      "title_en": "Cathie Wood calls bitcoin 'good source of diversification' for investors seeking higher returns",
+      "title_ur": "Cathie Wood calls بٹ کوائن 'good source of diversification' for investors seeking higher returns",
       "summary_en": [
-        "Spot rates 25% behind inflation: A capacity crunch could change that"
+        "Cathie Wood calls bitcoin 'good source of diversification' for investors seeking higher returns",
+        "Ark's data shows bitcoin has weak price correlations with stocks, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management."
       ],
       "summary_ur": [
-        "Spot شرحِ سود 25% behind افراطِ زر —  A capacity crunch could change that",
+        "Cathie Wood calls بٹ کوائن 'good source of diversification' for investors seeking higher returns",
+        "Ark's data shows بٹ کوائن has weak price correlations with اسٹاکس, bonds, and gold, making it potentially attractive for risk-adjusted portfolio management.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T19:55:29Z",
+      "published_at_pkt": "2026-01-18T00:55:29+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/17/cathie-wood-calls-bitcoin-good-source-of-diversification-for-investors-seeking-higher-returns",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Cathie",
+        "Wood",
+        "calls",
+        "bitcoin",
+        "good",
+        "source",
+        "diversification",
+        "investors"
+      ],
+      "dedupe_hash": "sha1:6c84b24be6c19b9bdb8d4b6a332b03ef90a32671"
+    },
+    {
+      "id": "news_20260117_190000_0fed09",
+      "category": "crypto",
+      "title_en": "Lack of liquidity is a growing concern in crypto, says Auros' Jason Atkins",
+      "title_ur": "Lack of liquidity is a growing concern in crypto, says Auros' Jason Atkins",
+      "summary_en": [
+        "Lack of liquidity is a growing concern in crypto, says Auros' Jason Atkins",
+        "Ahead of Consensus Hong Kong, Auros’ Jason Atkins says market depth, not hype, will determine crypto’s next phase."
+      ],
+      "summary_ur": [
+        "Lack of liquidity is a growing concern in crypto, says Auros' Jason Atkins",
+        "Ahead of Consensus Hong Kong, Auros’ Jason Atkins says مارکیٹ depth, not hype, will determine crypto’s next phase.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T19:00:00Z",
+      "published_at_pkt": "2026-01-18T00:00:00+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/17/lack-of-liquidity-is-a-growing-concern-in-crypto-says-auros-jason-atkins",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Lack",
+        "liquidity",
+        "growing",
+        "concern",
+        "crypto",
+        "says",
+        "Auros",
+        "Jason"
+      ],
+      "dedupe_hash": "sha1:0fed094c564ff8de5419bde25f8a69f087c575a8"
+    },
+    {
+      "id": "news_20260117_190000_7a2b58",
+      "category": "stocks_macro",
+      "title_en": "‘Ridiculously careless’: Pregnant mom needs bigger car, renos for growing family. Ramsey Show hosts say to start saving",
+      "title_ur": "‘Ridiculously careless’ —  Pregnant mom needs bigger car, renos for growing family. Ramsey Show hosts say to start saving",
+      "summary_en": [
+        "‘Ridiculously careless’: Pregnant mom needs bigger car, renos for growing family. Ramsey Show hosts say to start saving"
+      ],
+      "summary_ur": [
+        "‘Ridiculously careless’ —  Pregnant mom needs bigger car, renos for growing family. Ramsey Show hosts say to start saving",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T19:58:06Z",
-      "published_at_pkt": "2026-01-18T00:58:06+05:00",
+      "published_at_utc": "2026-01-17T19:00:00Z",
+      "published_at_pkt": "2026-01-18T00:00:00+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/spot-rates-25-behind-inflation-195806552.html",
+      "original_url": "https://finance.yahoo.com/news/ridiculously-careless-pregnant-mom-needs-190000077.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Ridiculously",
+        "careless",
+        "Pregnant",
+        "mom",
+        "needs",
+        "bigger",
+        "car",
+        "renos"
+      ],
+      "dedupe_hash": "sha1:7a2b58a95f1e4b8cb10a41a95e536c7fea38940e"
+    },
+    {
+      "id": "news_20260117_183631_462251",
+      "category": "crypto",
+      "title_en": "'Obscure' laws stall Bitcoin reserve: White House Crypto Council director",
+      "title_ur": "'Obscure' laws stall بٹ کوائن reserve —  White House Crypto Council director",
+      "summary_en": [
+        "'Obscure' laws stall Bitcoin reserve: White House Crypto Council director",
+        "The bill is still a \"priority,\" White House Crypto Council Director Patrick Witt said, but interagency legalities remain a challenge."
+      ],
+      "summary_ur": [
+        "'Obscure' laws stall بٹ کوائن reserve —  White House Crypto Council director",
+        "The bill is still a \"priority,\" White House Crypto Council Director Patrick Witt said, but interagency legalities remain a challenge.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T18:36:31Z",
+      "published_at_pkt": "2026-01-17T23:36:31+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/obscure-laws-stall-bitcoin-reserve-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Obscure",
+        "laws",
+        "stall",
+        "Bitcoin",
+        "reserve",
+        "White",
+        "House",
+        "Crypto"
+      ],
+      "dedupe_hash": "sha1:4622510176700078a77cead65b530051b431228a"
+    },
+    {
+      "id": "news_20260117_175739_4cd701",
+      "category": "stocks_macro",
+      "title_en": "KLA (KLAC) Gets Upgrade as Foundry-Led WFE Demand Accelerates",
+      "title_ur": "KLA (KLAC) Gets Upgrade as Foundry-Led WFE Demand Accelerates",
+      "summary_en": [
+        "KLA (KLAC) Gets Upgrade as Foundry-Led WFE Demand Accelerates"
+      ],
+      "summary_ur": [
+        "KLA (KLAC) Gets Upgrade as Foundry-Led WFE Demand Accelerates",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:57:39Z",
+      "published_at_pkt": "2026-01-17T22:57:39+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/kla-klac-gets-upgrade-foundry-175739387.html",
       "impact_score": 60,
       "impact_tag": "medium",
       "keywords": [
-        "Spot",
-        "rates",
-        "behind",
-        "inflation",
-        "capacity",
-        "crunch",
-        "could",
-        "change"
+        "KLA",
+        "KLAC",
+        "Gets",
+        "Upgrade",
+        "Foundry-Led",
+        "WFE",
+        "Demand",
+        "Accelerates"
       ],
-      "dedupe_hash": "sha1:6dc0bd91322ee6cf1d24b689d049994ea9b55a0e"
+      "dedupe_hash": "sha1:4cd7018dd6bb7c7253a738881b2f5aeddd331f7e"
     },
     {
-      "id": "news_20260117_133039_a77a1d",
+      "id": "news_20260117_175635_003be9",
       "category": "stocks_macro",
-      "title_en": "The solar panel contracts that can kill home sales",
-      "title_ur": "The solar panel contracts that can kill home sales",
+      "title_en": "Arm (ARM) Downgraded by BofA on Smartphone and Royalty Headwinds",
+      "title_ur": "Arm (ARM) Downgraded by BofA on Smartphone and Royalty Headwinds",
       "summary_en": [
-        "The solar panel contracts that can kill home sales"
+        "Arm (ARM) Downgraded by BofA on Smartphone and Royalty Headwinds"
       ],
       "summary_ur": [
-        "The solar panel contracts that can kill home sales",
+        "Arm (ARM) Downgraded by BofA on Smartphone and Royalty Headwinds",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T13:30:39Z",
-      "published_at_pkt": "2026-01-17T18:30:39+05:00",
+      "published_at_utc": "2026-01-17T17:56:35Z",
+      "published_at_pkt": "2026-01-17T22:56:35+05:00",
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/news/",
-      "original_url": "https://finance.yahoo.com/news/the-solar-panel-contracts-that-can-kill-home-sales-133039793.html",
+      "original_url": "https://finance.yahoo.com/news/arm-arm-downgraded-bofa-smartphone-175635979.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "solar",
-        "panel",
-        "contracts",
-        "that",
-        "can",
-        "kill",
-        "home",
-        "sales"
+        "Arm",
+        "Downgraded",
+        "BofA",
+        "Smartphone",
+        "Royalty",
+        "Headwinds"
       ],
-      "dedupe_hash": "sha1:a77a1dd09ad401c49b808bbaa3dad6304fb5aca0"
+      "dedupe_hash": "sha1:003be9d08d9ec939d947a531b5d14da370d7b8e0"
     },
     {
-      "id": "news_20260117_123332_69b536",
-      "category": "crypto",
-      "title_en": "Three reasons why Bitcoin's 'real breakout' toward $107K has begun",
-      "title_ur": "Three reasons why بٹ کوائن's 'real breakout' toward $107K has begun",
+      "id": "news_20260117_175540_c7de0e",
+      "category": "stocks_macro",
+      "title_en": "Goldman Sachs Starts Coverage on Super Micro (SMCI) With Sell, $26 Target",
+      "title_ur": "Goldman Sachs Starts Coverage on Super Micro (SMCI) With Sell, $26 Target",
       "summary_en": [
-        "Three reasons why Bitcoin's 'real breakout' toward $107K has begun",
-        "Bitcoin entered a decisive breakout phase, targeting $107,000 as long-term holder selling fades and BTC continues to leave exchanges, tightening supply."
+        "Goldman Sachs Starts Coverage on Super Micro (SMCI) With Sell, $26 Target"
       ],
       "summary_ur": [
-        "Three reasons why بٹ کوائن's 'real breakout' toward $107K has begun",
-        "بٹ کوائن entered a decisive breakout phase, targeting $107,000 as long-term holder selling fades and بی ٹی سی continues to leave exchanges, tightening supply.",
+        "Goldman Sachs Starts Coverage on Super Micro (SMCI) With Sell, $26 Target",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T12:33:32Z",
-      "published_at_pkt": "2026-01-17T17:33:32+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/three-reasons-bitcoin-real-breakout-107k-has-begun?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-17T17:55:40Z",
+      "published_at_pkt": "2026-01-17T22:55:40+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/goldman-sachs-starts-coverage-super-175540712.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Three",
-        "reasons",
-        "why",
-        "Bitcoin",
-        "real",
-        "breakout",
-        "toward",
-        "has"
+        "Goldman",
+        "Sachs",
+        "Starts",
+        "Coverage",
+        "Super",
+        "Micro",
+        "SMCI",
+        "Sell"
       ],
-      "dedupe_hash": "sha1:69b5365395c5d98c98fc53735186c88ff72358bd"
+      "dedupe_hash": "sha1:c7de0eb2bbacfe02fcbe373469509be92aca20e5"
     },
     {
-      "id": "news_20260117_064404_6f4d6d",
-      "category": "crypto",
-      "title_en": "White House threatens to pull support for crypto bill after Coinbase standoff: Report",
-      "title_ur": "White House threatens to pull support for crypto bill after Coinbase standoff —  Report",
+      "id": "news_20260117_175513_930162",
+      "category": "stocks_macro",
+      "title_en": "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates",
+      "title_ur": "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates",
       "summary_en": [
-        "White House threatens to pull support for crypto bill after Coinbase standoff: Report",
-        "Coinbase withdrew support for the CLARITY Act, warning the draft would restrict DeFi, ban tokenized equities and eliminate stablecoin rewards."
+        "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates"
       ],
       "summary_ur": [
-        "White House threatens to pull support for crypto bill after Coinbase standoff —  Report",
-        "Coinbase withdrew support for the CLARITY Act, warning the draft would restrict DeFi, ban tokenized equities and eliminate stablecoin rewards.",
+        "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T06:44:04Z",
-      "published_at_pkt": "2026-01-17T11:44:04+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/white-house-considers-dropping-crypto-bill-after-coinbase-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-17T17:55:13Z",
+      "published_at_pkt": "2026-01-17T22:55:13+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/amd-gets-keybanc-upgrade-hyperscaler-175513511.html",
+      "impact_score": 60,
+      "impact_tag": "medium",
+      "keywords": [
+        "AMD",
+        "Gets",
+        "KeyBanc",
+        "Upgrade",
+        "Hyperscaler",
+        "Demand",
+        "Accelerates"
+      ],
+      "dedupe_hash": "sha1:930162ca6415cbd2b685e4eef261625ab4d2f56a"
+    },
+    {
+      "id": "news_20260117_175437_b068ea",
+      "category": "stocks_macro",
+      "title_en": "KeyBanc Sees Micron (MU) in a ‘Different’ Memory Cycle, Raises Target",
+      "title_ur": "KeyBanc Sees Micron (MU) in a ‘Different’ Memory Cycle, Raises Target",
+      "summary_en": [
+        "KeyBanc Sees Micron (MU) in a ‘Different’ Memory Cycle, Raises Target"
+      ],
+      "summary_ur": [
+        "KeyBanc Sees Micron (MU) in a ‘Different’ Memory Cycle, Raises Target",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:54:37Z",
+      "published_at_pkt": "2026-01-17T22:54:37+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/keybanc-sees-micron-mu-different-175437145.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "White",
-        "House",
-        "threatens",
-        "pull",
-        "support",
-        "crypto",
-        "bill",
-        "after"
+        "KeyBanc",
+        "Sees",
+        "Micron",
+        "Different",
+        "Memory",
+        "Cycle",
+        "Raises",
+        "Target"
       ],
-      "dedupe_hash": "sha1:6f4d6d2cb297e7c4a45e3d4c0fa7bafe1ffb2cf4"
+      "dedupe_hash": "sha1:b068ea4cbf20c6f99446e3dcb2eb8ab2969274c5"
     },
     {
-      "id": "news_20260117_063508_bc6aa1",
-      "category": "crypto",
-      "title_en": "Elon Musk once backed a $10 billion OpenAI ICO, internal notes show",
-      "title_ur": "Elon Musk once backed a $10 billion OpenAI ICO, internal notes show",
+      "id": "news_20260117_175339_e43c45",
+      "category": "stocks_macro",
+      "title_en": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
+      "title_ur": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
       "summary_en": [
-        "Elon Musk once backed a $10 billion OpenAI ICO, internal notes show",
-        "Internal OpenAI call notes show Elon Musk agreed to explore an ICO with a for-profit arm in early 2018, but later dropped the idea and exited the organization."
+        "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026"
       ],
       "summary_ur": [
-        "Elon Musk once backed a $10 billion OpenAI ICO, internal notes show",
-        "Internal OpenAI call notes show Elon Musk agreed to explore an ICO with a for-profit arm in early 2018, but later dropped the idea and exited the organization.",
+        "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T06:35:08Z",
-      "published_at_pkt": "2026-01-17T11:35:08+05:00",
+      "published_at_utc": "2026-01-17T17:53:39Z",
+      "published_at_pkt": "2026-01-17T22:53:39+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Nvidia",
+        "NVDA",
+        "Added",
+        "Wolfe",
+        "Alpha",
+        "List",
+        "Favorite",
+        "Idea"
+      ],
+      "dedupe_hash": "sha1:e43c45a6f6b4b71ae3aa07b3bd1a49a5dd0f6568"
+    },
+    {
+      "id": "news_20260117_175244_167b4e",
+      "category": "stocks_macro",
+      "title_en": "Alphabet (GOOGL) Gets $350 Target From Truist as Search Momentum Holds",
+      "title_ur": "Alphabet (GOOGL) Gets $350 Target From Truist as Search Momentum Holds",
+      "summary_en": [
+        "Alphabet (GOOGL) Gets $350 Target From Truist as Search Momentum Holds"
+      ],
+      "summary_ur": [
+        "Alphabet (GOOGL) Gets $350 Target From Truist as Search Momentum Holds",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:52:44Z",
+      "published_at_pkt": "2026-01-17T22:52:44+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/alphabet-googl-gets-350-target-175244828.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Alphabet",
+        "GOOGL",
+        "Gets",
+        "Target",
+        "Truist",
+        "Search",
+        "Momentum",
+        "Holds"
+      ],
+      "dedupe_hash": "sha1:167b4e09771c571cf8186bdd3da31555b51d353f"
+    },
+    {
+      "id": "news_20260117_175202_8d040b",
+      "category": "stocks_macro",
+      "title_en": "Meta (META) Stays Overweight at Piper Sandler Ahead of Q1 Results",
+      "title_ur": "Meta (META) Stays Overweight at Piper Sandler Ahead of Q1 Results",
+      "summary_en": [
+        "Meta (META) Stays Overweight at Piper Sandler Ahead of Q1 Results"
+      ],
+      "summary_ur": [
+        "Meta (META) Stays Overweight at Piper Sandler Ahead of Q1 Results",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:52:02Z",
+      "published_at_pkt": "2026-01-17T22:52:02+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/meta-meta-stays-overweight-piper-175202622.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Meta",
+        "Stays",
+        "Overweight",
+        "Piper",
+        "Sandler",
+        "Ahead",
+        "Results"
+      ],
+      "dedupe_hash": "sha1:8d040bdfb095c2e59dfe209d8d8a3bb0e05ad7e9"
+    },
+    {
+      "id": "news_20260117_175005_c7ca01",
+      "category": "crypto",
+      "title_en": "Crypto trading platform with CZ as advisor sees sudden $2 billion volume surge on 'airdrop' hype",
+      "title_ur": "Crypto trading platform with CZ as advisor sees sudden $2 billion volume تیزی on 'airdrop' hype",
+      "summary_en": [
+        "Crypto trading platform with CZ as advisor sees sudden $2 billion volume surge on 'airdrop' hype",
+        "Users are actively trading in hopes of qualifying for future perks, with the platform hinting at an airdrop in 2026 and receiving a multi-8-figure investment from YZi Labs."
+      ],
+      "summary_ur": [
+        "Crypto trading platform with CZ as advisor sees sudden $2 billion volume تیزی on 'airdrop' hype",
+        "Users are actively trading in hopes of qualifying for future perks, with the platform hinting at an airdrop in 2026 and receiving a multi-8-figure investment from YZi Labs.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:50:05Z",
+      "published_at_pkt": "2026-01-17T22:50:05+05:00",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/17/elon-musk-once-backed-a-usd10-billion-openai-ico-internal-notes-show",
+      "original_url": "https://www.coindesk.com/markets/2026/01/17/a-new-crypto-project-with-cz-as-advisor-sees-usd2-billion-in-volume-surge-on-airdrop-hype",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Elon",
-        "Musk",
-        "once",
-        "backed",
+        "Crypto",
+        "trading",
+        "platform",
+        "advisor",
+        "sees",
+        "sudden",
         "billion",
-        "OpenAI",
-        "ICO",
-        "internal"
+        "volume"
       ],
-      "dedupe_hash": "sha1:bc6aa19b7783936ff2b71ddfe02e2702cda17dc9"
+      "dedupe_hash": "sha1:c7ca01aefc47bc6fd3bf78b5fc85e078e3bccccb"
     },
     {
-      "id": "news_20260117_063211_dc31e7",
-      "category": "crypto",
-      "title_en": "ETH price hits $3.4K, but pro traders are not bullish yet: Here’s why",
-      "title_ur": "ای ٹی ایچ price hits $3.4K, but pro traders are not bullish yet —  Here’s why",
+      "id": "news_20260117_174853_6acbf2",
+      "category": "stocks_macro",
+      "title_en": "Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore",
+      "title_ur": "Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore",
       "summary_en": [
-        "ETH price hits $3.4K, but pro traders are not bullish yet: Here’s why",
-        "ETH price cooled down from its recent rally as US macroeconomic factors, reduced DApps activity and falling fees impact traders’ use of Ether derivatives."
+        "Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore"
       ],
       "summary_ur": [
-        "ای ٹی ایچ price hits $3.4K, but pro traders are not bullish yet —  Here’s why",
-        "ای ٹی ایچ price cooled down from its recent rally as US macroeconomic factors, reduced DApps activity and falling fees impact traders’ use of Ether derivatives.",
+        "Apple’s (AAPL) AI Roadmap Strengthens With Google Deal, Says Evercore",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T06:32:11Z",
-      "published_at_pkt": "2026-01-17T11:32:11+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/eth-price-hits-3-4k-but-pro-traders-are-not-bullish-yet-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-17T17:48:53Z",
+      "published_at_pkt": "2026-01-17T22:48:53+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/apple-aapl-ai-roadmap-strengthens-174853486.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "ETH",
-        "price",
-        "hits",
-        "but",
-        "pro",
-        "traders",
-        "not",
-        "bullish"
+        "Apple",
+        "AAPL",
+        "Roadmap",
+        "Strengthens",
+        "Google",
+        "Deal",
+        "Says",
+        "Evercore"
       ],
-      "dedupe_hash": "sha1:dc31e7682a7a7a04eae0418c7be0ddd1ba17ab7a"
+      "dedupe_hash": "sha1:6acbf288e2dc855a4e117463e0049910a6124bc3"
     },
     {
-      "id": "news_20260117_043346_b01ab8",
-      "category": "crypto",
-      "title_en": "Sacrificing Ethereum’s values for mainstream adoption must stop now: Buterin",
-      "title_ur": "Sacrificing ایتھیریم’s values for mainstream adoption must stop now —  Buterin",
+      "id": "news_20260117_174723_b2fd28",
+      "category": "stocks_macro",
+      "title_en": "Truist Raises Price Target on Amphenol Corporation (APH) After CommScope Deal",
+      "title_ur": "Truist Raises Price Target on Amphenol Corporation (APH) After CommScope Deal",
       "summary_en": [
-        "Sacrificing Ethereum’s values for mainstream adoption must stop now: Buterin",
-        "Vitalik Buterin wants improved private payments, easier running of full nodes, decentralized apps that don’t rely on centralized services, and more on-chain privacy."
+        "Truist Raises Price Target on Amphenol Corporation (APH) After CommScope Deal"
       ],
       "summary_ur": [
-        "Sacrificing ایتھیریم’s values for mainstream adoption must stop now —  Buterin",
-        "Vitalik Buterin wants improved private payments, easier running of full nodes, decentralized apps that don’t rely on centralized services, and more on-chain privacy.",
+        "Truist Raises Price Target on Amphenol Corporation (APH) After CommScope Deal",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-17T04:33:46Z",
-      "published_at_pkt": "2026-01-17T09:33:46+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/sacrificing-ethereums-values-for-mainstream-adoption-must-stop-now-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-17T17:47:23Z",
+      "published_at_pkt": "2026-01-17T22:47:23+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/truist-raises-price-target-amphenol-174723315.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Sacrificing",
-        "Ethereum",
-        "values",
-        "mainstream",
-        "adoption",
-        "must",
-        "stop",
-        "now"
+        "Truist",
+        "Raises",
+        "Price",
+        "Target",
+        "Amphenol",
+        "Corporation",
+        "APH",
+        "After"
       ],
-      "dedupe_hash": "sha1:b01ab851c8670d28dd1a603e42deff012ef94148"
+      "dedupe_hash": "sha1:b2fd284a987e1d41e71d79f231543c78c7234bce"
     },
     {
-      "id": "news_20260116_213858_6544af",
-      "category": "crypto",
-      "title_en": "Michael Saylor pushes back on criticism of Bitcoin treasury companies",
-      "title_ur": "Michael Saylor pushes back on criticism of بٹ کوائن ٹریژری companies",
+      "id": "news_20260117_174630_35976a",
+      "category": "stocks_macro",
+      "title_en": "Autodesk (ADSK) Earns Top Pick Status at Piper Sandler on AI Progress",
+      "title_ur": "Autodesk (ADSK) Earns Top Pick Status at Piper Sandler on AI Progress",
       "summary_en": [
-        "Michael Saylor pushes back on criticism of Bitcoin treasury companies",
-        "Speaking on the What Bitcoin Did podcast, Strategy chairman Michael Saylor pushed back against criticism of companies issuing equity or debt to buy Bitcoin."
+        "Autodesk (ADSK) Earns Top Pick Status at Piper Sandler on AI Progress"
       ],
       "summary_ur": [
-        "Michael Saylor pushes back on criticism of بٹ کوائن ٹریژری companies",
-        "Speaking on the What بٹ کوائن Did podcast, Strategy chairman Michael Saylor pushed back against criticism of companies issuing equity or debt to buy بٹ کوائن.",
+        "Autodesk (ADSK) Earns Top Pick Status at Piper Sandler on AI Progress",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-16T21:38:58Z",
-      "published_at_pkt": "2026-01-17T02:38:58+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/michael-saylor-criticism-bitcoin-treasury-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2026-01-17T17:46:30Z",
+      "published_at_pkt": "2026-01-17T22:46:30+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/autodesk-adsk-earns-top-pick-174630216.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Michael",
-        "Saylor",
-        "pushes",
-        "back",
-        "criticism",
+        "Autodesk",
+        "ADSK",
+        "Earns",
+        "Top",
+        "Pick",
+        "Status",
+        "Piper",
+        "Sandler"
+      ],
+      "dedupe_hash": "sha1:35976a3d57ef443b74cf7a50b6c1d9f030273e74"
+    },
+    {
+      "id": "news_20260117_174500_962c1c",
+      "category": "stocks_macro",
+      "title_en": "Rothschild Redburn Stays Bullish on ASML on Strong Order Intake",
+      "title_ur": "Rothschild Redburn Stays Bullish on ASML on Strong Order Intake",
+      "summary_en": [
+        "Rothschild Redburn Stays Bullish on ASML on Strong Order Intake"
+      ],
+      "summary_ur": [
+        "Rothschild Redburn Stays Bullish on ASML on Strong Order Intake",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:45:00Z",
+      "published_at_pkt": "2026-01-17T22:45:00+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/rothschild-redburn-stays-bullish-asml-174500753.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Rothschild",
+        "Redburn",
+        "Stays",
+        "Bullish",
+        "ASML",
+        "Strong",
+        "Order",
+        "Intake"
+      ],
+      "dedupe_hash": "sha1:962c1c12d1a18ea6638654d67fa7bb1a63cc76a5"
+    },
+    {
+      "id": "news_20260117_174414_7b75e4",
+      "category": "stocks_macro",
+      "title_en": "Why Evercore ISI Is Bullish on Reddit’s (RDDT) Monetization Story",
+      "title_ur": "Why Evercore ISI Is Bullish on Reddit’s (RDDT) Monetization Story",
+      "summary_en": [
+        "Why Evercore ISI Is Bullish on Reddit’s (RDDT) Monetization Story"
+      ],
+      "summary_ur": [
+        "Why Evercore ISI Is Bullish on Reddit’s (RDDT) Monetization Story",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:44:14Z",
+      "published_at_pkt": "2026-01-17T22:44:14+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/why-evercore-isi-bullish-reddit-174414935.html",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Why",
+        "Evercore",
+        "ISI",
+        "Bullish",
+        "Reddit",
+        "RDDT",
+        "Monetization",
+        "Story"
+      ],
+      "dedupe_hash": "sha1:7b75e49719a3a05fc9bae25a85a7a7f97d7d5eee"
+    },
+    {
+      "id": "news_20260117_174242_1cbc74",
+      "category": "stocks_macro",
+      "title_en": "HPE Labeled a ‘Show-Me Story’ for 2026 as Strategy Evolves",
+      "title_ur": "HPE Labeled a ‘Show-Me Story’ for 2026 as Strategy Evolves",
+      "summary_en": [
+        "HPE Labeled a ‘Show-Me Story’ for 2026 as Strategy Evolves"
+      ],
+      "summary_ur": [
+        "HPE Labeled a ‘Show-Me Story’ for 2026 as Strategy Evolves",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:42:42Z",
+      "published_at_pkt": "2026-01-17T22:42:42+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/hpe-labeled-show-story-2026-174242404.html",
+      "impact_score": 60,
+      "impact_tag": "medium",
+      "keywords": [
+        "HPE",
+        "Labeled",
+        "Show-Me",
+        "Story",
+        "Strategy",
+        "Evolves"
+      ],
+      "dedupe_hash": "sha1:1cbc743114ef5ef99c83af66f7b2d88430305d23"
+    },
+    {
+      "id": "news_20260117_174136_ae8665",
+      "category": "stocks_macro",
+      "title_en": "UBS Reiterates Neutral on Oklo (OKLO) After Meta Power Deal",
+      "title_ur": "UBS Reiterates Neutral on Oklo (OKLO) After Meta Power Deal",
+      "summary_en": [
+        "UBS Reiterates Neutral on Oklo (OKLO) After Meta Power Deal"
+      ],
+      "summary_ur": [
+        "UBS Reiterates Neutral on Oklo (OKLO) After Meta Power Deal",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:41:36Z",
+      "published_at_pkt": "2026-01-17T22:41:36+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/news/ubs-reiterates-neutral-oklo-oklo-174136528.html",
+      "impact_score": 60,
+      "impact_tag": "medium",
+      "keywords": [
+        "UBS",
+        "Reiterates",
+        "Neutral",
+        "Oklo",
+        "After",
+        "Meta",
+        "Power",
+        "Deal"
+      ],
+      "dedupe_hash": "sha1:ae86650ccf46e8aeaa3c3f0b1790fa1f46ea0af2"
+    },
+    {
+      "id": "news_20260117_170000_bcf5c0",
+      "category": "crypto",
+      "title_en": "How tokenized assets could become a $400 billion market in 2026",
+      "title_ur": "How tokenized assets could become a $400 billion مارکیٹ in 2026",
+      "summary_en": [
+        "How tokenized assets could become a $400 billion market in 2026",
+        "After stablecoins proved product-market fit, crypto founders and executives say 2026 is when banks and asset managers will push tokenized assets into mainstream markets."
+      ],
+      "summary_ur": [
+        "How tokenized assets could become a $400 billion مارکیٹ in 2026",
+        "After stablecoins proved product-مارکیٹ fit, crypto founders and executives say 2026 is when banks and asset managers will push tokenized assets into mainstream markets.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T17:00:00Z",
+      "published_at_pkt": "2026-01-17T22:00:00+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/news-analysis/2026/01/17/why-tokenized-stocks-funds-and-gold-will-have-a-breakout-year-in-2026",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "How",
+        "tokenized",
+        "assets",
+        "could",
+        "become",
+        "billion",
+        "market"
+      ],
+      "dedupe_hash": "sha1:bcf5c08518338588a270be3fc758782d7f748909"
+    },
+    {
+      "id": "news_20260117_152450_81978c",
+      "category": "crypto",
+      "title_en": "Popular burger joint Steak ’n Shake buys $10 million bitcoin",
+      "title_ur": "Popular burger joint Steak ’n Shake buys $10 million بٹ کوائن",
+      "summary_en": [
+        "Popular burger joint Steak ’n Shake buys $10 million bitcoin",
+        "The company says that accepting bitcoin payments has led to a \"self-reinforcing cycle\" where crypto revenue helps fund upgrades and improvements."
+      ],
+      "summary_ur": [
+        "Popular burger joint Steak ’n Shake buys $10 million بٹ کوائن",
+        "The company says that accepting بٹ کوائن payments has led to a \"self-reinforcing cycle\" where crypto revenue helps fund upgrades and improvements.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T15:24:50Z",
+      "published_at_pkt": "2026-01-17T20:24:50+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/17/popular-burger-joint-steak-n-shake-buys-usd10-million-bitcoin",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Popular",
+        "burger",
+        "joint",
+        "Steak",
+        "Shake",
+        "buys",
+        "million",
+        "bitcoin"
+      ],
+      "dedupe_hash": "sha1:81978ca8d0ae4ed01f5c5726d307f997ba4783aa"
+    },
+    {
+      "id": "news_20260117_150000_cef4af",
+      "category": "crypto",
+      "title_en": "What comes next: State of Crypto",
+      "title_ur": "What comes next —  State of Crypto",
+      "summary_en": [
+        "What comes next: State of Crypto",
+        "The crypto market structure bill isn't dead, but it took a blow."
+      ],
+      "summary_ur": [
+        "What comes next —  State of Crypto",
+        "The crypto مارکیٹ structure bill isn't dead, but it took a blow.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T15:00:00Z",
+      "published_at_pkt": "2026-01-17T20:00:00+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/17/what-comes-next-state-of-crypto",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "What",
+        "comes",
+        "next",
+        "State",
+        "Crypto"
+      ],
+      "dedupe_hash": "sha1:cef4af5dc2bcfa0bfa3c4bf59f758ce6af986c8b"
+    },
+    {
+      "id": "news_20260117_125115_05da54",
+      "category": "crypto",
+      "title_en": "Here’s what happened in crypto today",
+      "title_ur": "Here’s what happened in crypto today",
+      "summary_en": [
+        "Here’s what happened in crypto today",
+        "Need to know what happened in crypto today?",
+        "Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      ],
+      "summary_ur": [
+        "Here’s what happened in crypto today",
+        "Need to know what happened in crypto today?",
+        "Here is the latest news on daily trends and events impacting بٹ کوائن price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      ],
+      "published_at_utc": "2026-01-17T12:51:15Z",
+      "published_at_pkt": "2026-01-17T17:51:15+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Here",
+        "what",
+        "happened",
+        "crypto",
+        "today"
+      ],
+      "dedupe_hash": "sha1:05da54145fc5d4dea382603e553ecd229bfd3233"
+    },
+    {
+      "id": "news_20260117_112756_375d11",
+      "category": "crypto",
+      "title_en": "Spot Bitcoin ETFs attract $1.42B in strongest week since early October",
+      "title_ur": "Spot بٹ کوائن ETFs attract $1.42B in strongest week since early October",
+      "summary_en": [
+        "Spot Bitcoin ETFs attract $1.42B in strongest week since early October",
+        "Spot Bitcoin ETFs posted their strongest week since October as institutional investors returned via regulated products, helped by reduced whale selling and tightening effective supply."
+      ],
+      "summary_ur": [
+        "Spot بٹ کوائن ETFs attract $1.42B in strongest week since early October",
+        "Spot بٹ کوائن ETFs posted their strongest week since October as institutional investors returned via regulated products, helped by reduced whale selling and tightening effective supply.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T11:27:56Z",
+      "published_at_pkt": "2026-01-17T16:27:56+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-etf-inflows-surge-as-institutional-demand-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "Spot",
         "Bitcoin",
-        "treasury",
-        "companies"
+        "ETFs",
+        "attract",
+        "strongest",
+        "week",
+        "since",
+        "early"
       ],
-      "dedupe_hash": "sha1:6544af154ed0083c1964f42a70501c4d21e82b87"
+      "dedupe_hash": "sha1:375d11c9eafa3271176371c2ada20901e2f57197"
     },
     {
-      "id": "news_20260116_201936_2c7712",
+      "id": "news_20260117_103300_7478a7",
       "category": "crypto",
-      "title_en": "Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold",
-      "title_ur": "Jefferies’ Analyst Dumps بٹ کوائن Over Quantum Computing Fears, Buys Gold",
+      "title_en": "Two solo bitcoin miners hit rare $300,000 jackpots in the same week",
+      "title_ur": "Two solo بٹ کوائن miners hit rare $300,000 jackpots in the same week",
       "summary_en": [
-        "Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold",
-        "Bitcoin Magazine Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold Jefferies strategist Christopher Wood has dropped Bitcoin from his Greed &#038; Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.",
-        "This post Jefferies’ Analyst Dumps Bitcoin Over Quantum Computing Fears, Buys Gold first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+        "Two solo bitcoin miners hit rare $300,000 jackpots in the same week",
+        "Two independent miners mined full blocks and collected roughly 3.15 BTC each, an uncommon outcome in a network dominated by large pools."
       ],
       "summary_ur": [
-        "Jefferies’ Analyst Dumps بٹ کوائن Over Quantum Computing Fears, Buys Gold",
-        "بٹ کوائن Magazine Jefferies’ Analyst Dumps بٹ کوائن Over Quantum Computing Fears, Buys Gold Jefferies strategist Christopher Wood has dropped بٹ کوائن from his Greed &#038; Fear portfolio, citing quantum computing as a potential existential threat to its cryptography.",
-        "This post Jefferies’ Analyst Dumps بٹ کوائن Over Quantum Computing Fears, Buys Gold first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
+        "Two solo بٹ کوائن miners hit rare $300,000 jackpots in the same week",
+        "Two independent miners mined full blocks and collected roughly 3.15 بی ٹی سی each, an uncommon outcome in a network dominated by large pools.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-16T20:19:36Z",
-      "published_at_pkt": "2026-01-17T01:19:36+05:00",
+      "published_at_utc": "2026-01-17T10:33:00Z",
+      "published_at_pkt": "2026-01-17T15:33:00+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/tech/2026/01/16/two-solo-bitcoin-miners-hit-rare-usd300-000-jackpots-in-the-same-week",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Two",
+        "solo",
+        "bitcoin",
+        "miners",
+        "hit",
+        "rare",
+        "jackpots",
+        "same"
+      ],
+      "dedupe_hash": "sha1:7478a762b84ec1c5c13f09575ef0007ab8f2df9c"
+    },
+    {
+      "id": "news_20260117_095424_10c4e3",
+      "category": "crypto",
+      "title_en": "User loses $282M in one of the largest social engineering crypto heists",
+      "title_ur": "User loses $282M in one of the largest social engineering crypto heists",
+      "summary_en": [
+        "User loses $282M in one of the largest social engineering crypto heists",
+        "The crypto user was reportedly deceived by an attacker impersonating Trezor support, tricked into revealing their hardware wallet seed phrase."
+      ],
+      "summary_ur": [
+        "User loses $282M in one of the largest social engineering crypto heists",
+        "The crypto user was reportedly deceived by an attacker impersonating Trezor support, tricked into revealing their hardware wallet seed phrase.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T09:54:24Z",
+      "published_at_pkt": "2026-01-17T14:54:24+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/crypto-user-loses-282m-bitcoin-litecoin-social-engineering-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "User",
+        "loses",
+        "one",
+        "largest",
+        "social",
+        "engineering",
+        "crypto",
+        "heists"
+      ],
+      "dedupe_hash": "sha1:10c4e3f5bf159c77e27f028a8a7eda3ad26f2a7d"
+    },
+    {
+      "id": "news_20260117_022507_b5678f",
+      "category": "crypto",
+      "title_en": "Crypto bank Anchorage Digital eyes $400M raise with IPO in sight: Report",
+      "title_ur": "Crypto bank Anchorage Digital eyes $400M raise with IPO in sight —  Report",
+      "summary_en": [
+        "Crypto bank Anchorage Digital eyes $400M raise with IPO in sight: Report",
+        "Being the first federally chartered bank, Anchorage is looking to become a leading stablecoin issuer in 2026, with plans to double the size of its stablecoin team this year."
+      ],
+      "summary_ur": [
+        "Crypto bank Anchorage Digital eyes $400M raise with IPO in sight —  Report",
+        "Being the first federally chartered bank, Anchorage is looking to become a leading stablecoin issuer in 2026, with plans to double the size of its stablecoin team this year.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T02:25:07Z",
+      "published_at_pkt": "2026-01-17T07:25:07+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/crypto-bank-anchorage-digital-400-million-raise-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Crypto",
+        "bank",
+        "Anchorage",
+        "Digital",
+        "eyes",
+        "raise",
+        "IPO",
+        "sight"
+      ],
+      "dedupe_hash": "sha1:b5678fced245359df2f668221c2026822c6d2bb2"
+    },
+    {
+      "id": "news_20260117_000547_1700b7",
+      "category": "crypto",
+      "title_en": "DOJ didn't sell Bitcoin forfeited from Samourai case: White House advisor",
+      "title_ur": "DOJ didn't sell بٹ کوائن forfeited from Samourai case —  White House advisor",
+      "summary_en": [
+        "DOJ didn't sell Bitcoin forfeited from Samourai case: White House advisor",
+        "Selling the Bitcoin would have violated President Donald Trump’s Executive Order 14233, which mandates that any Bitcoin obtained through criminal or civil forfeiture “shall not be sold.”"
+      ],
+      "summary_ur": [
+        "DOJ didn't sell بٹ کوائن forfeited from Samourai case —  White House advisor",
+        "Selling the بٹ کوائن would have violated President Donald Trump’s Executive Order 14233, which mandates that any بٹ کوائن obtained through criminal or civil forfeiture “shall not be sold.”",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-17T00:05:47Z",
+      "published_at_pkt": "2026-01-17T05:05:47+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/doj-didnt-sell-any-bitcoin-tied-to-samourai-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "DOJ",
+        "didn",
+        "sell",
+        "Bitcoin",
+        "forfeited",
+        "Samourai",
+        "case",
+        "White"
+      ],
+      "dedupe_hash": "sha1:1700b723689eadf61300fc6c566591a217358bbc"
+    },
+    {
+      "id": "news_20260116_220310_cd3835",
+      "category": "crypto",
+      "title_en": "DeFi leaders voice concerns amid market structure bill‘s uncertain future",
+      "title_ur": "DeFi leaders voice concerns amid مارکیٹ structure bill‘s uncertain future",
+      "summary_en": [
+        "DeFi leaders voice concerns amid market structure bill‘s uncertain future",
+        "Many in the industry expect it could be weeks before lawmakers on the Senate Banking Committee return to consider a markup for the CLARITY Act."
+      ],
+      "summary_ur": [
+        "DeFi leaders voice concerns amid مارکیٹ structure bill‘s uncertain future",
+        "Many in the industry expect it could be weeks before lawmakers on the Senate Banking Committee return to consider a markup for the CLARITY Act.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T22:03:10Z",
+      "published_at_pkt": "2026-01-17T03:03:10+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/crypto-concerns-defi-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "DeFi",
+        "leaders",
+        "voice",
+        "concerns",
+        "amid",
+        "market",
+        "structure",
+        "bill"
+      ],
+      "dedupe_hash": "sha1:cd383569a211a381afe496c139d9b0e6e9f95474"
+    },
+    {
+      "id": "news_20260116_214059_a20d2e",
+      "category": "crypto",
+      "title_en": "Bull, base or bear? Three possible paths for crypto in 2026",
+      "title_ur": "Bull, base or bear? Three possible paths for crypto in 2026",
+      "summary_en": [
+        "Bull, base or bear? Three possible paths for crypto in 2026",
+        "In a recent interview, Aaron Arnold of Altcoin Daily broke down his crypto market outlook for 2026, drawing parallels with past market cycles and outlining bull, base and bear scenarios."
+      ],
+      "summary_ur": [
+        "Bull, base or bear? Three possible paths for crypto in 2026",
+        "In a recent interview, Aaron Arnold of Altcoin Daily broke down his crypto مارکیٹ outlook for 2026, drawing parallels with past مارکیٹ cycles and outlining bull, base and bear scenarios.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T21:40:59Z",
+      "published_at_pkt": "2026-01-17T02:40:59+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/altcoin-daily-2026-crypto-outlook-bitcoin-ethereum-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bull",
+        "base",
+        "bear",
+        "Three",
+        "possible",
+        "paths",
+        "crypto"
+      ],
+      "dedupe_hash": "sha1:a20d2e949bdfe70f47f666fa7397576ff42939e3"
+    },
+    {
+      "id": "news_20260116_213438_ea7909",
+      "category": "crypto",
+      "title_en": "Etherealize co-founders: ETH will hit $15,000 by 2027",
+      "title_ur": "Etherealize co-founders —  ای ٹی ایچ will hit $15,000 by 2027",
+      "summary_en": [
+        "Etherealize co-founders: ETH will hit $15,000 by 2027",
+        "Etherealize co-founders Vivek Raman and Danny Ryan believe Ethereum is exiting a regulatory \"purgatory\" to become the premiere destination for Wall Street."
+      ],
+      "summary_ur": [
+        "Etherealize co-founders —  ای ٹی ایچ will hit $15,000 by 2027",
+        "Etherealize co-founders Vivek Raman and Danny Ryan believe ایتھیریم is exiting a regulatory \"purgatory\" to become the premiere destination for Wall Street.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T21:34:38Z",
+      "published_at_pkt": "2026-01-17T02:34:38+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/16/etherealize-co-founders-eth-will-hit-usd15-000-by-2027",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Etherealize",
+        "co-founders",
+        "ETH",
+        "will",
+        "hit"
+      ],
+      "dedupe_hash": "sha1:ea7909835a458bf2c04ad317419386615e20b06f"
+    },
+    {
+      "id": "news_20260116_213157_1c1125",
+      "category": "crypto",
+      "title_en": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda",
+      "title_ur": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda",
+      "summary_en": [
+        "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda",
+        "Bitcoin Magazine Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda Coinbase CEO Brian Armstrong warned that major banks are lobbying to weaken President Trump’s crypto agenda by pushing Senate legislation that would ban stablecoin rewards.",
+        "This post Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+      ],
+      "summary_ur": [
+        "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda",
+        "بٹ کوائن Magazine Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda Coinbase CEO Brian Armstrong warned that major banks are lobbying to weaken President Trump’s crypto agenda by pushing Senate legislation that would ban stablecoin rewards.",
+        "This post Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
+      ],
+      "published_at_utc": "2026-01-16T21:31:57Z",
+      "published_at_pkt": "2026-01-17T02:31:57+05:00",
       "source_name": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing",
+      "original_url": "https://bitcoinmagazine.com/news/coinbase-ceo-accuses-banks-crypto",
       "impact_score": 30,
       "impact_tag": "low",
       "keywords": [
-        "Jefferies",
-        "Analyst",
-        "Dumps",
-        "Bitcoin",
-        "Over",
-        "Quantum",
-        "Computing",
-        "Fears"
+        "Coinbase",
+        "CEO",
+        "Brian",
+        "Armstrong",
+        "Accuses",
+        "Banks",
+        "Undermining",
+        "Trump"
       ],
-      "dedupe_hash": "sha1:2c77127e8d1c25ae672f925e787acf04c9918f6e"
+      "dedupe_hash": "sha1:1c112542cca8ff4b3c058e7dfd5d37941b6019b5"
     },
     {
-      "id": "news_20260116_181507_dd9a44",
+      "id": "news_20260116_212555_cc491a",
       "category": "crypto",
-      "title_en": "Riot Platforms shares jump 11% after Bitcoin sale funds Texas deal",
-      "title_ur": "Riot Platforms shares jump 11% after بٹ کوائن sale funds Texas deal",
+      "title_en": "Bitcoin spot traders lose ground as BTC bears defend $98K",
+      "title_ur": "بٹ کوائن spot traders lose ground as بی ٹی سی bears defend $98K",
       "summary_en": [
-        "Riot Platforms shares jump 11% after Bitcoin sale funds Texas deal",
-        "The deal followed Riot announcing last week that it sold more than $160 million of its Bitcoin holdings as part of a strategy shift, to broaden use of its data centers."
+        "Bitcoin spot traders lose ground as BTC bears defend $98K",
+        "Bitcoin’s rejection near $98,000 took place as spot traders ran out of energy and short-term investors harvested profits.",
+        "Will bears defend the resistance level throughout the weekend?"
       ],
       "summary_ur": [
-        "Riot Platforms shares jump 11% after بٹ کوائن sale funds Texas deal",
-        "The deal followed Riot announcing last week that it sold more than $160 million of its بٹ کوائن holdings as part of a strategy shift, to broaden use of its data centers.",
-        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+        "بٹ کوائن spot traders lose ground as بی ٹی سی bears defend $98K",
+        "بٹ کوائن’s rejection near $98,000 took place as spot traders ran out of energy and short-term investors harvested profits.",
+        "Will bears defend the resistance level throughout the weekend?"
       ],
-      "published_at_utc": "2026-01-16T18:15:07Z",
-      "published_at_pkt": "2026-01-16T23:15:07+05:00",
+      "published_at_utc": "2026-01-16T21:25:55Z",
+      "published_at_pkt": "2026-01-17T02:25:55+05:00",
       "source_name": "Cointelegraph",
       "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/riot-platforms-bitcoin-ai-hpc-texas-land-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "original_url": "https://cointelegraph.com/news/bitcoin-spot-traders-lose-ground-as-btc-bears-defend-dollar98k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bitcoin",
+        "spot",
+        "traders",
+        "lose",
+        "ground",
+        "BTC",
+        "bears",
+        "defend"
+      ],
+      "dedupe_hash": "sha1:cc491a735f46e1519bb39e8bbe1dd8fdb7823cbe"
+    },
+    {
+      "id": "news_20260116_210000_ff0e67",
+      "category": "crypto",
+      "title_en": "Crypto’s bank-like turn puts JPMorgan on edge",
+      "title_ur": "Crypto’s bank-like turn puts JPMorgan on edge",
+      "summary_en": [
+        "Crypto’s bank-like turn puts JPMorgan on edge",
+        "Banks and crypto firms are converging fast, as yield-bearing stablecoins, ETF filings and tokenized markets test the boundaries of financial regulation."
+      ],
+      "summary_ur": [
+        "Crypto’s bank-like turn puts JPMorgan on edge",
+        "Banks and crypto firms are converging fast, as yield-bearing stablecoins, ای ٹی ایف filings and tokenized markets test the boundaries of financial regulation.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T21:00:00Z",
+      "published_at_pkt": "2026-01-17T02:00:00+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/banks-stablecoins-etfs-crypto-institutional-tension?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Crypto",
+        "bank-like",
+        "turn",
+        "puts",
+        "JPMorgan",
+        "edge"
+      ],
+      "dedupe_hash": "sha1:ff0e6767d674ff0295391125bc5c9ceb67bf3efe"
+    },
+    {
+      "id": "news_20260116_205811_666a6d",
+      "category": "crypto",
+      "title_en": "Crypto developer protections don't belong in market structure bill, senators say",
+      "title_ur": "Crypto developer protections don't belong in مارکیٹ structure bill, senators say",
+      "summary_en": [
+        "Crypto developer protections don't belong in market structure bill, senators say",
+        "Legislative language which would grant some legal protections to crypto software developers, falls under the Senate Judiciary Committee, its leaders said."
+      ],
+      "summary_ur": [
+        "Crypto developer protections don't belong in مارکیٹ structure bill, senators say",
+        "Legislative language which would grant some legal protections to crypto software developers, گرتا ہے under the Senate Judiciary Committee, its leaders said.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T20:58:11Z",
+      "published_at_pkt": "2026-01-17T01:58:11+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/16/crypto-developer-protections-don-t-belong-in-market-structure-bill-senators-say",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Crypto",
+        "developer",
+        "protections",
+        "don",
+        "belong",
+        "market",
+        "structure",
+        "bill"
+      ],
+      "dedupe_hash": "sha1:666a6d11fabbda6deca799cc0b72bf8f1a5e34dc"
+    },
+    {
+      "id": "news_20260116_204234_70748c",
+      "category": "crypto",
+      "title_en": "Goldman Sachs CEO says CLARITY Act ‘has a long way to go‘",
+      "title_ur": "Goldman Sachs CEO says CLARITY Act ‘has a long way to go‘",
+      "summary_en": [
+        "Goldman Sachs CEO says CLARITY Act ‘has a long way to go‘",
+        "It's unclear when US lawmakers will return to address a market structure bill, but CEO David Solomon said Goldman Sachs was monitoring its progress for tokenization and stablecoins."
+      ],
+      "summary_ur": [
+        "Goldman Sachs CEO says CLARITY Act ‘has a long way to go‘",
+        "It's unclear when US lawmakers will return to address a مارکیٹ structure bill, but CEO David Solomon said Goldman Sachs was monitoring its progress for tokenization and stablecoins.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T20:42:34Z",
+      "published_at_pkt": "2026-01-17T01:42:34+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Goldman",
+        "Sachs",
+        "CEO",
+        "says",
+        "CLARITY",
+        "Act",
+        "has",
+        "long"
+      ],
+      "dedupe_hash": "sha1:70748cb1493510fa4c4487705853a1bf1791c4c7"
+    },
+    {
+      "id": "news_20260116_194905_c12db5",
+      "category": "crypto",
+      "title_en": "US lender Newrez to accept crypto holdings in mortgage approval",
+      "title_ur": "US lender Newrez to accept crypto holdings in mortgage منظوری",
+      "summary_en": [
+        "US lender Newrez to accept crypto holdings in mortgage approval",
+        "The new policy will allow borrowers to use Bitcoin, Ether, crypto ETFs and US dollar-backed stablecoins for asset verification and income estimates without liquidation."
+      ],
+      "summary_ur": [
+        "US lender Newrez to accept crypto holdings in mortgage منظوری",
+        "The new پالیسی will allow borrowers to use بٹ کوائن, Ether, crypto ETFs and US dollar-backed stablecoins for asset verification and income estimates without liquidation.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T19:49:05Z",
+      "published_at_pkt": "2026-01-17T00:49:05+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/us-lender-newrez-crypto-holdings-mortgage-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "lender",
+        "Newrez",
+        "accept",
+        "crypto",
+        "holdings",
+        "mortgage",
+        "approval"
+      ],
+      "dedupe_hash": "sha1:c12db588e015eb176bec5f229c2eab6ee268bb04"
+    },
+    {
+      "id": "news_20260116_192000_ce4f47",
+      "category": "crypto",
+      "title_en": "Bitcoin ETF inflows cross $1.8B: Will BTC respond with a rally to $100K?",
+      "title_ur": "بٹ کوائن ای ٹی ایف inflows cross $1.8B —  Will بی ٹی سی respond with a rally to $100K?",
+      "summary_en": [
+        "Bitcoin ETF inflows cross $1.8B: Will BTC respond with a rally to $100K?",
+        "Bitcoin ETF inflows have rebounded, but the total assets under management remains 24% below the all-time high, indicating the recovery has just started."
+      ],
+      "summary_ur": [
+        "بٹ کوائن ای ٹی ایف inflows cross $1.8B —  Will بی ٹی سی respond with a rally to $100K?",
+        "بٹ کوائن ای ٹی ایف inflows have rebounded, but the total assets under management remains 24% below the all-time high, indicating the recovery has just started.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T19:20:00Z",
+      "published_at_pkt": "2026-01-17T00:20:00+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-etf-inflows-cross-dollar1-8b-will-btc-respond-with-a-rally-to-dollar100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bitcoin",
+        "ETF",
+        "inflows",
+        "cross",
+        "Will",
+        "BTC",
+        "respond",
+        "rally"
+      ],
+      "dedupe_hash": "sha1:ce4f4721d5a300498a513f49076e01d8438139c3"
+    },
+    {
+      "id": "news_20260116_191607_9324d3",
+      "category": "crypto",
+      "title_en": "State Street, a $36 billion bank, is aiming to change legacy finance using blockchain tech",
+      "title_ur": "State Street, a $36 billion bank, is aiming to change legacy finance using blockchain tech",
+      "summary_en": [
+        "State Street, a $36 billion bank, is aiming to change legacy finance using blockchain tech",
+        "CEO Ronald O’Hanley says the transformation isn’t about bitcoin, but about reengineering traditional assets for faster, modern rails."
+      ],
+      "summary_ur": [
+        "State Street, a $36 billion bank, is aiming to change legacy finance using blockchain tech",
+        "CEO Ronald O’Hanley says the transformation isn’t about بٹ کوائن, but about reengineering traditional assets for faster, modern rails.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T19:16:07Z",
+      "published_at_pkt": "2026-01-17T00:16:07+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/16/state-street-a-usd36-billion-bank-is-aiming-to-change-legacy-finance-using-blockchain-tech",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "State",
+        "Street",
+        "billion",
+        "bank",
+        "aiming",
+        "change",
+        "legacy",
+        "finance"
+      ],
+      "dedupe_hash": "sha1:9324d38fa25795f5cc9c760361f9c3825ea24cdf"
+    },
+    {
+      "id": "news_20260116_191151_35d112",
+      "category": "crypto",
+      "title_en": "U.S. Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve",
+      "title_ur": "U.S. Government Denies Sale of Forfeited Samourai Wallet بٹ کوائن, Says بی ٹی سی Will Remain in Strategic بٹ کوائن Reserve",
+      "summary_en": [
+        "U.S. Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve",
+        "Bitcoin Magazine U.S.",
+        "Government Denies Sale of Forfeited Samourai Wallet Bitcoin, Says BTC Will Remain in Strategic Bitcoin Reserve A U.S.",
+        "official denied reports that the bitcoin forfeited by Samourai Wallet developers was sold and said it will remain on the government’s balance sheet in compliance with President Trump’s executive order."
+      ],
+      "summary_ur": [
+        "U.S. Government Denies Sale of Forfeited Samourai Wallet بٹ کوائن, Says بی ٹی سی Will Remain in Strategic بٹ کوائن Reserve",
+        "بٹ کوائن Magazine U.S.",
+        "Government Denies Sale of Forfeited Samourai Wallet بٹ کوائن, Says بی ٹی سی Will Remain in Strategic بٹ کوائن Reserve A U.S.",
+        "official denied reports that the بٹ کوائن forfeited by Samourai Wallet developers was sold and said it will remain on the government’s balance sheet in compliance with President Trump’s executive order."
+      ],
+      "published_at_utc": "2026-01-16T19:11:51Z",
+      "published_at_pkt": "2026-01-17T00:11:51+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/featured/us-gov-denies-sale-of-samourai-bitcoin",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "Government",
+        "Denies",
+        "Sale",
+        "Forfeited",
+        "Samourai",
+        "Wallet",
+        "Bitcoin",
+        "Says"
+      ],
+      "dedupe_hash": "sha1:35d112861c1307654b18fc2606f6821ac0e9bcf8"
+    },
+    {
+      "id": "news_20260116_190000_92b61e",
+      "category": "crypto",
+      "title_en": "Bitcoin rallies, ETF flows rebound as US crypto policy stalls: Finance Redefined",
+      "title_ur": "بٹ کوائن rallies, ای ٹی ایف flows rebound as US crypto پالیسی stalls —  Finance Redefined",
+      "summary_en": [
+        "Bitcoin rallies, ETF flows rebound as US crypto policy stalls: Finance Redefined",
+        "Bitcoin breached the $95,000 mark this week amid a wider market recovery, as investors digested regulatory delays to the much-awaited CLARITY Act in the US."
+      ],
+      "summary_ur": [
+        "بٹ کوائن rallies, ای ٹی ایف flows rebound as US crypto پالیسی stalls —  Finance Redefined",
+        "بٹ کوائن breached the $95,000 mark this week amid a wider مارکیٹ recovery, as investors digested regulatory delays to the much-awaited CLARITY Act in the US.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T19:00:00Z",
+      "published_at_pkt": "2026-01-17T00:00:00+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-rallies-etf-flows-rebound-us-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 60,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bitcoin",
+        "rallies",
+        "ETF",
+        "flows",
+        "rebound",
+        "crypto",
+        "policy",
+        "stalls"
+      ],
+      "dedupe_hash": "sha1:92b61e1e35e1781ac53208f081b142eebd86575a"
+    },
+    {
+      "id": "news_20260116_185613_401841",
+      "category": "crypto",
+      "title_en": "Hacker steals $282 million crypto from a victim in social-engineering attack",
+      "title_ur": "Hacker steals $282 million crypto from a victim in social-engineering attack",
+      "summary_en": [
+        "Hacker steals $282 million crypto from a victim in social-engineering attack",
+        "A sophisticated social-engineering attack led to the theft of more than $282 million in BTC and LTC, with the funds rapidly laundered through monero."
+      ],
+      "summary_ur": [
+        "Hacker steals $282 million crypto from a victim in social-engineering attack",
+        "A sophisticated social-engineering attack led to the theft of more than $282 million in بی ٹی سی and LTC, with the funds rapidly laundered through monero.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T18:56:13Z",
+      "published_at_pkt": "2026-01-16T23:56:13+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/16/hacker-steals-usd282-milion-in-hardware-wallet-social-engineering-attack",
+      "impact_score": 50,
+      "impact_tag": "medium",
+      "keywords": [
+        "Hacker",
+        "steals",
+        "million",
+        "crypto",
+        "victim",
+        "social-engineering",
+        "attack"
+      ],
+      "dedupe_hash": "sha1:40184183d13f0d5352e6cb03553c6e39e186a59e"
+    },
+    {
+      "id": "news_20260116_184730_271ada",
+      "category": "crypto",
+      "title_en": "Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog",
+      "title_ur": "Tom Lee's BitMine pushes ایتھیریم into $8 billion staking backlog",
+      "summary_en": [
+        "Tom Lee's BitMine pushes Ethereum into $8 billion staking backlog",
+        "New validators now need to wait more than 44 days to start earning staking rewards, the biggest backlog since late July 2023."
+      ],
+      "summary_ur": [
+        "Tom Lee's BitMine pushes ایتھیریم into $8 billion staking backlog",
+        "New validators now need to wait more than 44 days to start earning staking rewards, the biggest backlog since late July 2023.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T18:47:30Z",
+      "published_at_pkt": "2026-01-16T23:47:30+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/tech/2026/01/16/tom-lee-s-bitmine-immersion-pushes-the-ethereum-staking-network-into-usd8-billion-backlog",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Tom",
+        "Lee",
+        "BitMine",
+        "pushes",
+        "Ethereum",
+        "into",
+        "billion",
+        "staking"
+      ],
+      "dedupe_hash": "sha1:271adae1efad2142ace4bb3137fabe5839a2cb43"
+    },
+    {
+      "id": "news_20260116_182511_9e661c",
+      "category": "crypto",
+      "title_en": "Senate Democrats serious about crypto bill reboot, they said in call with industry",
+      "title_ur": "Senate Democrats serious about crypto bill reboot, they said in call with industry",
+      "summary_en": [
+        "Senate Democrats serious about crypto bill reboot, they said in call with industry",
+        "The Democratic contingent in negotiations over U.S.",
+        "crypto market structure got back into the talks over the bill, though they sought to keep details private."
+      ],
+      "summary_ur": [
+        "Senate Democrats serious about crypto bill reboot, they said in call with industry",
+        "The Democratic contingent in negotiations over U.S.",
+        "crypto مارکیٹ structure got back into the talks over the bill, though they sought to keep details private."
+      ],
+      "published_at_utc": "2026-01-16T18:25:11Z",
+      "published_at_pkt": "2026-01-16T23:25:11+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/policy/2026/01/16/senate-democrats-serious-about-crypto-bill-reboot-they-said-in-call-with-industry",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Senate",
+        "Democrats",
+        "serious",
+        "about",
+        "crypto",
+        "bill",
+        "reboot",
+        "they"
+      ],
+      "dedupe_hash": "sha1:9e661c40153422224dacb91481fd1194babfd239"
+    },
+    {
+      "id": "news_20260116_182054_d56468",
+      "category": "crypto",
+      "title_en": "Polygon Labs said to have laid off 60 staff following new $250 million acquisition",
+      "title_ur": "Polygon Labs said to have laid off 60 staff following new $250 million acquisition",
+      "summary_en": [
+        "Polygon Labs said to have laid off 60 staff following new $250 million acquisition",
+        "Ethereum scaling firm Polygon Labs disputed reports of a 30% workforce reduction, saying role overlaps from acquisitions drove the changes while its headcount remains the same."
+      ],
+      "summary_ur": [
+        "Polygon Labs said to have laid off 60 staff following new $250 million acquisition",
+        "ایتھیریم scaling firm Polygon Labs disputed reports of a 30% workforce reduction, saying role overlaps from acquisitions drove the changes while its headcount remains the same.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T18:20:54Z",
+      "published_at_pkt": "2026-01-16T23:20:54+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/16/polygon-labs-said-to-have-laid-off-60-staff-following-new-usd250-million-acquisition",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Polygon",
+        "Labs",
+        "said",
+        "have",
+        "laid",
+        "off",
+        "staff",
+        "following"
+      ],
+      "dedupe_hash": "sha1:d564680d1e68912be16a8d0270bd559f62696208"
+    },
+    {
+      "id": "news_20260116_170748_05f2e5",
+      "category": "crypto",
+      "title_en": "Bitcoin is now most undervalued versus gold: Will BTC price rebound?",
+      "title_ur": "بٹ کوائن is now most undervalued versus gold —  Will بی ٹی سی price rebound?",
+      "summary_en": [
+        "Bitcoin is now most undervalued versus gold: Will BTC price rebound?",
+        "BTC price surged nearly 150% after a similar BTC–gold undervaluation signal in late 2022, highlighting how extreme discounts have preceded major rallies."
+      ],
+      "summary_ur": [
+        "بٹ کوائن is now most undervalued versus gold —  Will بی ٹی سی price rebound?",
+        "بی ٹی سی price surged nearly 150% after a similar بی ٹی سی–gold undervaluation signal in late 2022, highlighting how extreme discounts have preceded major rallies.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T17:07:48Z",
+      "published_at_pkt": "2026-01-16T22:07:48+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-most-undervalued-versus-gold-will-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bitcoin",
+        "now",
+        "most",
+        "undervalued",
+        "versus",
+        "gold",
+        "Will",
+        "BTC"
+      ],
+      "dedupe_hash": "sha1:05f2e57c4f3dbf27587b6c8cc693bdc6c581d0bb"
+    },
+    {
+      "id": "news_20260116_165531_f5b333",
+      "category": "crypto",
+      "title_en": "Belarus Creates Legal Framework for Bitcoin and Crypto Banks in New Decree",
+      "title_ur": "Belarus Creates Legal Framework for بٹ کوائن and Crypto Banks in New Decree",
+      "summary_en": [
+        "Belarus Creates Legal Framework for Bitcoin and Crypto Banks in New Decree",
+        "Bitcoin Magazine Belarus Creates Legal Framework for Bitcoin and Crypto Banks in New Decree Belarus President Alexander Lukashenko has signed Decree No.",
+        "19, establishing a legal framework for bitcoin and crypto banks.",
+        "This post Belarus Creates Legal Framework for Bitcoin and Crypto Banks in New Decree first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+      ],
+      "summary_ur": [
+        "Belarus Creates Legal Framework for بٹ کوائن and Crypto Banks in New Decree",
+        "بٹ کوائن Magazine Belarus Creates Legal Framework for بٹ کوائن and Crypto Banks in New Decree Belarus President Alexander Lukashenko has signed Decree No.",
+        "19, establishing a legal framework for بٹ کوائن and crypto banks.",
+        "This post Belarus Creates Legal Framework for بٹ کوائن and Crypto Banks in New Decree first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
+      ],
+      "published_at_utc": "2026-01-16T16:55:31Z",
+      "published_at_pkt": "2026-01-16T21:55:31+05:00",
+      "source_name": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com/",
+      "original_url": "https://bitcoinmagazine.com/news/belarus-creates-framework-for-bitcoin",
+      "impact_score": 30,
+      "impact_tag": "low",
+      "keywords": [
+        "Belarus",
+        "Creates",
+        "Legal",
+        "Framework",
+        "Bitcoin",
+        "Crypto",
+        "Banks",
+        "New"
+      ],
+      "dedupe_hash": "sha1:f5b333fa01a0eb194ceaf1c6493514d5da3fc085"
+    },
+    {
+      "id": "news_20260116_162753_184bb7",
+      "category": "crypto",
+      "title_en": "Customers are benefitting from the global stablecoin arms race — but that won’t last forever",
+      "title_ur": "Customers are benefitting from the global stablecoin arms race — but that won’t last forever",
+      "summary_en": [
+        "Customers are benefitting from the global stablecoin arms race — but that won’t last forever",
+        "It would be a mistake to see the incoming wave of aggressive APYs as the new baseline, according to Ron Tarter, CEO of MNEE.",
+        "This is merely the promotional phase of stablecoins."
+      ],
+      "summary_ur": [
+        "Customers are benefitting from the global stablecoin arms race — but that won’t last forever",
+        "It would be a mistake to see the incoming wave of aggressive APYs as the new baseline, according to Ron Tarter, CEO of MNEE.",
+        "This is merely the promotional phase of stablecoins."
+      ],
+      "published_at_utc": "2026-01-16T16:27:53Z",
+      "published_at_pkt": "2026-01-16T21:27:53+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/opinion/2026/01/16/customers-are-benefitting-from-the-global-stablecoin-arms-race-but-that-won-t-last-forever",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Customers",
+        "benefitting",
+        "global",
+        "stablecoin",
+        "arms",
+        "race",
+        "but",
+        "that"
+      ],
+      "dedupe_hash": "sha1:184bb7883028c900f03d1b088f392a7a3540a705"
+    },
+    {
+      "id": "news_20260116_161019_18c060",
+      "category": "crypto",
+      "title_en": "HR services provider Gusto taps Zerohash to speed up global payouts with stablecoins",
+      "title_ur": "HR services provider Gusto taps Zerohash to speed up global payouts with stablecoins",
+      "summary_en": [
+        "HR services provider Gusto taps Zerohash to speed up global payouts with stablecoins",
+        "Payroll and HR platform Gusto is piloting stablecoin payouts powered by Zerohash, aiming to cut cross-border payment times."
+      ],
+      "summary_ur": [
+        "HR services provider Gusto taps Zerohash to speed up global payouts with stablecoins",
+        "Payroll and HR platform Gusto is piloting stablecoin payouts powered by Zerohash, aiming to cut cross-border payment times.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T16:10:19Z",
+      "published_at_pkt": "2026-01-16T21:10:19+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/16/hr-services-provider-gusto-taps-zerohash-to-speed-up-global-payouts-with-stablecoins",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "services",
+        "provider",
+        "Gusto",
+        "taps",
+        "Zerohash",
+        "speed",
+        "global",
+        "payouts"
+      ],
+      "dedupe_hash": "sha1:18c0606fbbd9b01b1451d13277a417fbf60e2bea"
+    },
+    {
+      "id": "news_20260116_160716_14e37d",
+      "category": "crypto",
+      "title_en": "Bitcoin pulls back to $94,300 as U.S. stocks sink, precious metals tumble",
+      "title_ur": "بٹ کوائن pulls back to $94,300 as U.S. اسٹاکس sink, precious metals tumble",
+      "summary_en": [
+        "Bitcoin pulls back to $94,300 as U.S. stocks sink, precious metals tumble",
+        "A selloff in precious metals and lower U.S.",
+        "stocks appeared to be denting crypto sentiment."
+      ],
+      "summary_ur": [
+        "بٹ کوائن pulls back to $94,300 as U.S. اسٹاکس sink, precious metals tumble",
+        "A selloff in precious metals and lower U.S.",
+        "اسٹاکس appeared to be denting crypto sentiment."
+      ],
+      "published_at_utc": "2026-01-16T16:07:16Z",
+      "published_at_pkt": "2026-01-16T21:07:16+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bitcoin",
+        "pulls",
+        "back",
+        "stocks",
+        "sink",
+        "precious",
+        "metals",
+        "tumble"
+      ],
+      "dedupe_hash": "sha1:14e37dfafcc23b56e7a654a90cdb02917b7c2a5b"
+    },
+    {
+      "id": "news_20260116_160521_436fa0",
+      "category": "crypto",
+      "title_en": "PNC Bank CEO says stablecoins must choose: be a payment tool or a money market fund",
+      "title_ur": "PNC Bank CEO says stablecoins must choose —  be a payment tool or a money مارکیٹ fund",
+      "summary_en": [
+        "PNC Bank CEO says stablecoins must choose: be a payment tool or a money market fund",
+        "During an earnings call on Friday, CEO Bill Demchak urged a clear split between payment tools and investment vehicles."
+      ],
+      "summary_ur": [
+        "PNC Bank CEO says stablecoins must choose —  be a payment tool or a money مارکیٹ fund",
+        "During an earnings call on Friday, CEO Bill Demchak urged a clear split between payment tools and investment vehicles.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T16:05:21Z",
+      "published_at_pkt": "2026-01-16T21:05:21+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/16/pnc-bank-ceo-says-stablecoins-must-choose-be-a-payment-tool-or-a-money-market-fund",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "PNC",
+        "Bank",
+        "CEO",
+        "says",
+        "stablecoins",
+        "must",
+        "choose",
+        "payment"
+      ],
+      "dedupe_hash": "sha1:436fa0431fc91bfd7252122f31aeacdc684233e7"
+    },
+    {
+      "id": "news_20260116_154839_ba449f",
+      "category": "crypto",
+      "title_en": "Bitcoin copying 2022 'bear market rally' despite 21% BTC price gains",
+      "title_ur": "بٹ کوائن copying 2022 'bear مارکیٹ rally' despite 21% بی ٹی سی price gains",
+      "summary_en": [
+        "Bitcoin copying 2022 'bear market rally' despite 21% BTC price gains",
+        "Bitcoin market research warned that BTC faced another bear market in 2026 if it was unable to reclaim its yearly moving average."
+      ],
+      "summary_ur": [
+        "بٹ کوائن copying 2022 'bear مارکیٹ rally' despite 21% بی ٹی سی price gains",
+        "بٹ کوائن مارکیٹ research warned that بی ٹی سی faced another bear مارکیٹ in 2026 if it was unable to reclaim its yearly moving average.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T15:48:39Z",
+      "published_at_pkt": "2026-01-16T20:48:39+05:00",
+      "source_name": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/",
+      "original_url": "https://cointelegraph.com/news/bitcoin-copying-2022-bear-market-rally-despite-btc-price-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Bitcoin",
+        "copying",
+        "bear",
+        "market",
+        "rally",
+        "despite",
+        "BTC",
+        "price"
+      ],
+      "dedupe_hash": "sha1:ba449f0827538e491e69309f79d9e222c199df7b"
+    },
+    {
+      "id": "news_20260116_151815_dbaf52",
+      "category": "crypto",
+      "title_en": "Crypto card spending hits $18 billion annualized as stablecoin use shifts to everyday payments",
+      "title_ur": "Crypto card spending hits $18 billion annualized as stablecoin use shifts to everyday payments",
+      "summary_en": [
+        "Crypto card spending hits $18 billion annualized as stablecoin use shifts to everyday payments",
+        "Artemis research shows crypto credit and debit card spending is now rivaling peer-to-peer stablecoin transfers, with Visa capturing most on-chain volume through early infrastructure partnerships."
+      ],
+      "summary_ur": [
+        "Crypto card spending hits $18 billion annualized as stablecoin use shifts to everyday payments",
+        "Artemis research shows crypto credit and debit card spending is now rivaling peer-to-peer stablecoin transfers, with Visa capturing most on-chain volume through early infrastructure partnerships.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T15:18:15Z",
+      "published_at_pkt": "2026-01-16T20:18:15+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/business/2026/01/16/crypto-card-spending-hits-usd18-billion-annualized-as-stablecoin-use-shifts-to-everyday-payments",
+      "impact_score": 40,
+      "impact_tag": "medium",
+      "keywords": [
+        "Crypto",
+        "card",
+        "spending",
+        "hits",
+        "billion",
+        "annualized",
+        "stablecoin",
+        "use"
+      ],
+      "dedupe_hash": "sha1:dbaf52d35426f804c20ecfc0cf9271717d890ad4"
+    },
+    {
+      "id": "news_20260116_151223_5ca5d4",
+      "category": "crypto",
+      "title_en": "Riot Platforms surges 11%  as lease deal with AMD marks major AI infrastructure pivot",
+      "title_ur": "Riot Platforms surges 11%  as lease deal with AMD marks major AI infrastructure pivot",
+      "summary_en": [
+        "Riot Platforms surges 11%  as lease deal with AMD marks major AI infrastructure pivot",
+        "The company sold nearly $100 million of bitcoin to fund the purchase of its 200-acre Rockdale site and signed a leasing agreement with Advanced Micro Devices that could deliver $1 billion in revenue."
+      ],
+      "summary_ur": [
+        "Riot Platforms surges 11%  as lease deal with AMD marks major AI infrastructure pivot",
+        "The company sold nearly $100 million of بٹ کوائن to fund the purchase of its 200-acre Rockdale site and signed a leasing agreement with Advanced Micro Devices that could deliver $1 billion in revenue.",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
+      ],
+      "published_at_utc": "2026-01-16T15:12:23Z",
+      "published_at_pkt": "2026-01-16T20:12:23+05:00",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "original_url": "https://www.coindesk.com/markets/2026/01/16/riot-platforms-surges-11-as-lease-deal-with-amd-marks-major-ai-infrastructure-pivot",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
         "Riot",
         "Platforms",
-        "shares",
-        "jump",
-        "after",
-        "Bitcoin",
-        "sale",
-        "funds"
+        "surges",
+        "lease",
+        "deal",
+        "AMD",
+        "marks",
+        "major"
       ],
-      "dedupe_hash": "sha1:dd9a44ab435e490e61fd86924e9beede50f62d91"
+      "dedupe_hash": "sha1:5ca5d44524727cf1ff3f09a2b18320cb6bc13d44"
     },
     {
-      "id": "news_20260116_181356_9bafaf",
-      "category": "crypto",
-      "title_en": "Price predictions 1/16: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, XMR, BCH, LINK",
-      "title_ur": "Price predictions 1/16 —  بی ٹی سی, ای ٹی ایچ, XRP, BNB, SOL, DOGE, ADA, XMR, BCH, LINK",
+      "id": "news_20250624_222104_f0bf8e",
+      "category": "stocks_macro",
+      "title_en": "Fetch pet insurance review 2026: 1.4 out of 5 stars",
+      "title_ur": "Fetch pet insurance review 2026 —  1.4 out of 5 stars",
       "summary_en": [
-        "Price predictions 1/16: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, XMR, BCH, LINK",
-        "The crypto market rally lost momentum as Bitcoin met resistance near $98,000, but technical charts suggest traders will actively buy dips to underlying support levels in altcoins and BTC."
+        "Fetch pet insurance review 2026: 1.4 out of 5 stars"
       ],
       "summary_ur": [
-        "Price predictions 1/16 —  بی ٹی سی, ای ٹی ایچ, XRP, BNB, SOL, DOGE, ADA, XMR, BCH, LINK",
-        "The crypto مارکیٹ rally lost momentum as بٹ کوائن met resistance near $98,000, but technical charts suggest traders will actively buy dips to underlying support levels in altcoins and بی ٹی سی.",
+        "Fetch pet insurance review 2026 —  1.4 out of 5 stars",
+        "مزید تفصیل کے لیے سورس لنک دیکھیں۔",
         "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
       ],
-      "published_at_utc": "2026-01-16T18:13:56Z",
-      "published_at_pkt": "2026-01-16T23:13:56+05:00",
-      "source_name": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/",
-      "original_url": "https://cointelegraph.com/news/price-predictions-1-16-btc-eth-xrp-bnb-sol-doge-ada-xmr-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at_utc": "2025-06-24T22:21:04Z",
+      "published_at_pkt": "2025-06-25T03:21:04+05:00",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/",
+      "original_url": "https://finance.yahoo.com/personal-finance/insurance/review/fetch-pet-insurance-review-222104305.html",
       "impact_score": 40,
       "impact_tag": "medium",
       "keywords": [
-        "Price",
-        "predictions",
-        "BTC",
-        "ETH",
-        "XRP",
-        "BNB",
-        "SOL",
-        "DOGE"
+        "Fetch",
+        "pet",
+        "insurance",
+        "review",
+        "out",
+        "stars"
       ],
-      "dedupe_hash": "sha1:9bafaf226d639ba0be81952d403264f327407ef4"
-    },
-    {
-      "id": "news_20260116_180756_f681ee",
-      "category": "crypto",
-      "title_en": "Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD",
-      "title_ur": "Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD",
-      "summary_en": [
-        "Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD",
-        "Bitcoin Magazine Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD Riot Platforms ($RIOT) surged 13% after buying 200 acres at its Rockdale, Texas site and signing its first major hyperscale data center lease with AMD This post Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-      ],
-      "summary_ur": [
-        "Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD",
-        "بٹ کوائن Magazine Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD Riot Platforms ($RIOT) surged 13% after buying 200 acres at its Rockdale, Texas site and signing its first major hyperscale data center lease with AMD This post Riot Stock ($RIOT) Rockets 13% Following Major Data Center Lease with AMD first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman .",
-        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
-      ],
-      "published_at_utc": "2026-01-16T18:07:56Z",
-      "published_at_pkt": "2026-01-16T23:07:56+05:00",
-      "source_name": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/markets/riot-stock-rockets-major-center-lease",
-      "impact_score": 30,
-      "impact_tag": "low",
-      "keywords": [
-        "Riot",
-        "Stock",
-        "Rockets",
-        "Following",
-        "Major",
-        "Data",
-        "Center",
-        "Lease"
-      ],
-      "dedupe_hash": "sha1:f681ee70271f56f6ba0298ae56c854686277a8c8"
-    },
-    {
-      "id": "news_20260116_153328_3a5a21",
-      "category": "crypto",
-      "title_en": "Bitcoin Adoption Surges in Iran Amid Protests and Rial Collapse",
-      "title_ur": "بٹ کوائن Adoption Surges in Iran Amid Protests and Rial Collapse",
-      "summary_en": [
-        "Bitcoin Adoption Surges in Iran Amid Protests and Rial Collapse",
-        "Bitcoin Magazine Bitcoin Adoption Surges in Iran Amid Protests and Rial Collapse Iran’s crypto economy surged past $7.78 billion in 2025, with Bitcoin emerging as both a financial lifeline for citizens and a strategic tool for the IRGC amid political turmoil and conflict.",
-        "This post Bitcoin Adoption Surges in Iran Amid Protests and Rial Collapse first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-      ],
-      "summary_ur": [
-        "بٹ کوائن Adoption Surges in Iran Amid Protests and Rial Collapse",
-        "بٹ کوائن Magazine بٹ کوائن Adoption Surges in Iran Amid Protests and Rial Collapse Iran’s crypto economy surged past $7.78 billion in 2025, with بٹ کوائن emerging as both a financial lifeline for citizens and a strategic tool for the IRGC amid political turmoil and conflict.",
-        "This post بٹ کوائن Adoption Surges in Iran Amid Protests and Rial Collapse first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
-      ],
-      "published_at_utc": "2026-01-16T15:33:28Z",
-      "published_at_pkt": "2026-01-16T20:33:28+05:00",
-      "source_name": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/news/bitcoin-use-surging-in-iran-as-protests",
-      "impact_score": 30,
-      "impact_tag": "low",
-      "keywords": [
-        "Bitcoin",
-        "Adoption",
-        "Surges",
-        "Iran",
-        "Amid",
-        "Protests",
-        "Rial",
-        "Collapse"
-      ],
-      "dedupe_hash": "sha1:3a5a21b85f5239e4638bd8393b910f5f8037bf8a"
-    },
-    {
-      "id": "news_20260116_144255_771143",
-      "category": "crypto",
-      "title_en": "West Virginia Lawmakers Propose Bitcoin Investments With State Funds",
-      "title_ur": "West Virginia Lawmakers Propose بٹ کوائن Investments With State Funds",
-      "summary_en": [
-        "West Virginia Lawmakers Propose Bitcoin Investments With State Funds",
-        "Bitcoin Magazine West Virginia Lawmakers Propose Bitcoin Investments With State Funds West Virginia lawmakers introduced a bill that would allow the state treasurer to invest up to 10% of public funds in bitcoin, gold and precious metals.",
-        "This post West Virginia Lawmakers Propose Bitcoin Investments With State Funds first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-      ],
-      "summary_ur": [
-        "West Virginia Lawmakers Propose بٹ کوائن Investments With State Funds",
-        "بٹ کوائن Magazine West Virginia Lawmakers Propose بٹ کوائن Investments With State Funds West Virginia lawmakers introduced a bill that would allow the state treasurer to invest up to 10% of public funds in بٹ کوائن, gold and precious metals.",
-        "This post West Virginia Lawmakers Propose بٹ کوائن Investments With State Funds first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
-      ],
-      "published_at_utc": "2026-01-16T14:42:55Z",
-      "published_at_pkt": "2026-01-16T19:42:55+05:00",
-      "source_name": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/news/west-virginia-propose-bitcoin-investments",
-      "impact_score": 30,
-      "impact_tag": "low",
-      "keywords": [
-        "West",
-        "Virginia",
-        "Lawmakers",
-        "Propose",
-        "Bitcoin",
-        "Investments",
-        "State",
-        "Funds"
-      ],
-      "dedupe_hash": "sha1:771143a46676e7cc7349268789c6a1479e6f4360"
-    },
-    {
-      "id": "news_20260116_141840_5da048",
-      "category": "crypto",
-      "title_en": "Early 2026 tailwinds for bitcoin miners as hashrate falls, profitability improves: JPMorgan",
-      "title_ur": "Early 2026 tailwinds for بٹ کوائن miners as hashrate گرتا ہے, profitability improves —  JPMorgan",
-      "summary_en": [
-        "Early 2026 tailwinds for bitcoin miners as hashrate falls, profitability improves: JPMorgan",
-        "U.S.-listed bitcoin miners entered 2026 with rising revenues, improving margins and recovering valuations, setting a more constructive near-term backdrop."
-      ],
-      "summary_ur": [
-        "Early 2026 tailwinds for بٹ کوائن miners as hashrate گرتا ہے, profitability improves —  JPMorgan",
-        "U.S.-listed بٹ کوائن miners entered 2026 with rising revenues, improving margins and recovering valuations, setting a more constructive near-term backdrop.",
-        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
-      ],
-      "published_at_utc": "2026-01-16T14:18:40Z",
-      "published_at_pkt": "2026-01-16T19:18:40+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/16/early-2026-tailwinds-for-bitcoin-miners-as-hashrate-falls-profitability-improves-jpmorgan",
-      "impact_score": 60,
-      "impact_tag": "medium",
-      "keywords": [
-        "Early",
-        "tailwinds",
-        "bitcoin",
-        "miners",
-        "hashrate",
-        "falls",
-        "profitability",
-        "improves"
-      ],
-      "dedupe_hash": "sha1:5da04820fa506cdc2c732bbc5262107139679221"
-    },
-    {
-      "id": "news_20260116_141535_2c3c3c",
-      "category": "crypto",
-      "title_en": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Gains 3.1%, Leading Index Higher",
-      "title_ur": "CoinDesk 20 Performance Update —  بٹ کوائن Cash (BCH) Gains 3.1%, Leading Index Higher",
-      "summary_en": [
-        "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Gains 3.1%, Leading Index Higher",
-        "Aave (AAVE) was also a top performer, rising 1.4% from Thursday."
-      ],
-      "summary_ur": [
-        "CoinDesk 20 Performance Update —  بٹ کوائن Cash (BCH) Gains 3.1%, Leading Index Higher",
-        "Aave (AAVE) was also a top performer, rising 1.4% from Thursday.",
-        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
-      ],
-      "published_at_utc": "2026-01-16T14:15:35Z",
-      "published_at_pkt": "2026-01-16T19:15:35+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/coindesk-indices/2026/01/16/coindesk-20-performance-update-bitcoin-cash-bch-gains-3-1-leading-index-higher",
-      "impact_score": 40,
-      "impact_tag": "medium",
-      "keywords": [
-        "CoinDesk",
-        "Performance",
-        "Update",
-        "Bitcoin",
-        "Cash",
-        "BCH",
-        "Gains",
-        "Leading"
-      ],
-      "dedupe_hash": "sha1:2c3c3cd4a6e6bac84f497722ad9ca3b75da0e535"
-    },
-    {
-      "id": "news_20260116_133935_239021",
-      "category": "crypto",
-      "title_en": "BitMine’s $200 million MrBeast investment seen as strategic diversification: B. Riley",
-      "title_ur": "BitMine’s $200 million MrBeast investment seen as strategic diversification —  B. Riley",
-      "summary_en": [
-        "BitMine’s $200 million MrBeast investment seen as strategic diversification: B. Riley",
-        "The investment gives BitMine exposure to consumer media and potential DeFi revenue streams, strengthening its treasury strategy beyond ether accumulation."
-      ],
-      "summary_ur": [
-        "BitMine’s $200 million MrBeast investment seen as strategic diversification —  B. Riley",
-        "The investment gives BitMine exposure to consumer media and potential DeFi revenue streams, strengthening its ٹریژری strategy beyond ether accumulation.",
-        "مزید تفصیل کے لیے سورس لنک دیکھیں۔"
-      ],
-      "published_at_utc": "2026-01-16T13:39:35Z",
-      "published_at_pkt": "2026-01-16T18:39:35+05:00",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
-      "original_url": "https://www.coindesk.com/markets/2026/01/16/bitmine-s-usd200-million-mrbeast-investment-seen-as-strategic-diversification-b-riley",
-      "impact_score": 60,
-      "impact_tag": "medium",
-      "keywords": [
-        "BitMine",
-        "million",
-        "MrBeast",
-        "investment",
-        "seen",
-        "strategic",
-        "diversification",
-        "Riley"
-      ],
-      "dedupe_hash": "sha1:23902156e44dad92ae3ac13a40992c9930578b2d"
-    },
-    {
-      "id": "news_20260116_130718_830319",
-      "category": "crypto",
-      "title_en": "After A Snake-Like 2025, Is The Bitcoin Price Ready to Break Out In 2026?",
-      "title_ur": "After A Snake-Like 2025, Is The بٹ کوائن Price Ready to Break Out In 2026?",
-      "summary_en": [
-        "After A Snake-Like 2025, Is The Bitcoin Price Ready to Break Out In 2026?",
-        "Bitcoin Magazine After A Snake-Like 2025, Is The Bitcoin Price Ready to Break Out In 2026?",
-        "The bitcoin price twisted and turned through a tough 2025 — but historical cycles, investor sentiment, and market signals suggest a stronger 2026 may be ahead.",
-        "This post After A Snake-Like 2025, Is The Bitcoin Price Ready to Break Out In 2026?"
-      ],
-      "summary_ur": [
-        "After A Snake-Like 2025, Is The بٹ کوائن Price Ready to Break Out In 2026?",
-        "بٹ کوائن Magazine After A Snake-Like 2025, Is The بٹ کوائن Price Ready to Break Out In 2026?",
-        "The بٹ کوائن price twisted and turned through a tough 2025 — but historical cycles, investor sentiment, and مارکیٹ signals suggest a stronger 2026 may be ahead.",
-        "This post After A Snake-Like 2025, Is The بٹ کوائن Price Ready to Break Out In 2026?"
-      ],
-      "published_at_utc": "2026-01-16T13:07:18Z",
-      "published_at_pkt": "2026-01-16T18:07:18+05:00",
-      "source_name": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/markets/is-the-bitcoin-price-ready-to-break-out-in-2026",
-      "impact_score": 30,
-      "impact_tag": "low",
-      "keywords": [
-        "After",
-        "Snake-Like",
-        "Bitcoin",
-        "Price",
-        "Ready",
-        "Break",
-        "Out"
-      ],
-      "dedupe_hash": "sha1:830319709e2782971f2ea2628d05fe8bc730a31b"
-    },
-    {
-      "id": "news_20260115_213335_c62031",
-      "category": "crypto",
-      "title_en": "Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay",
-      "title_ur": "Senate Democrats, Crypto Industry to Resume Talks After مارکیٹ Structure Bill Delay",
-      "summary_en": [
-        "Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay",
-        "Bitcoin Magazine Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay U.S.",
-        "Senate Democrats are reportedly set to reopen talks with representatives from the cryptocurrency industry on Friday regarding the CLARITY Act.",
-        "This post Senate Democrats, Crypto Industry to Resume Talks After Market Structure Bill Delay first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-      ],
-      "summary_ur": [
-        "Senate Democrats, Crypto Industry to Resume Talks After مارکیٹ Structure Bill Delay",
-        "بٹ کوائن Magazine Senate Democrats, Crypto Industry to Resume Talks After مارکیٹ Structure Bill Delay U.S.",
-        "Senate Democrats are reportedly set to reopen talks with representatives from the cryptocurrency industry on Friday regarding the CLARITY Act.",
-        "This post Senate Democrats, Crypto Industry to Resume Talks After مارکیٹ Structure Bill Delay first appeared on بٹ کوائن Magazine and is written by Micah Zimmerman ."
-      ],
-      "published_at_utc": "2026-01-15T21:33:35Z",
-      "published_at_pkt": "2026-01-16T02:33:35+05:00",
-      "source_name": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com/",
-      "original_url": "https://bitcoinmagazine.com/news/senate-democrats-crypto-resume-talks",
-      "impact_score": 30,
-      "impact_tag": "low",
-      "keywords": [
-        "Senate",
-        "Democrats",
-        "Crypto",
-        "Industry",
-        "Resume",
-        "Talks",
-        "After",
-        "Market"
-      ],
-      "dedupe_hash": "sha1:c620315ed001a75d434a7cfd49f3a99c1b28a954"
+      "dedupe_hash": "sha1:f0bf8e4fa4844708e0d18fa01ec66e73b7cf1735"
     }
   ]
 }
