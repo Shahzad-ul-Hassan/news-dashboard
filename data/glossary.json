@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "type": "glossary",
+    "version": "1.0",
+    "language_support": [
+      "en",
+      "ur"
+    ]
+  },
+  "terms": {
+    "market_temperature": {
+      "en": {
+        "title": "Market Temperature",
+        "simple": "A single-word read of market conditions (calm, cautious, volatile, risk-on/off).",
+        "why": "Helps avoid trading in the wrong environment."
+      },
+      "ur": {
+        "title": "مارکیٹ کی کیفیت",
+        "simple": "مارکیٹ کی مجموعی کیفیت: پرسکون، محتاط، غیر مستحکم، خطرہ قبول یا خطرہ کم۔",
+        "why": "غلط ماحول میں ٹریڈ سے بچنے میں مدد دیتا ہے۔"
+      }
+    },
+    "trend": {
+      "en": {
+        "title": "Trend",
+        "simple": "The general direction of price behavior over a timeframe.",
+        "why": "Trading against trend is often riskier."
+      },
+      "ur": {
+        "title": "رجحان",
+        "simple": "مقررہ مدت میں قیمت کا مجموعی رخ۔",
+        "why": "رجحان کے خلاف ٹریڈ کرنا عموماً زیادہ خطرناک ہوتا ہے۔"
+      }
+    },
+    "liquidity": {
+      "en": {
+        "title": "Liquidity",
+        "simple": "How easily assets can be bought or sold without large price impact.",
+        "why": "Low liquidity can make moves sharp and unreliable."
+      },
+      "ur": {
+        "title": "لیکویڈیٹی",
+        "simple": "مارکیٹ میں خرید و فروخت کی آسانی۔",
+        "why": "کم لیکویڈیٹی میں قیمت اچانک خطرناک انداز میں بدل سکتی ہے۔"
+      }
+    },
+    "liquidity_interest_zones": {
+      "en": {
+        "title": "Liquidity Interest Zones",
+        "simple": "Areas where market attention and liquidity historically concentrate.",
+        "why": "Shows where reactions often occur (not levels for entries)."
+      },
+      "ur": {
+        "title": "لیکویڈیٹی دلچسپی کے علاقے",
+        "simple": "وہ علاقے جہاں تاریخی طور پر لیکویڈیٹی/توجہ زیادہ رہی ہے۔",
+        "why": "ردِعمل کے امکانات سمجھنے میں مدد دیتا ہے (ٹریڈنگ لیولز نہیں)۔"
+      }
+    },
+    "liquidity_depth": {
+      "en": {
+        "title": "Liquidity Depth Snapshot",
+        "simple": "An abstract read of aggregate buy vs sell-side liquidity pressure.",
+        "why": "Context for participation without showing exact price ladders."
+      },
+      "ur": {
+        "title": "لیکویڈیٹی کی گہرائی",
+        "simple": "خرید اور فروخت کے مجموعی دباؤ کا خلاصہ (بغیر قیمتوں کے)۔",
+        "why": "بغیر لیولز دکھائے دباؤ کا تناظر سمجھ آتا ہے۔"
+      }
+    },
+    "institutional_activity_zones": {
+      "en": {
+        "title": "Institutional Activity Zones",
+        "simple": "Historical areas of heavy large-entity activity (accumulation/distribution).",
+        "why": "Adds context to market behavior without giving signals."
+      },
+      "ur": {
+        "title": "اداروں کی سرگرمی کے علاقے",
+        "simple": "جہاں ماضی میں بڑے اداروں کی نمایاں سرگرمی رہی (Accumulation/Distribution)۔",
+        "why": "بغیر سگنل کے مارکیٹ رویّہ سمجھنے میں مدد دیتا ہے۔"
+      }
+    },
+    "macro_events": {
+      "en": {
+        "title": "Macro Events",
+        "simple": "High-impact economic events (CPI, PPI, FOMC) that affect risk sentiment.",
+        "why": "Helps anticipate volatility windows (no direction prediction)."
+      },
+      "ur": {
+        "title": "بڑے معاشی ایونٹس",
+        "simple": "CPI، PPI، FOMC جیسے اہم ایونٹس جو رسک سینٹیمنٹ بدل سکتے ہیں۔",
+        "why": "Volatility کے اوقات سمجھنے میں مدد (سمت کی پیشگوئی نہیں)۔"
+      }
+    },
+    "session_edge": {
+      "en": {
+        "title": "Session Edge",
+        "simple": "How meaningful market movement is at the current time of day.",
+        "why": "Not every move is equally meaningful across sessions."
+      },
+      "ur": {
+        "title": "سیشن کی معنویت",
+        "simple": "موجودہ وقت میں مارکیٹ کی حرکت کتنی قابلِ بھروسا/معنوی ہے۔",
+        "why": "ہر سیشن کی حرکت یکساں اہم نہیں ہوتی۔"
+      }
+    },
+    "decision_simulator": {
+      "en": {
+        "title": "Decision Simulator",
+        "simple": "A what-if tool: you enter assumptions; the system only calculates outcomes.",
+        "why": "Supports learning without providing trading advice."
+      },
+      "ur": {
+        "title": "فیصلہ جانچنے کا ٹول",
+        "simple": "آپ مفروضے داخل کریں؛ سسٹم صرف حساب کرے، مشورہ نہیں دے گا۔",
+        "why": "مشورے کے بغیر سیکھنے اور جائزے میں مدد دیتا ہے۔"
+      }
+    },
+    "decision_readiness_guard": {
+      "en": {
+        "title": "Decision Readiness Guard",
+        "simple": "A soft warning when key conditions look misaligned.",
+        "why": "Slows down rushed decisions without blocking user choice."
+      },
+      "ur": {
+        "title": "فیصلہ الرٹ سسٹم",
+        "simple": "جب اہم عوامل ہم آہنگ نہ ہوں تو نرم وارننگ دیتا ہے۔",
+        "why": "روکتا نہیں، مگر جلد بازی کم کرتا ہے۔"
+      }
+    },
+    "market_position_map": {
+      "en": {
+        "title": "Market Position Map",
+        "simple": "A calm map of where major coins sit (depressed/balanced/crowded).",
+        "why": "Shows crowd concentration without flashy bubbles or signals."
+      },
+      "ur": {
+        "title": "مارکیٹ پوزیشن نقشہ",
+        "simple": "اہم کوائنز کی پوزیشن (دبے، متوازن، کراؤڈڈ) کا پرسکون نقشہ۔",
+        "why": "ہجوم کی سمت سمجھ آتی ہے، سگنل نہیں بنتا۔"
+      }
+    }
+  }
+}

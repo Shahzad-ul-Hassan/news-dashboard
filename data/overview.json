@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "type": "market_overview",
+    "updated": "auto"
+  },
+  "temperature": {
+    "en": "Risk-Off",
+    "ur": "خطرہ کم",
+    "cause_effect_en": "Stablecoin dominance rising → capital is behaving cautiously",
+    "cause_effect_ur": "اسٹیبل کوائن ڈومیننس بڑھ رہی ہے → سرمایہ محتاط رویہ اختیار کیے ہوئے",
+    "conviction": "High"
+  },
+  "trend": {
+    "direction": "Sideways",
+    "regime": "Stable",
+    "windows": [
+      "1W",
+      "1M",
+      "6M"
+    ]
+  },
+  "confidence": [
+    {
+      "asset": "BTC",
+      "level": "Moderate",
+      "why_en": "Flows mixed, funding neutral, macro risk elevated",
+      "why_ur": "فلو مکس، فنڈنگ نیوٹرل، میکرو رسک بلند",
+      "activity_range": "$25M–$60M"
+    },
+    {
+      "asset": "ETH",
+      "level": "Low",
+      "why_en": "Participation thin, volatility mixed, narratives split",
+      "why_ur": "شرکت کمزور، اتار چڑھاؤ مکس، بیانیہ تقسیم",
+      "activity_range": "$12M–$28M"
+    },
+    {
+      "asset": "Overall",
+      "level": "Moderate",
+      "why_en": "Liquidity tight, stablecoins high, trend flat",
+      "why_ur": "لیکویڈیٹی ٹائٹ، اسٹیبل کوائنز بلند، رجحان فلیٹ",
+      "activity_range": "$40M–$95M"
+    }
+  ],
+  "pressure": {
+    "news": "High",
+    "liquidity": "Tight",
+    "funding": "Neutral",
+    "volatility": "Medium",
+    "flows": "Mixed"
+  },
+  "stablecoin_dominance": {
+    "usdt": 6.4,
+    "usdc": 3.2,
+    "total": 12.1,
+    "note_en": "Rising stablecoin dominance often aligns with cautious or risk-off conditions.",
+    "note_ur": "اسٹیبل کوائن ڈومیننس میں اضافہ عموماً محتاط یا خطرہ کم ماحول سے ہم آہنگ ہوتا ہے۔"
+  },
+  "insight": {
+    "en": "Risk-Off environment, sideways trend, moderate confidence, high news pressure — mixed participation.",
+    "ur": "ماحول خطرہ کم ہے، رجحان سائیڈ ویز، اعتماد معتدل، خبری دباؤ زیادہ — شرکت مکس۔"
+  }
+}

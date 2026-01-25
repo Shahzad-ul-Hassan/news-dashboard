@@ -1,0 +1,89 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Education • NMI</title><link rel="stylesheet" href="./css/styles.css"/></head><body>
+
+<header class="topbar">
+  <div class="topbar__inner">
+    <a class="brand" href="./index.html">
+      <span class="brand__badge">NM</span>
+      <span>
+        <span>News & Market Intelligence</span>
+        <span class="brand__sub">Context-only • No signals</span>
+      </span>
+    </a>
+    <nav class="nav"><a class="" href="./index.html">Home</a>
+<a class="" href="./news.html">News</a>
+<a class="" href="./macro.html">Macro</a>
+<a class="" href="./review.html">Review</a>
+<a class="active" href="./education.html">Education</a></nav>
+    <div class="actions">
+      <label class="search"><span>🔎</span><input id="globalSearch" type="search" placeholder="Search (Fed, BTC, CPI, USD)"></label>
+      <div class="dropdown">
+        <button id="sessionsBtn" class="btn"><span data-i18n="sessions">Sessions</span> ▾</button>
+        <div id="sessionsMenu" class="menu"></div>
+      </div>
+      <button id="marketMapBtn" class="btn">🗺️ <span data-i18n="marketMap">Market Map</span></button>
+      <button id="contextBtn" class="btn">🧩 <span data-i18n="context">Context Stack</span></button>
+      <div class="lang"><button class="active" data-lang="en">EN</button><button data-lang="ur">اردو</button></div>
+      <button id="watchlistToggle" class="btn">Hide Watchlist</button>
+    </div>
+  </div>
+</header>
+
+<div id="drawerOverlay" class="drawerOverlay"></div>
+<div id="drawer" class="drawer" role="dialog" aria-modal="true">
+  <div class="drawer__head">
+    <div id="drawerTitle" style="font-weight:900">Panel</div>
+    <button id="drawerClose" class="closeX">✕</button>
+  </div>
+  <div id="drawerBody" class="drawer__body"></div>
+</div>
+
+<main class="container"><section class="layout">
+  <div>
+    <div class="card"><div class="card__inner">
+      <h2>Glossary</h2>
+      <p class="muted">Single source of truth for tooltips + beginner help + full glossary.</p>
+      <div class="hr"></div>
+      <div id="glossaryList"></div>
+    </div></div>
+    <div class="footer">Dashboard active since March 2026 • Data updated session-wise (PKT) • Context-only, no trading advice</div>
+  </div>
+  
+<aside id="sidebar" class="sidebar">
+  <div class="card"><div class="card__inner">
+    <div class="sideHead">
+      <div><div style="font-weight:900" data-i18n="watchlist">Watchlist</div><div class="muted">TradingView-style • Context-only</div></div>
+      <button id="beginnerHelpBtn" class="btn" style="padding:8px 10px;font-size:12px">Beginner Help</button>
+    </div>
+    <div class="hr"></div>
+    <div id="wlTabs" class="tabs"></div>
+    <div class="hr"></div>
+    <div id="wlBody"></div>
+    <div class="hr"></div>
+    <div class="fg" id="fearGreed">
+      <div class="gauge"><div class="needle"></div><div class="dot"></div></div>
+      <div class="meta">
+        <div class="muted" data-i18n="fearGreed">Fear & Greed</div>
+        <div><b data-fg-value>—</b> <span class="muted" data-fg-label>—</span></div>
+        <div class="bias"><span class="pill2"><span class="dot up"></span> 1M</span><span class="pill2"><span class="dot down"></span> 6M</span></div>
+      </div>
+    </div>
+  </div></div>
+</aside>
+
+</section></main>
+<script type="module">
+import { loadJSON } from './js/utils.js';
+import { state } from './js/state.js';
+state.init();
+const g = await loadJSON('./data/glossary.json');
+const lang = state.getLang();
+document.getElementById('glossaryList').innerHTML = Object.entries(g.terms).map(([k,v])=>{
+  const t=v[lang];
+  return `<div class="kv" style="margin-bottom:10px" data-term="${k}"><div><b>${t.title}</b>
+    <div class="muted">${t.simple}</div><div class="muted">${t.why}</div></div><span class="tag">v1.0</span></div>`;
+}).join('');
+</script>
+<script type="module" src="./js/app.js"></script>
+</body></html>

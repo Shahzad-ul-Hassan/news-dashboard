@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "type": "watchlist"
+  },
+  "tabs": [
+    "crypto",
+    "forex",
+    "stocks",
+    "commodities"
+  ],
+  "crypto_sections": [
+    {
+      "title": "Large Cap",
+      "rule": "> $10B",
+      "items": [
+        {
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "mcap": "$900B",
+          "follow": "BTC-follow",
+          "bias_1m": "up",
+          "bias_6m": "down"
+        },
+        {
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "mcap": "$350B",
+          "follow": "ETH-follow",
+          "bias_1m": "up",
+          "bias_6m": "up"
+        }
+      ]
+    },
+    {
+      "title": "Mid Cap",
+      "rule": "$1B–$10B",
+      "items": [
+        {
+          "symbol": "SOL",
+          "name": "Solana",
+          "mcap": "$55B",
+          "follow": "BTC-follow",
+          "bias_1m": "down",
+          "bias_6m": "up"
+        },
+        {
+          "symbol": "LINK",
+          "name": "Chainlink",
+          "mcap": "$10B",
+          "follow": "Independent",
+          "bias_1m": "up",
+          "bias_6m": "up"
+        }
+      ]
+    },
+    {
+      "title": "Small Cap",
+      "rule": "$100M–$1B",
+      "items": [
+        {
+          "symbol": "ARB",
+          "name": "Arbitrum",
+          "mcap": "$800M",
+          "follow": "ETH-follow",
+          "bias_1m": "down",
+          "bias_6m": "down"
+        },
+        {
+          "symbol": "OP",
+          "name": "Optimism",
+          "mcap": "$950M",
+          "follow": "ETH-follow",
+          "bias_1m": "up",
+          "bias_6m": "down"
+        }
+      ]
+    }
+  ],
+  "fear_greed": {
+    "value": 42,
+    "label_en": "Fear",
+    "label_ur": "خوف"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "type": "sessions",
+    "tz_output": "Asia/Karachi",
+    "format": "12h"
+  },
+  "sessions": [
+    {
+      "key": "tokyo",
+      "label_en": "Tokyo / Japan",
+      "label_ur": "ٹوکیو / جاپان",
+      "tz": "Asia/Tokyo",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "key": "london",
+      "label_en": "London / UK",
+      "label_ur": "لندن / برطانیہ",
+      "tz": "Europe/London",
+      "open": "08:00",
+      "close": "16:30"
+    },
+    {
+      "key": "newyork",
+      "label_en": "New York / USA",
+      "label_ur": "نیو یارک / امریکا",
+      "tz": "America/New_York",
+      "open": "09:30",
+      "close": "16:00"
+    },
+    {
+      "key": "sydney",
+      "label_en": "Sydney / Australia",
+      "label_ur": "سڈنی / آسٹریلیا",
+      "tz": "Australia/Sydney",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "key": "crypto",
+      "label_en": "Crypto / 24H",
+      "label_ur": "کرپٹو / 24 گھنٹے",
+      "tz": "UTC",
+      "open": "00:00",
+      "close": "23:59"
+    }
+  ]
+}

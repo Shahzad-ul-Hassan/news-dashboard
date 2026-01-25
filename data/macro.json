@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "type": "macro_events",
+    "tz": "Asia/Karachi"
+  },
+  "events": [
+    {
+      "name": "CPI",
+      "country": "US",
+      "time_pkt": "Thu 8:30 PM",
+      "impact": "High",
+      "previous": "3.0%",
+      "forecast": "3.1%",
+      "actual": ""
+    },
+    {
+      "name": "FOMC",
+      "country": "US",
+      "time_pkt": "Wed 12:00 AM",
+      "impact": "High",
+      "previous": "—",
+      "forecast": "—",
+      "actual": ""
+    },
+    {
+      "name": "PPI",
+      "country": "US",
+      "time_pkt": "Fri 8:30 PM",
+      "impact": "Medium",
+      "previous": "0.2%",
+      "forecast": "0.3%",
+      "actual": ""
+    }
+  ]
+}

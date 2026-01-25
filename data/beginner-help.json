@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "type": "beginner_help",
+    "language_support": [
+      "en",
+      "ur"
+    ],
+    "trigger_delay_seconds": 8,
+    "audience": "new_users_only"
+  },
+  "terms": {
+    "liquidity": {
+      "en": {
+        "title": "Liquidity",
+        "simple": "Liquidity means how easily assets can be bought or sold in the market.",
+        "explain": "When liquidity is low, prices can move suddenly and unpredictably, increasing risk for traders."
+      },
+      "ur": {
+        "title": "لیکویڈیٹی",
+        "simple": "لیکویڈیٹی سے مراد مارکیٹ میں خرید و فروخت کی آسانی ہے۔",
+        "explain": "کم لیکویڈیٹی میں قیمت اچانک تیزی سے اوپر نیچے ہو سکتی ہے، جس سے خطرہ بڑھ جاتا ہے۔"
+      }
+    },
+    "market_temperature": {
+      "en": {
+        "title": "Market Temperature",
+        "simple": "Shows whether the market is calm, active, or overheated.",
+        "explain": "A calm market is often more stable; an overheated market can be risky due to emotional trading."
+      },
+      "ur": {
+        "title": "مارکیٹ کی کیفیت",
+        "simple": "یہ بتاتی ہے کہ مارکیٹ پرسکون ہے یا بہت تیز حرکت میں ہے۔",
+        "explain": "بہت زیادہ گرم مارکیٹ میں جذباتی فیصلے بڑھ جاتے ہیں جو نقصان کا سبب بن سکتے ہیں۔"
+      }
+    },
+    "session_edge": {
+      "en": {
+        "title": "Session Edge",
+        "simple": "How meaningful price movement is at this time of day.",
+        "explain": "Not every move is important. Some sessions have stronger participation than others."
+      },
+      "ur": {
+        "title": "سیشن کی معنویت",
+        "simple": "یہ بتاتا ہے کہ موجودہ وقت میں حرکت کتنی قابلِ بھروسا ہے۔",
+        "explain": "ہر سیشن کی حرکت یکساں اہم نہیں ہوتی، بعض اوقات حرکت دھوکہ بھی ہو سکتی ہے۔"
+      }
+    },
+    "liquidity_depth": {
+      "en": {
+        "title": "Liquidity Depth",
+        "simple": "Overall buying and selling pressure (abstract).",
+        "explain": "Helps understand whether buyers or sellers are more active without showing exact prices."
+      },
+      "ur": {
+        "title": "لیکویڈیٹی کی گہرائی",
+        "simple": "خرید و فروخت کے مجموعی دباؤ کا خلاصہ۔",
+        "explain": "یہ درست قیمت بتائے بغیر دباؤ کی سمت سمجھنے میں مدد دیتی ہے۔"
+      }
+    },
+    "decision_readiness": {
+      "en": {
+        "title": "Decision Readiness",
+        "simple": "Shows whether key conditions are aligned or mixed.",
+        "explain": "It does not tell you to trade; it helps decide if more review is needed."
+      },
+      "ur": {
+        "title": "فیصلے کی تیاری",
+        "simple": "یہ بتاتی ہے کہ عوامل ایک جیسے ہیں یا مختلف۔",
+        "explain": "یہ ٹریڈ کا حکم نہیں دیتا بلکہ مزید سوچنے میں مدد دیتا ہے۔"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>NMI</title><link rel="stylesheet" href="./css/styles.css"/></head><body>
+
+<header class="topbar">
+  <div class="topbar__inner">
+    <a class="brand" href="./index.html">
+      <span class="brand__badge">NM</span>
+      <span>
+        <span>News & Market Intelligence</span>
+        <span class="brand__sub">Context-only • No signals</span>
+      </span>
+    </a>
+    <nav class="nav"><a class="active" href="./index.html">Home</a>
+<a class="" href="./news.html">News</a>
+<a class="" href="./macro.html">Macro</a>
+<a class="" href="./review.html">Review</a>
+<a class="" href="./education.html">Education</a></nav>
+    <div class="actions">
+      <label class="search"><span>🔎</span><input id="globalSearch" type="search" placeholder="Search (Fed, BTC, CPI, USD)"></label>
+      <div class="dropdown">
+        <button id="sessionsBtn" class="btn"><span data-i18n="sessions">Sessions</span> ▾</button>
+        <div id="sessionsMenu" class="menu"></div>
+      </div>
+      <button id="marketMapBtn" class="btn">🗺️ <span data-i18n="marketMap">Market Map</span></button>
+      <button id="contextBtn" class="btn">🧩 <span data-i18n="context">Context Stack</span></button>
+      <div class="lang"><button class="active" data-lang="en">EN</button><button data-lang="ur">اردو</button></div>
+      <button id="watchlistToggle" class="btn">Hide Watchlist</button>
+    </div>
+  </div>
+</header>
+
+<div id="drawerOverlay" class="drawerOverlay"></div>
+<div id="drawer" class="drawer" role="dialog" aria-modal="true">
+  <div class="drawer__head">
+    <div id="drawerTitle" style="font-weight:900">Panel</div>
+    <button id="drawerClose" class="closeX">✕</button>
+  </div>
+  <div id="drawerBody" class="drawer__body"></div>
+</div>
+
+<main class="container"><section class="layout">
+  <div>
+    <div class="card"><div class="card__inner">
+      <h2>Decision Intelligence, not signals.</h2>
+      <p class="muted">See context fast. Avoid bad timing. <b>Do nothing</b> can be a successful decision.</p>
+    </div></div>
+    <div style="height:14px"></div>
+    <div id="overview"></div>
+    <div style="height:14px"></div>
+    <div class="grid2">
+      <div class="card"><div class="card__inner">
+        <h2 data-searchable>News</h2>
+        <div class="muted" data-searchable>High-impact headlines with “why it matters”. No buy/sell language.</div>
+        <div class="hr"></div>
+        <div class="kv" data-searchable><b>Example</b><span class="tag warn">High impact</span></div>
+        <div class="muted" data-searchable>“CPI ahead → volatility window during NY session” (context only).</div>
+      </div></div>
+      <div class="card"><div class="card__inner">
+        <h2 data-searchable>Movers</h2>
+        <div class="muted" data-searchable>Context-only movers (no chase): narrative / flow / session notes.</div>
+        <div class="hr"></div>
+        <div class="kv"><b>BTC</b><span class="tag">Mixed</span></div>
+        <div class="muted">Check Session Edge + liquidity context (no advice).</div>
+      </div></div>
+    </div>
+    <div class="footer">Dashboard active since March 2026 • Data updated session-wise (PKT) • Context-only, no trading advice</div>
+  </div>
+  
+<aside id="sidebar" class="sidebar">
+  <div class="card"><div class="card__inner">
+    <div class="sideHead">
+      <div><div style="font-weight:900" data-i18n="watchlist">Watchlist</div><div class="muted">TradingView-style • Context-only</div></div>
+      <button id="beginnerHelpBtn" class="btn" style="padding:8px 10px;font-size:12px">Beginner Help</button>
+    </div>
+    <div class="hr"></div>
+    <div id="wlTabs" class="tabs"></div>
+    <div class="hr"></div>
+    <div id="wlBody"></div>
+    <div class="hr"></div>
+    <div class="fg" id="fearGreed">
+      <div class="gauge"><div class="needle"></div><div class="dot"></div></div>
+      <div class="meta">
+        <div class="muted" data-i18n="fearGreed">Fear & Greed</div>
+        <div><b data-fg-value>—</b> <span class="muted" data-fg-label>—</span></div>
+        <div class="bias"><span class="pill2"><span class="dot up"></span> 1M</span><span class="pill2"><span class="dot down"></span> 6M</span></div>
+      </div>
+    </div>
+  </div></div>
+</aside>
+
+</section></main>
+<script type="module" src="./js/app.js"></script>
+</body></html>
