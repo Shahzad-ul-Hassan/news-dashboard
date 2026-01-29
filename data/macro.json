@@ -1,0 +1,29 @@
+[
+  {
+    "event": "CPI",
+    "country": "US",
+    "impact": "High",
+    "iso": "2026-02-12T21:30:00",
+    "previous": "3.2%",
+    "forecast": "3.1%",
+    "actual": ""
+  },
+  {
+    "event": "PPI",
+    "country": "US",
+    "impact": "Medium",
+    "iso": "2026-02-13T21:30:00",
+    "previous": "0.1%",
+    "forecast": "0.2%",
+    "actual": ""
+  },
+  {
+    "event": "FOMC",
+    "country": "US",
+    "impact": "High",
+    "iso": "2026-03-18T23:00:00",
+    "previous": "5.25%",
+    "forecast": "5.25%",
+    "actual": ""
+  }
+]

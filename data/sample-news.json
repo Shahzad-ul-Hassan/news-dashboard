@@ -1,0 +1,1556 @@
+[
+  {
+    "id": "n1",
+    "iso": "2026-01-25T20:10:00",
+    "headline": "Market update #1: Breaking context shifts across Crypto",
+    "impact": "High",
+    "type": "Breaking",
+    "session": "New York",
+    "market": "Crypto",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n2",
+    "iso": "2026-01-25T19:13:00",
+    "headline": "Market update #2: Developing context shifts across Forex",
+    "impact": "Low",
+    "type": "Developing",
+    "session": "London",
+    "market": "Forex",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n3",
+    "iso": "2026-01-25T18:16:00",
+    "headline": "Market update #3: Scheduled context shifts across Equity",
+    "impact": "Low",
+    "type": "Scheduled",
+    "session": "Asia",
+    "market": "Equity",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n4",
+    "iso": "2026-01-24T17:19:00",
+    "headline": "Market update #4: Narrative Shift context shifts across Bonds",
+    "impact": "Medium",
+    "type": "Narrative Shift",
+    "session": "Crypto",
+    "market": "Bonds",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n5",
+    "iso": "2026-01-24T16:22:00",
+    "headline": "Market update #5: Recap context shifts across Commodities",
+    "impact": "Low",
+    "type": "Recap",
+    "session": "New York",
+    "market": "Commodities",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n6",
+    "iso": "2026-01-24T20:25:00",
+    "headline": "Market update #6: Breaking context shifts across Crypto",
+    "impact": "Low",
+    "type": "Breaking",
+    "session": "London",
+    "market": "Crypto",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n7",
+    "iso": "2026-01-23T19:28:00",
+    "headline": "Market update #7: Developing context shifts across Forex",
+    "impact": "Medium",
+    "type": "Developing",
+    "session": "Asia",
+    "market": "Forex",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n8",
+    "iso": "2026-01-23T18:31:00",
+    "headline": "Market update #8: Scheduled context shifts across Equity",
+    "impact": "High",
+    "type": "Scheduled",
+    "session": "Crypto",
+    "market": "Equity",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n9",
+    "iso": "2026-01-23T17:34:00",
+    "headline": "Market update #9: Narrative Shift context shifts across Bonds",
+    "impact": "Low",
+    "type": "Narrative Shift",
+    "session": "New York",
+    "market": "Bonds",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n10",
+    "iso": "2026-01-22T16:37:00",
+    "headline": "Market update #10: Recap context shifts across Commodities",
+    "impact": "Medium",
+    "type": "Recap",
+    "session": "London",
+    "market": "Commodities",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n11",
+    "iso": "2026-01-22T20:40:00",
+    "headline": "Market update #11: Breaking context shifts across Crypto",
+    "impact": "Low",
+    "type": "Breaking",
+    "session": "Asia",
+    "market": "Crypto",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n12",
+    "iso": "2026-01-22T19:43:00",
+    "headline": "Market update #12: Developing context shifts across Forex",
+    "impact": "Low",
+    "type": "Developing",
+    "session": "Crypto",
+    "market": "Forex",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n13",
+    "iso": "2026-01-21T18:46:00",
+    "headline": "Market update #13: Scheduled context shifts across Equity",
+    "impact": "Medium",
+    "type": "Scheduled",
+    "session": "New York",
+    "market": "Equity",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n14",
+    "iso": "2026-01-21T17:49:00",
+    "headline": "Market update #14: Narrative Shift context shifts across Bonds",
+    "impact": "Low",
+    "type": "Narrative Shift",
+    "session": "London",
+    "market": "Bonds",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n15",
+    "iso": "2026-01-21T16:52:00",
+    "headline": "Market update #15: Recap context shifts across Commodities",
+    "impact": "High",
+    "type": "Recap",
+    "session": "Asia",
+    "market": "Commodities",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n16",
+    "iso": "2026-01-20T20:55:00",
+    "headline": "Market update #16: Breaking context shifts across Crypto",
+    "impact": "Medium",
+    "type": "Breaking",
+    "session": "Crypto",
+    "market": "Crypto",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n17",
+    "iso": "2026-01-20T19:58:00",
+    "headline": "Market update #17: Developing context shifts across Forex",
+    "impact": "Low",
+    "type": "Developing",
+    "session": "New York",
+    "market": "Forex",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n18",
+    "iso": "2026-01-20T18:11:00",
+    "headline": "Market update #18: Scheduled context shifts across Equity",
+    "impact": "Low",
+    "type": "Scheduled",
+    "session": "London",
+    "market": "Equity",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n19",
+    "iso": "2026-01-19T17:14:00",
+    "headline": "Market update #19: Narrative Shift context shifts across Bonds",
+    "impact": "Medium",
+    "type": "Narrative Shift",
+    "session": "Asia",
+    "market": "Bonds",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n20",
+    "iso": "2026-01-19T16:17:00",
+    "headline": "Market update #20: Recap context shifts across Commodities",
+    "impact": "Low",
+    "type": "Recap",
+    "session": "Crypto",
+    "market": "Commodities",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n21",
+    "iso": "2026-01-19T20:20:00",
+    "headline": "Market update #21: Breaking context shifts across Crypto",
+    "impact": "Low",
+    "type": "Breaking",
+    "session": "New York",
+    "market": "Crypto",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n22",
+    "iso": "2026-01-18T19:23:00",
+    "headline": "Market update #22: Developing context shifts across Forex",
+    "impact": "High",
+    "type": "Developing",
+    "session": "London",
+    "market": "Forex",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n23",
+    "iso": "2026-01-18T18:26:00",
+    "headline": "Market update #23: Scheduled context shifts across Equity",
+    "impact": "Low",
+    "type": "Scheduled",
+    "session": "Asia",
+    "market": "Equity",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n24",
+    "iso": "2026-01-18T17:29:00",
+    "headline": "Market update #24: Narrative Shift context shifts across Bonds",
+    "impact": "Low",
+    "type": "Narrative Shift",
+    "session": "Crypto",
+    "market": "Bonds",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n25",
+    "iso": "2026-01-17T16:32:00",
+    "headline": "Market update #25: Recap context shifts across Commodities",
+    "impact": "Medium",
+    "type": "Recap",
+    "session": "New York",
+    "market": "Commodities",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n26",
+    "iso": "2026-01-17T20:35:00",
+    "headline": "Market update #26: Breaking context shifts across Crypto",
+    "impact": "Low",
+    "type": "Breaking",
+    "session": "London",
+    "market": "Crypto",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n27",
+    "iso": "2026-01-17T19:38:00",
+    "headline": "Market update #27: Developing context shifts across Forex",
+    "impact": "Low",
+    "type": "Developing",
+    "session": "Asia",
+    "market": "Forex",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n28",
+    "iso": "2026-01-16T18:41:00",
+    "headline": "Market update #28: Scheduled context shifts across Equity",
+    "impact": "Medium",
+    "type": "Scheduled",
+    "session": "Crypto",
+    "market": "Equity",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n29",
+    "iso": "2026-01-16T17:44:00",
+    "headline": "Market update #29: Narrative Shift context shifts across Bonds",
+    "impact": "High",
+    "type": "Narrative Shift",
+    "session": "New York",
+    "market": "Bonds",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n30",
+    "iso": "2026-01-16T16:47:00",
+    "headline": "Market update #30: Recap context shifts across Commodities",
+    "impact": "Low",
+    "type": "Recap",
+    "session": "London",
+    "market": "Commodities",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n31",
+    "iso": "2026-01-15T20:50:00",
+    "headline": "Market update #31: Breaking context shifts across Crypto",
+    "impact": "Medium",
+    "type": "Breaking",
+    "session": "Asia",
+    "market": "Crypto",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n32",
+    "iso": "2026-01-15T19:53:00",
+    "headline": "Market update #32: Developing context shifts across Forex",
+    "impact": "Low",
+    "type": "Developing",
+    "session": "Crypto",
+    "market": "Forex",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n33",
+    "iso": "2026-01-15T18:56:00",
+    "headline": "Market update #33: Scheduled context shifts across Equity",
+    "impact": "Low",
+    "type": "Scheduled",
+    "session": "New York",
+    "market": "Equity",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n34",
+    "iso": "2026-01-14T17:59:00",
+    "headline": "Market update #34: Narrative Shift context shifts across Bonds",
+    "impact": "Medium",
+    "type": "Narrative Shift",
+    "session": "London",
+    "market": "Bonds",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n35",
+    "iso": "2026-01-14T16:12:00",
+    "headline": "Market update #35: Recap context shifts across Commodities",
+    "impact": "Low",
+    "type": "Recap",
+    "session": "Asia",
+    "market": "Commodities",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n36",
+    "iso": "2026-01-14T20:15:00",
+    "headline": "Market update #36: Breaking context shifts across Crypto",
+    "impact": "High",
+    "type": "Breaking",
+    "session": "Crypto",
+    "market": "Crypto",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n37",
+    "iso": "2026-01-13T19:18:00",
+    "headline": "Market update #37: Developing context shifts across Forex",
+    "impact": "Medium",
+    "type": "Developing",
+    "session": "New York",
+    "market": "Forex",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n38",
+    "iso": "2026-01-13T18:21:00",
+    "headline": "Market update #38: Scheduled context shifts across Equity",
+    "impact": "Low",
+    "type": "Scheduled",
+    "session": "London",
+    "market": "Equity",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n39",
+    "iso": "2026-01-13T17:24:00",
+    "headline": "Market update #39: Narrative Shift context shifts across Bonds",
+    "impact": "Low",
+    "type": "Narrative Shift",
+    "session": "Asia",
+    "market": "Bonds",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n40",
+    "iso": "2026-01-12T16:27:00",
+    "headline": "Market update #40: Recap context shifts across Commodities",
+    "impact": "Medium",
+    "type": "Recap",
+    "session": "Crypto",
+    "market": "Commodities",
+    "bias": "Risk-On",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n41",
+    "iso": "2026-01-12T20:30:00",
+    "headline": "Market update #41: Breaking context shifts across Crypto",
+    "impact": "Low",
+    "type": "Breaking",
+    "session": "New York",
+    "market": "Crypto",
+    "bias": "Risk-Off",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  },
+  {
+    "id": "n42",
+    "iso": "2026-01-12T19:33:00",
+    "headline": "Market update #42: Developing context shifts across Forex",
+    "impact": "Low",
+    "type": "Developing",
+    "session": "London",
+    "market": "Forex",
+    "bias": "Neutral",
+    "why": "Two-line reason: key change → expected market behavior (context only).",
+    "summary": "Aggregated Insight: multiple sources point to the same core development. This is context, not advice.",
+    "key_points": [
+      "Point 1: what changed (neutral)",
+      "Point 2: what to watch (neutral)",
+      "Point 3: cross-market note (neutral)"
+    ],
+    "why_it_matters": "Why it matters: helps assess timing, volatility, and regime (no prediction).",
+    "relevance": "Valid till session close — Developing",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com"
+      }
+    ]
+  }
+]

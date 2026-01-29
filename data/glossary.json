@@ -1,0 +1,58 @@
+[
+  {
+    "term": "Liquidity",
+    "ur": "لیکویڈیٹی",
+    "simple_en": "Ease of buying/selling without big price impact.",
+    "simple_ur": "مارکیٹ میں خرید/فروخت کی گنجائش، بغیر بڑے اثر کے۔",
+    "why_en": "Low liquidity makes moves more risky.",
+    "why_ur": "کم لیکویڈیٹی میں حرکت زیادہ risky ہو جاتی ہے۔"
+  },
+  {
+    "term": "Volatility",
+    "ur": "اتار چڑھاؤ",
+    "simple_en": "How fast and how much price moves.",
+    "simple_ur": "قیمت کتنی تیزی سے اور کتنی زیادہ بدلتی ہے۔",
+    "why_en": "High volatility increases uncertainty.",
+    "why_ur": "زیادہ اتار چڑھاؤ میں غیر یقینی بڑھتی ہے۔"
+  },
+  {
+    "term": "Funding",
+    "ur": "فنڈنگ ریٹ",
+    "simple_en": "Cost between longs/shorts in perpetual futures.",
+    "simple_ur": "پرپیچول فیوچرز میں لانگ/شارٹ کے بیچ ادائیگی کا توازن۔",
+    "why_en": "Extreme funding can signal crowding.",
+    "why_ur": "زیادہ فنڈنگ crowding دکھا سکتی ہے۔"
+  },
+  {
+    "term": "Dominance",
+    "ur": "ڈومینینس",
+    "simple_en": "Market share of an asset (e.g., BTC) vs total.",
+    "simple_ur": "کل مارکیٹ کے مقابلے میں کسی asset کا حصہ۔",
+    "why_en": "Helps read risk-on/off rotation.",
+    "why_ur": "ریسک آن/آف اور روٹیشن سمجھنے میں مدد۔"
+  },
+  {
+    "term": "Narrative Alignment",
+    "ur": "نیریٹو ہم آہنگی",
+    "simple_en": "Whether multiple lenses tell the same story.",
+    "simple_ur": "کیا مختلف عوامل ایک ہی کہانی سنا رہے ہیں؟",
+    "why_en": "Conflicts suggest caution.",
+    "why_ur": "ٹکراؤ احتیاط کا اشارہ ہے۔"
+  },
+  {
+    "term": "Institutional Activity Zones",
+    "ur": "ادارہ جاتی سرگرمی زونز",
+    "simple_en": "Areas where large activity was observed historically.",
+    "simple_ur": "وہ علاقے جہاں ماضی میں بڑی سرگرمی دیکھی گئی۔",
+    "why_en": "Context, not entries.",
+    "why_ur": "یہ تناظر ہے، entry نہیں۔"
+  },
+  {
+    "term": "Stablecoin Dominance",
+    "ur": "اسٹیبل کوائن ڈومینینس",
+    "simple_en": "Share of stablecoins in total market value.",
+    "simple_ur": "کل مارکیٹ میں اسٹیبل کوائنز کا حصہ۔",
+    "why_en": "Rising dominance often indicates caution.",
+    "why_ur": "بڑھتی ڈومینینس عموماً محتاط ماحول دکھاتی ہے۔"
+  }
+]

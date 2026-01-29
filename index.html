@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>News & Market Intelligence Dashboard</title>
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body class="ltr">
+  <header class="app-header">
+    <div class="brand">
+      <button id="brandBtn" class="nm-badge" title="Toggle full name">NM</button>
+      <span id="brandName" class="brand-name hidden">News &amp; Market Intelligence</span>
+    </div>
+
+    <nav class="nav-tabs" aria-label="Primary">
+      <button class="tab active" data-view="home">Home</button>
+      <button class="tab" data-view="macro">Macro</button>
+      <button class="tab" data-view="review">Review</button>
+      <button class="tab" data-view="education">Education</button>
+    </nav>
+
+    <div class="header-tools">
+      <div class="search-wrap">
+        <span class="icon">🔍</span>
+        <input id="globalSearch" type="search" placeholder="Search news / terms" />
+      </div>
+      <button id="langToggle" class="toggle" title="Toggle language">EN | اردو</button>
+    </div>
+  </header>
+
+  <div class="app-shell">
+    <aside class="left-toolbar" aria-label="Tools">
+      <button class="toolbtn active" data-tool="trade" title="Demo Trading">💼</button>
+      <button class="toolbtn" data-tool="rr" title="Risk–Reward">⚖️</button>
+      <button class="toolbtn" data-tool="tf" title="1H / 4H">🕒</button>
+      <button class="toolbtn" data-tool="patterns" title="Patterns (read-only)">🧩</button>
+      <button class="toolbtn" data-tool="movers" title="Session Movers">📈</button>
+      <button class="toolbtn" data-tool="listings" title="Listings & Launch Watch">🚀</button>
+      <button class="toolbtn" data-tool="institutions" title="Institutional Lens">🏦</button>
+    </aside>
+
+    <main class="main">
+      <section class="card" id="sessionsCard">
+        <div class="card-head">
+          <h2>Market Sessions</h2>
+          <button class="ghost" id="sessionsToggle" title="Hide/Show sessions">Hide</button>
+        </div>
+        <div id="sessionsGrid" class="sessions-grid"></div>
+      </section>
+
+      <section class="card" id="keyMarketsCard">
+        <div class="card-head">
+          <h2>Key Markets Snapshot</h2>
+          <button class="ghost" id="keyMarketsToggle" aria-expanded="false">Show</button>
+        </div>
+        <div id="keyMarketsBody" class="hidden"></div>
+      </section>
+
+      <section class="card" id="overviewCard">
+        <div class="card-head">
+          <h2>Market Overview</h2>
+        </div>
+        <div id="overviewBody" class="overview-grid"></div>
+      </section>
+
+      <section class="card" id="newsCard">
+        <div class="card-head">
+          <h2>News Intelligence</h2>
+          <div class="news-head-tools">
+            <label class="mini">
+              <span>Calendar</span>
+              <input id="newsDate" type="date" />
+            </label>
+          </div>
+        </div>
+
+        <div id="newsList" class="news-list"></div>
+
+        <div class="news-footer">
+          <div id="newsMeta" class="muted"></div>
+          <div id="pagination" class="pagination"></div>
+        </div>
+      </section>
+
+      <section class="card hidden" id="macroView">
+        <div class="card-head"><h2>Macro & Economic Events</h2></div>
+        <div id="macroBody" class="macro-grid"></div>
+      </section>
+
+      <section class="card hidden" id="reviewView">
+        <div class="card-head"><h2>Review</h2></div>
+        <div id="reviewBody"></div>
+      </section>
+
+      <section class="card hidden" id="educationView">
+        <div class="card-head"><h2>Education</h2></div>
+        <div id="educationBody"></div>
+      </section>
+    </main>
+
+    <aside class="right-sidebar" aria-label="Context">
+      <div class="sidebar-icons">
+        <button class="sideicon active" data-panel="watchlistPanel" title="Watchlist">⭐</button>
+        <button class="sideicon" data-panel="contextPanel" title="Context Stack">🧠</button>
+        <button class="sideicon" data-panel="marketMapPanel" title="Market Map Tools">🗺️</button>
+        <button class="sideicon" data-panel="helpPanel" title="Help / Glossary">❓</button>
+      </div>
+
+      <div class="sidebar-panels">
+        <section id="watchlistPanel" class="panel">
+          <div class="panel-head">
+            <h3>Watchlist</h3>
+            <button class="ghost small" data-collapse="watchlistBody" aria-expanded="true">Collapse</button>
+          </div>
+          <div id="watchlistBody">
+            <div class="row">
+              <input id="watchSearch" type="search" placeholder="Search & add (demo)" />
+              <button id="addWatch" class="btn small">Add</button>
+            </div>
+
+            <details id="favDrop" open>
+              <summary>Favorites / Followed</summary>
+              <div id="favoritesList" class="list"></div>
+            </details>
+
+            <div class="panel-subhead">Active List</div>
+            <div id="watchlistList" class="list"></div>
+          </div>
+        </section>
+
+        <section id="contextPanel" class="panel hidden">
+          <div class="panel-head">
+            <h3>Context Stack</h3>
+            <button class="ghost small" data-collapse="contextBody" aria-expanded="true">Collapse</button>
+          </div>
+          <div id="contextBody" class="stack"></div>
+        </section>
+
+        <section id="marketMapPanel" class="panel hidden">
+          <div class="panel-head">
+            <h3>Market Map</h3>
+            <button class="ghost small" data-collapse="marketMapBody" aria-expanded="false">Show</button>
+          </div>
+          <div id="marketMapBody" class="hidden">
+            <div class="tabs mini-tabs">
+              <button class="mini-tab active" data-mmtab="heatmap">Heatmap</button>
+              <button class="mini-tab" data-mmtab="bubbles">Bubbles</button>
+              <button class="mini-tab" data-mmtab="movers">Gainers/Losers</button>
+            </div>
+            <div id="marketMapContent" class="mmt-content"></div>
+            <div class="divider"></div>
+            <div id="decisionReadinessGuard" class="guard hidden" role="status"></div>
+          </div>
+        </section>
+
+        <section id="helpPanel" class="panel hidden">
+          <div class="panel-head">
+            <h3>Glossary</h3>
+            <button class="ghost small" data-collapse="helpBody" aria-expanded="true">Collapse</button>
+          </div>
+          <div id="helpBody">
+            <input id="glossarySearch" type="search" placeholder="Search terms" />
+            <div id="glossaryList" class="list"></div>
+          </div>
+        </section>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="app-footer">
+    <div class="footer-left">
+      <div><strong>Developed by:</strong> Shahzad Ul Hassan</div>
+      <div><strong>First released:</strong> 2026</div>
+    </div>
+    <div class="footer-right muted">
+      Decision Intelligence System — Not Trading Advice
+    </div>
+  </footer>
+
+  <div id="tooltip" class="tooltip hidden" role="tooltip"></div>
+
+  <script src="./js/core.js"></script>
+  <script src="./js/news.js"></script>
+  <script src="./js/context.js"></script>
+  <script src="./js/alerts.js"></script>
+</body>
+</html>

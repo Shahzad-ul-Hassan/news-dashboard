@@ -1,0 +1,42 @@
+[
+  {
+    "id": "asia",
+    "label": "Japan / Asia",
+    "emoji": "🇯🇵",
+    "tz": "Asia/Tokyo",
+    "open": "09:00",
+    "close": "18:00",
+    "volatility": "Low",
+    "focus": "Macro / Equities"
+  },
+  {
+    "id": "london",
+    "label": "UK / London",
+    "emoji": "🇬🇧",
+    "tz": "Europe/London",
+    "open": "08:00",
+    "close": "17:00",
+    "volatility": "Medium",
+    "focus": "FX / Equities / Metals"
+  },
+  {
+    "id": "ny",
+    "label": "USA / New York",
+    "emoji": "🗽",
+    "tz": "America/New_York",
+    "open": "09:30",
+    "close": "16:00",
+    "volatility": "High",
+    "focus": "US Data / Wall St / Crypto ETFs"
+  },
+  {
+    "id": "crypto",
+    "label": "Crypto / Global",
+    "emoji": "₿",
+    "tz": "UTC",
+    "open": "00:00",
+    "close": "23:59",
+    "volatility": "Medium",
+    "focus": "24/7 Liquidity"
+  }
+]

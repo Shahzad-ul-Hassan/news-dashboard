@@ -1,0 +1,12 @@
+DEPLOYMENT CHECKLIST (GitHub Pages)
+
+Repo root must contain:
+- index.html
+- css/style.css
+- js/core.js, js/news.js, js/context.js, js/alerts.js
+- data/*.json
+
+If you see 404 or blank:
+- Pages must be main + /(root)
+- Make sure you didn't upload inside an extra nested folder
+- Clear cache or use Incognito
